@@ -11,7 +11,8 @@ const sidebars = {
       items: [
         'introduction/about',
         'introduction/core-concepts',
-        'introduction/roadmap'
+        'introduction/roadmap',
+        'test-folder/docs/index',
       ]
     },
 
