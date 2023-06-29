@@ -16,7 +16,7 @@ Variable Subscription`Const`
 
 Subscription: [SubscriptionResolvers](../types/types_generatedGraphQLTypes.SubscriptionResolvers.html) = ...
 
-*   Defined in [src/resolvers/Subscription/index.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Subscription/index.ts#L6)
+*   Defined in [src/resolvers/Subscription/index.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Subscription/index.ts#L6)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/Query/tasksByUser | talawa-apidocument.documentElement.dataset.theme =
 Module resolvers/Query/tasksByUser
 ==================================
 
-*   Defined in [src/resolvers/Query/tasksByUser.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/tasksByUser.ts#L1)
+*   Defined in [src/resolvers/Query/tasksByUser.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/tasksByUser.ts#L1)
 
 ### Index
 

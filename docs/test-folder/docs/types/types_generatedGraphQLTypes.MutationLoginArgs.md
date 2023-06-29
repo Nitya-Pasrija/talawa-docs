@@ -23,7 +23,7 @@ MutationLoginArgs: {
 *   ##### data: [LoginInput](types_generatedGraphQLTypes.LoginInput.html)
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:620](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L620)
+*   Defined in [src/types/generatedGraphQLTypes.ts:620](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L620)
 
 ### Settings
 

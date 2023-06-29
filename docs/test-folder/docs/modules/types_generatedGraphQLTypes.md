@@ -13,7 +13,7 @@ types/generatedGraphQLTypes | talawa-apidocument.documentElement.dataset.theme =
 Module types/generatedGraphQLTypes
 ==================================
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1)
 
 ### Index
 

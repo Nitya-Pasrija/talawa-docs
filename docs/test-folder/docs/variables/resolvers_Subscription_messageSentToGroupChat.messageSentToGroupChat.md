@@ -22,7 +22,7 @@ This property included a `subscribe` method, which is used to subscribe the `cur
 
 To control updates on a per-client basis, the function uses the `withFilter` method imported from `apollo-server-express` module. You can learn about `subscription` [here](https://www.apollographql.com/docs/apollo-server/data/subscriptions/).
 
-*   Defined in [src/resolvers/Subscription/messageSentToGroupChat.ts:35](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Subscription/messageSentToGroupChat.ts#L35)
+*   Defined in [src/resolvers/Subscription/messageSentToGroupChat.ts:35](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Subscription/messageSentToGroupChat.ts#L35)
 
 ### Settings
 

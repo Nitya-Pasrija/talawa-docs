@@ -42,7 +42,7 @@ The following checks are done:
 
 Post without the like
 
-*   Defined in [src/resolvers/Mutation/likeComment.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/likeComment.ts#L16)
+*   Defined in [src/resolvers/Mutation/likeComment.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/likeComment.ts#L16)
 
 ### Settings
 

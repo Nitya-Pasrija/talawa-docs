@@ -29,7 +29,7 @@ USER\_REMOVING\_SELF: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:149](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L149)
+*   Defined in [src/constants.ts:149](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L149)
 
 ### Settings
 

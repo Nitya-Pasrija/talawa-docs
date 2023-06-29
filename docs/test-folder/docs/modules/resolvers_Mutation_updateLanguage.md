@@ -13,7 +13,7 @@ resolvers/Mutation/updateLanguage | talawa-apidocument.documentElement.dataset.t
 Module resolvers/Mutation/updateLanguage
 ========================================
 
-*   Defined in [src/resolvers/Mutation/updateLanguage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updateLanguage.ts#L1)
+*   Defined in [src/resolvers/Mutation/updateLanguage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updateLanguage.ts#L1)
 
 ### Index
 

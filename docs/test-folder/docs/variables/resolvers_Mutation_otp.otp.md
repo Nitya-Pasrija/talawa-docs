@@ -36,7 +36,7 @@ The following checks are done:
 
 Email to the user with the otp.
 
-*   Defined in [src/resolvers/Mutation/otp.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/otp.ts#L16)
+*   Defined in [src/resolvers/Mutation/otp.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/otp.ts#L16)
 
 ### Settings
 

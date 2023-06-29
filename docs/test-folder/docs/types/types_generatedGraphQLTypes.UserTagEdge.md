@@ -29,7 +29,7 @@ UserTagEdge: {
 *   ##### node: [UserTag](types_generatedGraphQLTypes.UserTag.html)
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1500](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1500)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1500](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1500)
 
 ### Settings
 

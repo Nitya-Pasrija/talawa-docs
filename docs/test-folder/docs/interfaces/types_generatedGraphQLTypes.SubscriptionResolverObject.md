@@ -29,7 +29,7 @@ Interface SubscriptionResolverObject<TResult, TParent, TContext, TArgs>
 
 *   SubscriptionResolverObject
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1601](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1601)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1601](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1601)
 
 ##### Index
 
@@ -44,13 +44,13 @@ Properties
 
 resolve: [SubscriptionResolveFn](../types/types_generatedGraphQLTypes.SubscriptionResolveFn.html)<TResult, any, TContext, TArgs\>
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1603](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1603)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1603](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1603)
 
 ### subscribe[](#subscribe)
 
 subscribe: [SubscriptionSubscribeFn](../types/types_generatedGraphQLTypes.SubscriptionSubscribeFn.html)<any, TParent, TContext, TArgs\>
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1602](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1602)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1602](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1602)
 
 ### Settings
 

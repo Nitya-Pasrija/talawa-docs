@@ -13,7 +13,7 @@ resolvers/Mutation/createMessageChat | talawa-apidocument.documentElement.datase
 Module resolvers/Mutation/createMessageChat
 ===========================================
 
-*   Defined in [src/resolvers/Mutation/createMessageChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createMessageChat.ts#L1)
+*   Defined in [src/resolvers/Mutation/createMessageChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createMessageChat.ts#L1)
 
 ### Index
 

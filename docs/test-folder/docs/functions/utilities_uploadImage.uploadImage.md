@@ -42,7 +42,7 @@ Function uploadImage
     
     This is a utility method.
     
-    *   Defined in [src/utilities/uploadImage.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/uploadImage.ts#L16)
+    *   Defined in [src/utilities/uploadImage.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/uploadImage.ts#L16)
     
 
 ### Settings

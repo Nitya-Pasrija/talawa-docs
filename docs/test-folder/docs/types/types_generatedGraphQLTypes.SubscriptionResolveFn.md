@@ -44,7 +44,7 @@ SubscriptionResolveFn<TResult, TParent, TContext, TArgs\>: ((parent, args, conte
         #### Returns TResult | Promise<TResult\>
         
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1589](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1589)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1589](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1589)
 
 ### Settings
 

@@ -22,7 +22,7 @@ This function returns list of plugins from the database.
 
 An object that contains a list of plugins.
 
-*   Defined in [src/resolvers/Query/getPlugins.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/getPlugins.ts#L8)
+*   Defined in [src/resolvers/Query/getPlugins.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/getPlugins.ts#L8)
 
 ### Settings
 

@@ -21,7 +21,7 @@ InputMaybe<T\>: [Maybe](types_generatedGraphQLTypes.Maybe.html)<T\>
 *   #### T
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L22)
+*   Defined in [src/types/generatedGraphQLTypes.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L22)
 
 ### Settings
 

@@ -41,7 +41,7 @@ The following checks are done:
 
 Deleted updated user
 
-*   Defined in [src/resolvers/Mutation/blockPluginCreationBySuperadmin.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/blockPluginCreationBySuperadmin.ts#L16)
+*   Defined in [src/resolvers/Mutation/blockPluginCreationBySuperadmin.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/blockPluginCreationBySuperadmin.ts#L16)
 
 ### Settings
 

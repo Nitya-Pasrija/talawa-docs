@@ -13,7 +13,7 @@ typeDefs/unions | talawa-apidocument.documentElement.dataset.theme = localStorag
 Module typeDefs/unions
 ======================
 
-*   Defined in [src/typeDefs/unions.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/unions.ts#L1)
+*   Defined in [src/typeDefs/unions.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/unions.ts#L1)
 
 ### Index
 

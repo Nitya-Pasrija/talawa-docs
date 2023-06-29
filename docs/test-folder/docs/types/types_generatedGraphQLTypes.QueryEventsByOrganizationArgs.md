@@ -26,7 +26,7 @@ QueryEventsByOrganizationArgs: {
 *   ##### `Optional` orderBy?: [InputMaybe](types_generatedGraphQLTypes.InputMaybe.html)<[EventOrderByInput](types_generatedGraphQLTypes.EventOrderByInput.html)\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1129](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1129)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1129](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1129)
 
 ### Settings
 

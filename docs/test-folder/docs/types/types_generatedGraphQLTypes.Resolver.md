@@ -27,7 +27,7 @@ Resolver<TResult, TParent, TContext, TArgs\>: [ResolverFn](types_generatedGraphQ
 *   #### TArgs = {}
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1573](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1573)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1573](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1573)
 
 ### Settings
 

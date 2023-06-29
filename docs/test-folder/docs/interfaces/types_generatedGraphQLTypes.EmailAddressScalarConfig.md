@@ -19,7 +19,7 @@ Interface EmailAddressScalarConfig
 *   GraphQLScalarTypeConfig<[ResolversTypes](../types/types_generatedGraphQLTypes.ResolversTypes.html)\["EmailAddress"\], any\>
     *   EmailAddressScalarConfig
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1927](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1927)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1927](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1927)
 
 ##### Index
 
@@ -68,7 +68,7 @@ name: "EmailAddress"
 
 Overrides GraphQLScalarTypeConfig.name
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1928](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1928)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1928](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1928)
 
 ### `Optional` parseLiteral[](#parseLiteral)
 

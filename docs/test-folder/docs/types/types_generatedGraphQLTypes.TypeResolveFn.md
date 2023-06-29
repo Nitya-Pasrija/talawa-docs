@@ -40,7 +40,7 @@ TypeResolveFn<TTypes, TParent, TContext\>: ((parent, context, info?) => [Maybe](
         #### Returns [Maybe](types_generatedGraphQLTypes.Maybe.html)<TTypes\> | Promise<[Maybe](types_generatedGraphQLTypes.Maybe.html)<TTypes\>\>
         
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1614](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1614)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1614](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1614)
 
 ### Settings
 

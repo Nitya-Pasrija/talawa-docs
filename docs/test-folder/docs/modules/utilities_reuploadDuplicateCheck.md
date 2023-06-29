@@ -13,7 +13,7 @@ utilities/reuploadDuplicateCheck | talawa-apidocument.documentElement.dataset.th
 Module utilities/reuploadDuplicateCheck
 =======================================
 
-*   Defined in [src/utilities/reuploadDuplicateCheck.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/reuploadDuplicateCheck.ts#L1)
+*   Defined in [src/utilities/reuploadDuplicateCheck.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/reuploadDuplicateCheck.ts#L1)
 
 ### Index
 

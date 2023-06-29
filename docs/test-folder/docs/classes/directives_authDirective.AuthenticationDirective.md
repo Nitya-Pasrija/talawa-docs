@@ -19,7 +19,7 @@ Class AuthenticationDirective
 *   SchemaDirectiveVisitor
     *   AuthenticationDirective
 
-*   Defined in [src/directives/authDirective.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/directives/authDirective.ts#L6)
+*   Defined in [src/directives/authDirective.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/directives/authDirective.ts#L6)
 
 ##### Index
 
@@ -229,7 +229,7 @@ Methods
     
     Overrides SchemaDirectiveVisitor.visitFieldDefinition
     
-    *   Defined in [src/directives/authDirective.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/directives/authDirective.ts#L13)
+    *   Defined in [src/directives/authDirective.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/directives/authDirective.ts#L13)
     
 
 ### visitInputFieldDefinition[](#visitInputFieldDefinition)

@@ -13,7 +13,7 @@ resolvers/Mutation/leaveOrganization | talawa-apidocument.documentElement.datase
 Module resolvers/Mutation/leaveOrganization
 ===========================================
 
-*   Defined in [src/resolvers/Mutation/leaveOrganization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/leaveOrganization.ts#L1)
+*   Defined in [src/resolvers/Mutation/leaveOrganization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/leaveOrganization.ts#L1)
 
 ### Index
 

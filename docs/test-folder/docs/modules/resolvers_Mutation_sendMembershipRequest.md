@@ -13,7 +13,7 @@ resolvers/Mutation/sendMembershipRequest | talawa-apidocument.documentElement.da
 Module resolvers/Mutation/sendMembershipRequest
 ===============================================
 
-*   Defined in [src/resolvers/Mutation/sendMembershipRequest.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/sendMembershipRequest.ts#L1)
+*   Defined in [src/resolvers/Mutation/sendMembershipRequest.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/sendMembershipRequest.ts#L1)
 
 ### Index
 

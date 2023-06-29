@@ -13,7 +13,7 @@ db | talawa-apidocument.documentElement.dataset.theme = localStorage.getItem("ts
 Module db
 =========
 
-*   Defined in [src/db.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/db.ts#L1)
+*   Defined in [src/db.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/db.ts#L1)
 
 ### Index
 

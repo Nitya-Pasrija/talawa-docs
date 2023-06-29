@@ -27,7 +27,7 @@ Function getRequestContextValue
     
     #### Returns T
     
-    *   Defined in [src/libraries/requestContext.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/requestContext.ts#L18)
+    *   Defined in [src/libraries/requestContext.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/requestContext.ts#L18)
     
 
 ### Settings

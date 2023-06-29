@@ -16,7 +16,7 @@ Type alias Recurrance
 
 Recurrance: "DAILY" | "MONTHLY" | "ONCE" | "WEEKLY" | "YEARLY"
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1274](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1274)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1274](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1274)
 
 ### Settings
 

@@ -20,7 +20,7 @@ This is an interface that represents a database document.
 
 *   InterfaceLanguageModel
 
-*   Defined in [src/models/Language.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L6)
+*   Defined in [src/models/Language.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L6)
 
 ##### Index
 
@@ -35,25 +35,25 @@ Properties
 
 createdAt: Date
 
-*   Defined in [src/models/Language.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L10)
+*   Defined in [src/models/Language.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L10)
 
 ### lang\_code[](#lang_code)
 
 lang\_code: string
 
-*   Defined in [src/models/Language.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L7)
+*   Defined in [src/models/Language.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L7)
 
 ### value[](#value)
 
 value: string
 
-*   Defined in [src/models/Language.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L8)
+*   Defined in [src/models/Language.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L8)
 
 ### verified[](#verified)
 
 verified: boolean
 
-*   Defined in [src/models/Language.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L9)
+*   Defined in [src/models/Language.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L9)
 
 ### Settings
 

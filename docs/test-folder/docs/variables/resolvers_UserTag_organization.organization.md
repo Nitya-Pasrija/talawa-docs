@@ -16,7 +16,7 @@ Variable organization`Const`
 
 organization: [UserTagResolvers](../types/types_generatedGraphQLTypes.UserTagResolvers.html)\["organization"\] = ...
 
-*   Defined in [src/resolvers/UserTag/organization.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/UserTag/organization.ts#L4)
+*   Defined in [src/resolvers/UserTag/organization.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/UserTag/organization.ts#L4)
 
 ### Settings
 

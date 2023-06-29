@@ -13,7 +13,7 @@ resolvers/Mutation/removeTask | talawa-apidocument.documentElement.dataset.theme
 Module resolvers/Mutation/removeTask
 ====================================
 
-*   Defined in [src/resolvers/Mutation/removeTask.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeTask.ts#L1)
+*   Defined in [src/resolvers/Mutation/removeTask.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeTask.ts#L1)
 
 ### Index
 

@@ -20,7 +20,7 @@ Group: Model<[InterfaceGroup](../interfaces/models_Group.InterfaceGroup.html), {
 
 #### Type declaration
 
-*   Defined in [src/models/Group.ts:61](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Group.ts#L61)
+*   Defined in [src/models/Group.ts:61](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Group.ts#L61)
 
 ### Settings
 

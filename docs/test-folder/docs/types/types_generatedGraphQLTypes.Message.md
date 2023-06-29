@@ -41,7 +41,7 @@ Message: {
 *   ##### `Optional` videoUrl?: [Maybe](types_generatedGraphQLTypes.Maybe.html)<[Scalars](types_generatedGraphQLTypes.Scalars.html)\["URL"\]\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:343](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L343)
+*   Defined in [src/types/generatedGraphQLTypes.ts:343](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L343)
 
 ### Settings
 

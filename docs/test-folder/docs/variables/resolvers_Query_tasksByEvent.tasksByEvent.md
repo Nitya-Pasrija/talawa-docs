@@ -32,7 +32,7 @@ An object that contains list of the tasks.
 
 The query function uses `getSort()` function to sort the data in specified.
 
-*   Defined in [src/resolvers/Query/tasksByEvent.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/tasksByEvent.ts#L11)
+*   Defined in [src/resolvers/Query/tasksByEvent.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/tasksByEvent.ts#L11)
 
 ### Settings
 

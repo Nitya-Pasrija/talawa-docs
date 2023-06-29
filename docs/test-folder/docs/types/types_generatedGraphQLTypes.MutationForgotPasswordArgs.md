@@ -23,7 +23,7 @@ MutationForgotPasswordArgs: {
 *   ##### data: [ForgotPasswordData](types_generatedGraphQLTypes.ForgotPasswordData.html)
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:595](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L595)
+*   Defined in [src/types/generatedGraphQLTypes.ts:595](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L595)
 
 ### Settings
 

@@ -13,7 +13,7 @@ constants | talawa-apidocument.documentElement.dataset.theme = localStorage.getI
 Module constants
 ================
 
-*   Defined in [src/constants.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L1)
+*   Defined in [src/constants.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L1)
 
 ### Index
 

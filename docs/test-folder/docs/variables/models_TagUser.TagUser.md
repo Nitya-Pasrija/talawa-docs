@@ -20,7 +20,7 @@ TagUser: Model<[InterfaceTagUser](../interfaces/models_TagUser.InterfaceTagUser.
 
 #### Type declaration
 
-*   Defined in [src/models/TagUser.ts:32](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/TagUser.ts#L32)
+*   Defined in [src/models/TagUser.ts:32](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/TagUser.ts#L32)
 
 ### Settings
 

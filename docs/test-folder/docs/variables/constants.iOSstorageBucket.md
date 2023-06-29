@@ -16,7 +16,7 @@ Variable iOSstorageBucket`Const`
 
 iOSstorageBucket: undefined | string = ENV.iOSstorageBucket
 
-*   Defined in [src/constants.ts:343](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L343)
+*   Defined in [src/constants.ts:343](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L343)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/Comment/creator | talawa-apidocument.documentElement.dataset.theme = l
 Module resolvers/Comment/creator
 ================================
 
-*   Defined in [src/resolvers/Comment/creator.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Comment/creator.ts#L1)
+*   Defined in [src/resolvers/Comment/creator.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Comment/creator.ts#L1)
 
 ### Index
 

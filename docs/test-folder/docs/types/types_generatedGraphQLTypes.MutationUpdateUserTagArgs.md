@@ -23,7 +23,7 @@ MutationUpdateUserTagArgs: {
 *   ##### input: [UpdateUserTagInput](types_generatedGraphQLTypes.UpdateUserTagInput.html)
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:834](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L834)
+*   Defined in [src/types/generatedGraphQLTypes.ts:834](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L834)
 
 ### Settings
 

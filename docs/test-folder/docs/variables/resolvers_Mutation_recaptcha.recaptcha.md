@@ -30,7 +30,7 @@ payload provided with the request
 
 Response of the post request.
 
-*   Defined in [src/resolvers/Mutation/recaptcha.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/recaptcha.ts#L10)
+*   Defined in [src/resolvers/Mutation/recaptcha.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/recaptcha.ts#L10)
 
 ### Settings
 

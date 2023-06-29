@@ -13,7 +13,7 @@ resolvers/Post/creator | talawa-apidocument.documentElement.dataset.theme = loca
 Module resolvers/Post/creator
 =============================
 
-*   Defined in [src/resolvers/Post/creator.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Post/creator.ts#L1)
+*   Defined in [src/resolvers/Post/creator.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Post/creator.ts#L1)
 
 ### Index
 

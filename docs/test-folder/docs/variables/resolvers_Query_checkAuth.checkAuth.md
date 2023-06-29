@@ -38,7 +38,7 @@ An `object` that contains user data.
 
 You can learn about GraphQL `Resolvers` [here](https://www.apollographql.com/docs/apollo-server/data/resolvers/).
 
-*   Defined in [src/resolvers/Query/checkAuth.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/checkAuth.ts#L13)
+*   Defined in [src/resolvers/Query/checkAuth.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/checkAuth.ts#L13)
 
 ### Settings
 

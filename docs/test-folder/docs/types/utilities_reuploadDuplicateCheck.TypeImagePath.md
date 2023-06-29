@@ -16,7 +16,7 @@ Type alias TypeImagePath
 
 TypeImagePath: string | InterfaceUrlRequestObject | InterfaceBufferObject
 
-*   Defined in [src/utilities/reuploadDuplicateCheck.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/reuploadDuplicateCheck.ts#L15)
+*   Defined in [src/utilities/reuploadDuplicateCheck.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/reuploadDuplicateCheck.ts#L15)
 
 ### Settings
 

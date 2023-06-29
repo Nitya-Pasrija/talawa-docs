@@ -32,7 +32,7 @@ REGISTRANT\_ALREADY\_EXIST\_ERROR: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:82](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L82)
+*   Defined in [src/constants.ts:82](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L82)
 
 ### Settings
 

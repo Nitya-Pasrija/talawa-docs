@@ -13,7 +13,7 @@ models/Comment | talawa-apidocument.documentElement.dataset.theme = localStorage
 Module models/Comment
 =====================
 
-*   Defined in [src/models/Comment.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L1)
+*   Defined in [src/models/Comment.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L1)
 
 ### Index
 

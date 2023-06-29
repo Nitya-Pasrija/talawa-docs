@@ -13,7 +13,7 @@ utilities/loadSampleData | talawa-apidocument.documentElement.dataset.theme = lo
 Module utilities/loadSampleData
 ===============================
 
-*   Defined in [src/utilities/loadSampleData.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/loadSampleData.ts#L1)
+*   Defined in [src/utilities/loadSampleData.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/loadSampleData.ts#L1)
 
 ### Settings
 

@@ -29,7 +29,7 @@ UpdateUserPasswordInput: {
 *   ##### previousPassword: [Scalars](types_generatedGraphQLTypes.Scalars.html)\["String"\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1376](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1376)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1376](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1376)
 
 ### Settings
 

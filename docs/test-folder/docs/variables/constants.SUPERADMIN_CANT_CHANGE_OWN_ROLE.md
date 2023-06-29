@@ -29,7 +29,7 @@ SUPERADMIN\_CANT\_CHANGE\_OWN\_ROLE: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:274](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L274)
+*   Defined in [src/constants.ts:274](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L274)
 
 ### Settings
 

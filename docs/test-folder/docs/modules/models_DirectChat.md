@@ -13,7 +13,7 @@ models/DirectChat | talawa-apidocument.documentElement.dataset.theme = localStor
 Module models/DirectChat
 ========================
 
-*   Defined in [src/models/DirectChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChat.ts#L1)
+*   Defined in [src/models/DirectChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChat.ts#L1)
 
 ### Index
 

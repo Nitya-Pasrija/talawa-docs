@@ -16,7 +16,7 @@ Variable tracingIdHeaderName`Const`
 
 tracingIdHeaderName: "X-Tracing-Id" = "X-Tracing-Id"
 
-*   Defined in [src/libraries/requestTracing.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/requestTracing.ts#L21)
+*   Defined in [src/libraries/requestTracing.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/requestTracing.ts#L21)
 
 ### Settings
 

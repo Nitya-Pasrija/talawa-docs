@@ -28,7 +28,7 @@ An object that contains `id` of the user and `orderBy`.
 
 An object that contains the list of all the task created by the user.
 
-*   Defined in [src/resolvers/Query/tasksByUser.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/tasksByUser.ts#L10)
+*   Defined in [src/resolvers/Query/tasksByUser.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/tasksByUser.ts#L10)
 
 ### Settings
 

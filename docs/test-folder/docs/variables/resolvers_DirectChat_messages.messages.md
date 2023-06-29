@@ -26,7 +26,7 @@ An object that is the return value of the resolver for this field's parent.
 
 An `object` that contains the list of messages.
 
-*   Defined in [src/resolvers/DirectChat/messages.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/DirectChat/messages.ts#L8)
+*   Defined in [src/resolvers/DirectChat/messages.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/DirectChat/messages.ts#L8)
 
 ### Settings
 

@@ -26,7 +26,7 @@ An object that is the return value of the resolver for this field's parent.
 
 An object that contains the creator data. If the creator not exists then throws an `NotFoundError` error.
 
-*   Defined in [src/resolvers/Organization/creator.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/creator.ts#L10)
+*   Defined in [src/resolvers/Organization/creator.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/creator.ts#L10)
 
 ### Settings
 

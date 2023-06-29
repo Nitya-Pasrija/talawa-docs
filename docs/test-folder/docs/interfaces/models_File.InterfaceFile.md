@@ -20,7 +20,7 @@ This is an interface representing a document for a file in the database(MongoDB)
 
 *   InterfaceFile
 
-*   Defined in [src/models/File.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/File.ts#L7)
+*   Defined in [src/models/File.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/File.ts#L7)
 
 ##### Index
 
@@ -35,49 +35,49 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/File.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/File.ts#L8)
+*   Defined in [src/models/File.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/File.ts#L8)
 
 ### contentType[](#contentType)
 
 contentType: undefined | string
 
-*   Defined in [src/models/File.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/File.ts#L14)
+*   Defined in [src/models/File.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/File.ts#L14)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/File.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/File.ts#L13)
+*   Defined in [src/models/File.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/File.ts#L13)
 
 ### name[](#name)
 
 name: string
 
-*   Defined in [src/models/File.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/File.ts#L9)
+*   Defined in [src/models/File.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/File.ts#L9)
 
 ### secret[](#secret)
 
 secret: string
 
-*   Defined in [src/models/File.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/File.ts#L12)
+*   Defined in [src/models/File.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/File.ts#L12)
 
 ### size[](#size)
 
 size: undefined | number
 
-*   Defined in [src/models/File.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/File.ts#L11)
+*   Defined in [src/models/File.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/File.ts#L11)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/File.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/File.ts#L15)
+*   Defined in [src/models/File.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/File.ts#L15)
 
 ### url[](#url)
 
 url: undefined | string
 
-*   Defined in [src/models/File.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/File.ts#L10)
+*   Defined in [src/models/File.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/File.ts#L10)
 
 ### Settings
 

@@ -16,7 +16,7 @@ Variable storageBucket`Const`
 
 storageBucket: undefined | string = ENV.storageBucket
 
-*   Defined in [src/constants.ts:333](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L333)
+*   Defined in [src/constants.ts:333](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L333)
 
 ### Settings
 

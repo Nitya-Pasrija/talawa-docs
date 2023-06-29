@@ -13,7 +13,7 @@ resolvers/Mutation/updateUserTag | talawa-apidocument.documentElement.dataset.th
 Module resolvers/Mutation/updateUserTag
 =======================================
 
-*   Defined in [src/resolvers/Mutation/updateUserTag.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updateUserTag.ts#L1)
+*   Defined in [src/resolvers/Mutation/updateUserTag.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updateUserTag.ts#L1)
 
 ### Index
 

@@ -28,7 +28,7 @@ An object that contains `orderBy` to sort the object as specified and `id` of th
 
 An `events` object that holds all events with `ACTIVE` status for the Organization.
 
-*   Defined in [src/resolvers/Query/eventsByOrganization.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/eventsByOrganization.ts#L12)
+*   Defined in [src/resolvers/Query/eventsByOrganization.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/eventsByOrganization.ts#L12)
 
 ### Settings
 

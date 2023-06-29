@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Group Chat
 
 *   InterfaceGroupChatMessage
 
-*   Defined in [src/models/GroupChatMessage.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChatMessage.ts#L8)
+*   Defined in [src/models/GroupChatMessage.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChatMessage.ts#L8)
 
 ##### Index
 
@@ -35,37 +35,37 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/GroupChatMessage.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChatMessage.ts#L9)
+*   Defined in [src/models/GroupChatMessage.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChatMessage.ts#L9)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/GroupChatMessage.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChatMessage.ts#L12)
+*   Defined in [src/models/GroupChatMessage.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChatMessage.ts#L12)
 
 ### groupChatMessageBelongsTo[](#groupChatMessageBelongsTo)
 
 groupChatMessageBelongsTo: any
 
-*   Defined in [src/models/GroupChatMessage.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChatMessage.ts#L10)
+*   Defined in [src/models/GroupChatMessage.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChatMessage.ts#L10)
 
 ### messageContent[](#messageContent)
 
 messageContent: string
 
-*   Defined in [src/models/GroupChatMessage.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChatMessage.ts#L13)
+*   Defined in [src/models/GroupChatMessage.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChatMessage.ts#L13)
 
 ### sender[](#sender)
 
 sender: any
 
-*   Defined in [src/models/GroupChatMessage.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChatMessage.ts#L11)
+*   Defined in [src/models/GroupChatMessage.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChatMessage.ts#L11)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/GroupChatMessage.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChatMessage.ts#L14)
+*   Defined in [src/models/GroupChatMessage.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChatMessage.ts#L14)
 
 ### Settings
 

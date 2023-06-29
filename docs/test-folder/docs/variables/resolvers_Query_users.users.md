@@ -34,7 +34,7 @@ An object that contains the list of all the users.
 
 The query function uses `getSort()` function to sort the data in specified.
 
-*   Defined in [src/resolvers/Query/users.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/users.ts#L17)
+*   Defined in [src/resolvers/Query/users.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/users.ts#L17)
 
 ### Settings
 

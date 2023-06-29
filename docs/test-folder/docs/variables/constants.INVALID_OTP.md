@@ -16,7 +16,7 @@ Variable INVALID\_OTP`Const`
 
 INVALID\_OTP: "Invalid OTP" = "Invalid OTP"
 
-*   Defined in [src/constants.ts:34](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L34)
+*   Defined in [src/constants.ts:34](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L34)
 
 ### Settings
 

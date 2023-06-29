@@ -20,7 +20,7 @@ Comment: Model<[InterfaceComment](../interfaces/models_Comment.InterfaceComment.
 
 #### Type declaration
 
-*   Defined in [src/models/Comment.ts:69](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L69)
+*   Defined in [src/models/Comment.ts:69](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L69)
 
 ### Settings
 

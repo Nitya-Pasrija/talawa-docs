@@ -16,7 +16,7 @@ Variable Organization`Const`
 
 Organization: [OrganizationResolvers](../types/types_generatedGraphQLTypes.OrganizationResolvers.html) = ...
 
-*   Defined in [src/resolvers/Organization/index.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/index.ts#L11)
+*   Defined in [src/resolvers/Organization/index.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/index.ts#L11)
 
 ### Settings
 

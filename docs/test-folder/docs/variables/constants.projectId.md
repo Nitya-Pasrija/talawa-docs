@@ -16,7 +16,7 @@ Variable projectId`Const`
 
 projectId: undefined | string = ENV.projectId
 
-*   Defined in [src/constants.ts:331](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L331)
+*   Defined in [src/constants.ts:331](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L331)
 
 ### Settings
 

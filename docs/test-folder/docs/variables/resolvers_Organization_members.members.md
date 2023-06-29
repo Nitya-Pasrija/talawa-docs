@@ -26,7 +26,7 @@ An object that is the return value of the resolver for this field's parent.
 
 An object that contains the list of all members of the organization.
 
-*   Defined in [src/resolvers/Organization/members.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/members.ts#L9)
+*   Defined in [src/resolvers/Organization/members.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/members.ts#L9)
 
 ### Settings
 

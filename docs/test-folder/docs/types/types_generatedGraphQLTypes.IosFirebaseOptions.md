@@ -44,7 +44,7 @@ IosFirebaseOptions: {
 *   ##### `Optional` storageBucket?: [Maybe](types_generatedGraphQLTypes.Maybe.html)<[Scalars](types_generatedGraphQLTypes.Scalars.html)\["String"\]\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:297](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L297)
+*   Defined in [src/types/generatedGraphQLTypes.ts:297](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L297)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/Query/isUserRegister | talawa-apidocument.documentElement.dataset.them
 Module resolvers/Query/isUserRegister
 =====================================
 
-*   Defined in [src/resolvers/Query/isUserRegister.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/isUserRegister.ts#L1)
+*   Defined in [src/resolvers/Query/isUserRegister.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/isUserRegister.ts#L1)
 
 ### Index
 

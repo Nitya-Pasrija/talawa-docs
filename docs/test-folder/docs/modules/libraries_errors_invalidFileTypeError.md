@@ -13,7 +13,7 @@ libraries/errors/invalidFileTypeError | talawa-apidocument.documentElement.datas
 Module libraries/errors/invalidFileTypeError
 ============================================
 
-*   Defined in [src/libraries/errors/invalidFileTypeError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/invalidFileTypeError.ts#L1)
+*   Defined in [src/libraries/errors/invalidFileTypeError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/invalidFileTypeError.ts#L1)
 
 ### Index
 

@@ -32,7 +32,7 @@ MEMBERSHIP\_REQUEST\_NOT\_FOUND\_ERROR: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:43](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L43)
+*   Defined in [src/constants.ts:43](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L43)
 
 ### Settings
 

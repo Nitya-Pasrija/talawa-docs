@@ -13,7 +13,7 @@ resolvers/DirectChat/organization | talawa-apidocument.documentElement.dataset.t
 Module resolvers/DirectChat/organization
 ========================================
 
-*   Defined in [src/resolvers/DirectChat/organization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/DirectChat/organization.ts#L1)
+*   Defined in [src/resolvers/DirectChat/organization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/DirectChat/organization.ts#L1)
 
 ### Index
 

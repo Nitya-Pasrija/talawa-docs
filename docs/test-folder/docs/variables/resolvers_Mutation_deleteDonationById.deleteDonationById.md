@@ -30,7 +30,7 @@ payload provided with the request
 
 Boolean value denoting whether the deletion was successful or not.
 
-*   Defined in [src/resolvers/Mutation/deleteDonationById.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/deleteDonationById.ts#L10)
+*   Defined in [src/resolvers/Mutation/deleteDonationById.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/deleteDonationById.ts#L10)
 
 ### Settings
 

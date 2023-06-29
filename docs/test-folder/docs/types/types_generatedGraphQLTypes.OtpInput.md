@@ -23,7 +23,7 @@ OtpInput: {
 *   ##### email: [Scalars](types_generatedGraphQLTypes.Scalars.html)\["EmailAddress"\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:843](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L843)
+*   Defined in [src/types/generatedGraphQLTypes.ts:843](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L843)
 
 ### Settings
 

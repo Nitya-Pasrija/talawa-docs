@@ -16,7 +16,7 @@ Variable Comment`Const`
 
 Comment: [CommentResolvers](../types/types_generatedGraphQLTypes.CommentResolvers.html) = ...
 
-*   Defined in [src/resolvers/Comment/index.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Comment/index.ts#L4)
+*   Defined in [src/resolvers/Comment/index.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Comment/index.ts#L4)
 
 ### Settings
 

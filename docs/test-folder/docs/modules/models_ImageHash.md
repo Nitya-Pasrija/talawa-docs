@@ -13,7 +13,7 @@ models/ImageHash | talawa-apidocument.documentElement.dataset.theme = localStora
 Module models/ImageHash
 =======================
 
-*   Defined in [src/models/ImageHash.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/ImageHash.ts#L1)
+*   Defined in [src/models/ImageHash.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/ImageHash.ts#L1)
 
 ### Index
 

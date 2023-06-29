@@ -16,7 +16,7 @@ Variable iosBundleId`Const`
 
 iosBundleId: undefined | string = ENV.iosBundleId
 
-*   Defined in [src/constants.ts:347](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L347)
+*   Defined in [src/constants.ts:347](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L347)
 
 ### Settings
 

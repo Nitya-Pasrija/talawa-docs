@@ -13,7 +13,7 @@ utilities/copyToClipboard | talawa-apidocument.documentElement.dataset.theme = l
 Module utilities/copyToClipboard
 ================================
 
-*   Defined in [src/utilities/copyToClipboard.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/copyToClipboard.ts#L1)
+*   Defined in [src/utilities/copyToClipboard.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/copyToClipboard.ts#L1)
 
 ### Index
 

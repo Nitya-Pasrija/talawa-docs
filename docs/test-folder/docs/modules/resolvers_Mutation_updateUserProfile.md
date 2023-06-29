@@ -13,7 +13,7 @@ resolvers/Mutation/updateUserProfile | talawa-apidocument.documentElement.datase
 Module resolvers/Mutation/updateUserProfile
 ===========================================
 
-*   Defined in [src/resolvers/Mutation/updateUserProfile.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updateUserProfile.ts#L1)
+*   Defined in [src/resolvers/Mutation/updateUserProfile.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updateUserProfile.ts#L1)
 
 ### Index
 

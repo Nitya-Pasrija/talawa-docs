@@ -30,7 +30,7 @@ An object that contains `userId`.
 
 A string `appLanguageCode` that contains language code. If the `appLanguageCode` field not found then it throws a `NotFoundError` error.
 
-*   Defined in [src/resolvers/Query/myLanguage.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/myLanguage.ts#L13)
+*   Defined in [src/resolvers/Query/myLanguage.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/myLanguage.ts#L13)
 
 ### Settings
 

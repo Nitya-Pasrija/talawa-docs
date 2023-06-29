@@ -252,7 +252,7 @@ MutationResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` updateUserType?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["Boolean"\], ParentType, ContextType, [RequireFields](types_generatedGraphQLTypes.RequireFields.html)<[MutationUpdateUserTypeArgs](types_generatedGraphQLTypes.MutationUpdateUserTypeArgs.html), "data"\>\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2059](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2059)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2059](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2059)
 
 ### Settings
 

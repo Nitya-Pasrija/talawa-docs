@@ -13,7 +13,7 @@ resolvers/Mutation/createPlugin | talawa-apidocument.documentElement.dataset.the
 Module resolvers/Mutation/createPlugin
 ======================================
 
-*   Defined in [src/resolvers/Mutation/createPlugin.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createPlugin.ts#L1)
+*   Defined in [src/resolvers/Mutation/createPlugin.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createPlugin.ts#L1)
 
 ### Index
 

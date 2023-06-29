@@ -26,7 +26,7 @@ Function isAuth
     
     Returns `authData` object with `isAuth`, `expired` and `userId` properties.
     
-    *   Defined in [src/middleware/isAuth.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/middleware/isAuth.ts#L17)
+    *   Defined in [src/middleware/isAuth.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/middleware/isAuth.ts#L17)
     
 
 ### Settings

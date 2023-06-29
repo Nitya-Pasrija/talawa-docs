@@ -16,7 +16,7 @@ Variable ERROR\_IN\_SENDING\_MAIL`Const`
 
 ERROR\_IN\_SENDING\_MAIL: "Error in sending mail" = "Error in sending mail"
 
-*   Defined in [src/constants.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L21)
+*   Defined in [src/constants.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L21)
 
 ### Settings
 

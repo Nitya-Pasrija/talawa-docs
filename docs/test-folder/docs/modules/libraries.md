@@ -13,7 +13,7 @@ libraries | talawa-apidocument.documentElement.dataset.theme = localStorage.getI
 Module libraries
 ================
 
-*   Defined in [src/libraries/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/index.ts#L1)
+*   Defined in [src/libraries/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/index.ts#L1)
 
 ##### Index
 

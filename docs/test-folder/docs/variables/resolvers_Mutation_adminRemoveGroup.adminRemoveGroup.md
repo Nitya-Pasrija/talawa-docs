@@ -43,7 +43,7 @@ The following checks are done:
 
 Deleted group chat
 
-*   Defined in [src/resolvers/Mutation/adminRemoveGroup.ts:23](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/adminRemoveGroup.ts#L23)
+*   Defined in [src/resolvers/Mutation/adminRemoveGroup.ts:23](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/adminRemoveGroup.ts#L23)
 
 ### Settings
 

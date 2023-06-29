@@ -30,7 +30,7 @@ Function copyToClipboard
     
     This is a utility method. This works only in development or test mode.
     
-    *   Defined in [src/utilities/copyToClipboard.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/copyToClipboard.ts#L9)
+    *   Defined in [src/utilities/copyToClipboard.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/copyToClipboard.ts#L9)
     
 
 ### Settings

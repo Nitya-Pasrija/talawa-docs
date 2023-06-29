@@ -23,7 +23,7 @@ MutationUpdateUserPasswordArgs: {
 *   ##### data: [UpdateUserPasswordInput](types_generatedGraphQLTypes.UpdateUserPasswordInput.html)
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:823](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L823)
+*   Defined in [src/types/generatedGraphQLTypes.ts:823](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L823)
 
 ### Settings
 

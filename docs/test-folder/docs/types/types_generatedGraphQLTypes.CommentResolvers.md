@@ -51,7 +51,7 @@ CommentResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` text?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["String"\], ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1865](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1865)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1865](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1865)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/Query/postsByOrganization | talawa-apidocument.documentElement.dataset
 Module resolvers/Query/postsByOrganization
 ==========================================
 
-*   Defined in [src/resolvers/Query/postsByOrganization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/postsByOrganization.ts#L1)
+*   Defined in [src/resolvers/Query/postsByOrganization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/postsByOrganization.ts#L1)
 
 ### Index
 

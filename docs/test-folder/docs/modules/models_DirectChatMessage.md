@@ -13,7 +13,7 @@ models/DirectChatMessage | talawa-apidocument.documentElement.dataset.theme = lo
 Module models/DirectChatMessage
 ===============================
 
-*   Defined in [src/models/DirectChatMessage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChatMessage.ts#L1)
+*   Defined in [src/models/DirectChatMessage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChatMessage.ts#L1)
 
 ### Index
 

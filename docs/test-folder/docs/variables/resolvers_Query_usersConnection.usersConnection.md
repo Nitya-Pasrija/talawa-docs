@@ -32,7 +32,7 @@ An object that contains list of the users.
 
 Connection in graphQL means pagination, learn more about Connection [here](https://relay.dev/graphql/connections.htm).
 
-*   Defined in [src/resolvers/Query/usersConnection.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/usersConnection.ts#L15)
+*   Defined in [src/resolvers/Query/usersConnection.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/usersConnection.ts#L15)
 
 ### Settings
 

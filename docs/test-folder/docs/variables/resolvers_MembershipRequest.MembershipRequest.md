@@ -16,7 +16,7 @@ Variable MembershipRequest`Const`
 
 MembershipRequest: [MembershipRequestResolvers](../types/types_generatedGraphQLTypes.MembershipRequestResolvers.html) = ...
 
-*   Defined in [src/resolvers/MembershipRequest/index.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/MembershipRequest/index.ts#L5)
+*   Defined in [src/resolvers/MembershipRequest/index.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/MembershipRequest/index.ts#L5)
 
 ### Settings
 

@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Image Hash
 
 *   InterfaceImageHash
 
-*   Defined in [src/models/ImageHash.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/ImageHash.ts#L6)
+*   Defined in [src/models/ImageHash.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/ImageHash.ts#L6)
 
 ##### Index
 
@@ -35,31 +35,31 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/ImageHash.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/ImageHash.ts#L7)
+*   Defined in [src/models/ImageHash.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/ImageHash.ts#L7)
 
 ### fileName[](#fileName)
 
 fileName: string
 
-*   Defined in [src/models/ImageHash.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/ImageHash.ts#L9)
+*   Defined in [src/models/ImageHash.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/ImageHash.ts#L9)
 
 ### hashValue[](#hashValue)
 
 hashValue: string
 
-*   Defined in [src/models/ImageHash.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/ImageHash.ts#L8)
+*   Defined in [src/models/ImageHash.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/ImageHash.ts#L8)
 
 ### numberOfUses[](#numberOfUses)
 
 numberOfUses: number
 
-*   Defined in [src/models/ImageHash.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/ImageHash.ts#L10)
+*   Defined in [src/models/ImageHash.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/ImageHash.ts#L10)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/ImageHash.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/ImageHash.ts#L11)
+*   Defined in [src/models/ImageHash.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/ImageHash.ts#L11)
 
 ### Settings
 

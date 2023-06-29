@@ -20,7 +20,7 @@ GroupChatMessage: Model<[InterfaceGroupChatMessage](../interfaces/models_GroupCh
 
 #### Type declaration
 
-*   Defined in [src/models/GroupChatMessage.ts:55](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChatMessage.ts#L55)
+*   Defined in [src/models/GroupChatMessage.ts:55](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChatMessage.ts#L55)
 
 ### Settings
 

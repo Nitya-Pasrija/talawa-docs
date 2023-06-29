@@ -16,7 +16,7 @@ Variable creator`Const`
 
 creator: [PostResolvers](../types/types_generatedGraphQLTypes.PostResolvers.html)\["creator"\] = ...
 
-*   Defined in [src/resolvers/Post/creator.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Post/creator.ts#L4)
+*   Defined in [src/resolvers/Post/creator.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Post/creator.ts#L4)
 
 ### Settings
 

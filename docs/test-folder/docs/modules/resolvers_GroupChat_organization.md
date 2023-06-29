@@ -13,7 +13,7 @@ resolvers/GroupChat/organization | talawa-apidocument.documentElement.dataset.th
 Module resolvers/GroupChat/organization
 =======================================
 
-*   Defined in [src/resolvers/GroupChat/organization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/GroupChat/organization.ts#L1)
+*   Defined in [src/resolvers/GroupChat/organization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/GroupChat/organization.ts#L1)
 
 ### Index
 

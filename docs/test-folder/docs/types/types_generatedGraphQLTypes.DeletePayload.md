@@ -26,7 +26,7 @@ DeletePayload: {
 *   ##### success: [Scalars](types_generatedGraphQLTypes.Scalars.html)\["Boolean"\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:103](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L103)
+*   Defined in [src/types/generatedGraphQLTypes.ts:103](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L103)
 
 ### Settings
 

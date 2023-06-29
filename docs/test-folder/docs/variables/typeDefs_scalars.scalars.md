@@ -16,7 +16,7 @@ Variable scalars`Const`
 
 scalars: DocumentNode = ...
 
-*   Defined in [src/typeDefs/scalars.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/scalars.ts#L4)
+*   Defined in [src/typeDefs/scalars.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/scalars.ts#L4)
 
 ### Settings
 

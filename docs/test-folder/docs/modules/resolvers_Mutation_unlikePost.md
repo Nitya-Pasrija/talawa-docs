@@ -13,7 +13,7 @@ resolvers/Mutation/unlikePost | talawa-apidocument.documentElement.dataset.theme
 Module resolvers/Mutation/unlikePost
 ====================================
 
-*   Defined in [src/resolvers/Mutation/unlikePost.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/unlikePost.ts#L1)
+*   Defined in [src/resolvers/Mutation/unlikePost.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/unlikePost.ts#L1)
 
 ### Index
 

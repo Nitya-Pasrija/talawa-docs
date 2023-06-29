@@ -13,7 +13,7 @@ resolvers/Mutation/createEvent | talawa-apidocument.documentElement.dataset.them
 Module resolvers/Mutation/createEvent
 =====================================
 
-*   Defined in [src/resolvers/Mutation/createEvent.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createEvent.ts#L1)
+*   Defined in [src/resolvers/Mutation/createEvent.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createEvent.ts#L1)
 
 ### Index
 

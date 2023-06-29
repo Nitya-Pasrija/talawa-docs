@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Membership
 
 *   InterfaceMembershipRequest
 
-*   Defined in [src/models/MembershipRequest.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MembershipRequest.ts#L8)
+*   Defined in [src/models/MembershipRequest.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MembershipRequest.ts#L8)
 
 ##### Index
 
@@ -35,25 +35,25 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/MembershipRequest.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MembershipRequest.ts#L9)
+*   Defined in [src/models/MembershipRequest.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MembershipRequest.ts#L9)
 
 ### organization[](#organization)
 
 organization: any
 
-*   Defined in [src/models/MembershipRequest.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MembershipRequest.ts#L10)
+*   Defined in [src/models/MembershipRequest.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MembershipRequest.ts#L10)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/MembershipRequest.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MembershipRequest.ts#L12)
+*   Defined in [src/models/MembershipRequest.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MembershipRequest.ts#L12)
 
 ### user[](#user)
 
 user: any
 
-*   Defined in [src/models/MembershipRequest.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MembershipRequest.ts#L11)
+*   Defined in [src/models/MembershipRequest.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MembershipRequest.ts#L11)
 
 ### Settings
 

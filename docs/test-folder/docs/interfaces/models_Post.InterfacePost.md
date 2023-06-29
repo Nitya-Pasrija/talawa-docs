@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Post.
 
 *   InterfacePost
 
-*   Defined in [src/models/Post.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L9)
+*   Defined in [src/models/Post.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L9)
 
 ##### Index
 
@@ -35,79 +35,79 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/Post.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L10)
+*   Defined in [src/models/Post.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L10)
 
 ### commentCount[](#commentCount)
 
 commentCount: number
 
-*   Defined in [src/models/Post.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L21)
+*   Defined in [src/models/Post.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L21)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/Post.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L14)
+*   Defined in [src/models/Post.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L14)
 
 ### creator[](#creator)
 
 creator: any
 
-*   Defined in [src/models/Post.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L17)
+*   Defined in [src/models/Post.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L17)
 
 ### imageUrl[](#imageUrl)
 
 imageUrl: undefined | null | string
 
-*   Defined in [src/models/Post.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L15)
+*   Defined in [src/models/Post.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L15)
 
 ### likeCount[](#likeCount)
 
 likeCount: number
 
-*   Defined in [src/models/Post.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L20)
+*   Defined in [src/models/Post.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L20)
 
 ### likedBy[](#likedBy)
 
 likedBy: any\[\]
 
-*   Defined in [src/models/Post.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L19)
+*   Defined in [src/models/Post.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L19)
 
 ### organization[](#organization)
 
 organization: any
 
-*   Defined in [src/models/Post.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L18)
+*   Defined in [src/models/Post.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L18)
 
 ### pinned[](#pinned)
 
 pinned: boolean
 
-*   Defined in [src/models/Post.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L22)
+*   Defined in [src/models/Post.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L22)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/Post.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L13)
+*   Defined in [src/models/Post.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L13)
 
 ### text[](#text)
 
 text: string
 
-*   Defined in [src/models/Post.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L11)
+*   Defined in [src/models/Post.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L11)
 
 ### title[](#title)
 
 title: undefined | string
 
-*   Defined in [src/models/Post.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L12)
+*   Defined in [src/models/Post.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L12)
 
 ### videoUrl[](#videoUrl)
 
 videoUrl: undefined | string
 
-*   Defined in [src/models/Post.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L16)
+*   Defined in [src/models/Post.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L16)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/Query/event | talawa-apidocument.documentElement.dataset.theme = local
 Module resolvers/Query/event
 ============================
 
-*   Defined in [src/resolvers/Query/event.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/event.ts#L1)
+*   Defined in [src/resolvers/Query/event.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/event.ts#L1)
 
 ### Index
 

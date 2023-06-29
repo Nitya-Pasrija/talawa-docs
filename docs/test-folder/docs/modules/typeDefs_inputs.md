@@ -13,7 +13,7 @@ typeDefs/inputs | talawa-apidocument.documentElement.dataset.theme = localStorag
 Module typeDefs/inputs
 ======================
 
-*   Defined in [src/typeDefs/inputs.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/inputs.ts#L1)
+*   Defined in [src/typeDefs/inputs.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/inputs.ts#L1)
 
 ### Index
 

@@ -13,7 +13,7 @@ typeDefs/subscriptions | talawa-apidocument.documentElement.dataset.theme = loca
 Module typeDefs/subscriptions
 =============================
 
-*   Defined in [src/typeDefs/subscriptions.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/subscriptions.ts#L1)
+*   Defined in [src/typeDefs/subscriptions.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/subscriptions.ts#L1)
 
 ### Index
 

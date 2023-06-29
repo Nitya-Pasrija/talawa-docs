@@ -18,7 +18,7 @@ AuthDirectiveArgs: {}
 
 #### Type declaration
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1827](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1827)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1827](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1827)
 
 ### Settings
 

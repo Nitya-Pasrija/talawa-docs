@@ -13,7 +13,7 @@ resolvers/Query/helperFunctions/getWhere | talawa-apidocument.documentElement.da
 Module resolvers/Query/helperFunctions/getWhere
 ===============================================
 
-*   Defined in [src/resolvers/Query/helperFunctions/getWhere.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/helperFunctions/getWhere.ts#L1)
+*   Defined in [src/resolvers/Query/helperFunctions/getWhere.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/helperFunctions/getWhere.ts#L1)
 
 ### Index
 

@@ -30,7 +30,7 @@ An object that contains `userId`.
 
 An object `currentUser` for the current user. If the user not found then it throws a `NotFoundError` error.
 
-*   Defined in [src/resolvers/Query/me.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/me.ts#L13)
+*   Defined in [src/resolvers/Query/me.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/me.ts#L13)
 
 ### Settings
 

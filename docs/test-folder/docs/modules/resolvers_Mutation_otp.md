@@ -13,7 +13,7 @@ resolvers/Mutation/otp | talawa-apidocument.documentElement.dataset.theme = loca
 Module resolvers/Mutation/otp
 =============================
 
-*   Defined in [src/resolvers/Mutation/otp.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/otp.ts#L1)
+*   Defined in [src/resolvers/Mutation/otp.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/otp.ts#L1)
 
 ### Index
 

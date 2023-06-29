@@ -16,7 +16,7 @@ Type alias UserType
 
 UserType: "ADMIN" | "SUPERADMIN" | "USER"
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1512](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1512)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1512](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1512)
 
 ### Settings
 

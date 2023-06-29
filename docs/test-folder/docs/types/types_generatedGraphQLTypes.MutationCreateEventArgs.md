@@ -23,7 +23,7 @@ MutationCreateEventArgs: {
 *   ##### `Optional` data?: [InputMaybe](types_generatedGraphQLTypes.InputMaybe.html)<[EventInput](types_generatedGraphQLTypes.EventInput.html)\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:538](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L538)
+*   Defined in [src/types/generatedGraphQLTypes.ts:538](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L538)
 
 ### Settings
 

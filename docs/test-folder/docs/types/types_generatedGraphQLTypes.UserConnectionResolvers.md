@@ -39,7 +39,7 @@ UserConnectionResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` pageInfo?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["PageInfo"\], ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2334](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2334)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2334](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2334)
 
 ### Settings
 

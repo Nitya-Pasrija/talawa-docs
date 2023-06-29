@@ -29,7 +29,7 @@ USER\_NOT\_AUTHORIZED\_SUPERADMIN: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:125](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L125)
+*   Defined in [src/constants.ts:125](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L125)
 
 ### Settings
 

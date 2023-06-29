@@ -26,7 +26,7 @@ An object that is the return value of the resolver for this field's parent.
 
 An object that contains the list of blocked users for the organization.
 
-*   Defined in [src/resolvers/Organization/blockedUsers.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/blockedUsers.ts#L8)
+*   Defined in [src/resolvers/Organization/blockedUsers.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/blockedUsers.ts#L8)
 
 ### Settings
 

@@ -20,7 +20,7 @@ File: Model<[InterfaceFile](../interfaces/models_File.InterfaceFile.html), {}, {
 
 #### Type declaration
 
-*   Defined in [src/models/File.ts:63](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/File.ts#L63)
+*   Defined in [src/models/File.ts:63](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/File.ts#L63)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/Query | talawa-apidocument.documentElement.dataset.theme = localStorag
 Module resolvers/Query
 ======================
 
-*   Defined in [src/resolvers/Query/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/index.ts#L1)
+*   Defined in [src/resolvers/Query/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/index.ts#L1)
 
 ### Index
 

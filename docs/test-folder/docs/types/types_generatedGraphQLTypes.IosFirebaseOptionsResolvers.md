@@ -51,7 +51,7 @@ IosFirebaseOptionsResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` storageBucket?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[Maybe](types_generatedGraphQLTypes.Maybe.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["String"\]\>, ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1996](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1996)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1996](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1996)
 
 ### Settings
 

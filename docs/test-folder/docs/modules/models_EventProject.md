@@ -13,7 +13,7 @@ models/EventProject | talawa-apidocument.documentElement.dataset.theme = localSt
 Module models/EventProject
 ==========================
 
-*   Defined in [src/models/EventProject.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L1)
+*   Defined in [src/models/EventProject.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L1)
 
 ### Index
 

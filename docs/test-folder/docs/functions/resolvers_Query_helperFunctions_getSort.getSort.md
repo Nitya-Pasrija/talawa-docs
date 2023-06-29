@@ -22,7 +22,7 @@ Function getSort
     
     #### Returns any
     
-    *   Defined in [src/resolvers/Query/helperFunctions/getSort.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/helperFunctions/getSort.ts#L10)
+    *   Defined in [src/resolvers/Query/helperFunctions/getSort.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/helperFunctions/getSort.ts#L10)
     
 
 ### Settings

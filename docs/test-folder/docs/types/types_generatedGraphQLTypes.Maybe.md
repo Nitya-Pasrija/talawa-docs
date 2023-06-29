@@ -21,7 +21,7 @@ Maybe<T\>: T | null
 *   #### T
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L21)
+*   Defined in [src/types/generatedGraphQLTypes.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L21)
 
 ### Settings
 

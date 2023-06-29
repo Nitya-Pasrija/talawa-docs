@@ -32,7 +32,7 @@ TRANSLATION\_ALREADY\_PRESENT\_ERROR: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:280](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L280)
+*   Defined in [src/constants.ts:280](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L280)
 
 ### Settings
 

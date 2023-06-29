@@ -13,7 +13,7 @@ resolvers/Subscription/directMessageChat | talawa-apidocument.documentElement.da
 Module resolvers/Subscription/directMessageChat
 ===============================================
 
-*   Defined in [src/resolvers/Subscription/directMessageChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Subscription/directMessageChat.ts#L1)
+*   Defined in [src/resolvers/Subscription/directMessageChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Subscription/directMessageChat.ts#L1)
 
 ### Index
 

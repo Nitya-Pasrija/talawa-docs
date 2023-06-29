@@ -23,7 +23,7 @@ MutationRevokeRefreshTokenForUserArgs: {
 *   ##### userId: [Scalars](types_generatedGraphQLTypes.Scalars.html)\["String"\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:717](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L717)
+*   Defined in [src/types/generatedGraphQLTypes.ts:717](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L717)
 
 ### Settings
 

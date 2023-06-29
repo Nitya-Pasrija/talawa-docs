@@ -16,7 +16,7 @@ Type alias UserOrderByInput
 
 UserOrderByInput: "appLanguageCode\_ASC" | "appLanguageCode\_DESC" | "email\_ASC" | "email\_DESC" | "firstName\_ASC" | "firstName\_DESC" | "id\_ASC" | "id\_DESC" | "lastName\_ASC" | "lastName\_DESC"
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1462](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1462)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1462](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1462)
 
 ### Settings
 

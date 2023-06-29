@@ -13,7 +13,7 @@ libraries/errors/applicationError | talawa-apidocument.documentElement.dataset.t
 Module libraries/errors/applicationError
 ========================================
 
-*   Defined in [src/libraries/errors/applicationError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L1)
+*   Defined in [src/libraries/errors/applicationError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L1)
 
 ### Index
 

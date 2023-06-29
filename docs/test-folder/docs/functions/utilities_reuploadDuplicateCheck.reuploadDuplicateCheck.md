@@ -36,7 +36,7 @@ Function reuploadDuplicateCheck
     
     This is a utility method.
     
-    *   Defined in [src/utilities/reuploadDuplicateCheck.ts:42](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/reuploadDuplicateCheck.ts#L42)
+    *   Defined in [src/utilities/reuploadDuplicateCheck.ts:42](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/reuploadDuplicateCheck.ts#L42)
     
 
 ### Settings

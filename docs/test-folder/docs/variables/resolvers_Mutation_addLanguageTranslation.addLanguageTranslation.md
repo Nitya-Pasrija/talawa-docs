@@ -37,7 +37,7 @@ The following checks are done:
 
 Updated langauge
 
-*   Defined in [src/resolvers/Mutation/addLanguageTranslation.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/addLanguageTranslation.ts#L14)
+*   Defined in [src/resolvers/Mutation/addLanguageTranslation.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/addLanguageTranslation.ts#L14)
 
 ### Settings
 

@@ -20,7 +20,7 @@ Donation: Model<[InterfaceDonation](../interfaces/models_Donation.InterfaceDonat
 
 #### Type declaration
 
-*   Defined in [src/models/Donation.ts:54](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Donation.ts#L54)
+*   Defined in [src/models/Donation.ts:54](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Donation.ts#L54)
 
 ### Settings
 

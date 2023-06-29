@@ -43,7 +43,7 @@ The following checks are done:
 
 Organization.
 
-*   Defined in [src/resolvers/Mutation/createMember.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createMember.ts#L22)
+*   Defined in [src/resolvers/Mutation/createMember.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createMember.ts#L22)
 
 ### Settings
 

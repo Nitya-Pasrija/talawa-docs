@@ -20,7 +20,7 @@ This is an interface representing a document for a comment in the database(Mongo
 
 *   InterfaceComment
 
-*   Defined in [src/models/Comment.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L8)
+*   Defined in [src/models/Comment.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L8)
 
 ##### Index
 
@@ -35,49 +35,49 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/Comment.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L9)
+*   Defined in [src/models/Comment.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L9)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/Comment.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L11)
+*   Defined in [src/models/Comment.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L11)
 
 ### creator[](#creator)
 
 creator: any
 
-*   Defined in [src/models/Comment.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L13)
+*   Defined in [src/models/Comment.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L13)
 
 ### likeCount[](#likeCount)
 
 likeCount: number
 
-*   Defined in [src/models/Comment.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L15)
+*   Defined in [src/models/Comment.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L15)
 
 ### likedBy[](#likedBy)
 
 likedBy: any\[\]
 
-*   Defined in [src/models/Comment.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L14)
+*   Defined in [src/models/Comment.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L14)
 
 ### postId[](#postId)
 
 postId: any
 
-*   Defined in [src/models/Comment.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L12)
+*   Defined in [src/models/Comment.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L12)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/Comment.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L16)
+*   Defined in [src/models/Comment.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L16)
 
 ### text[](#text)
 
 text: string
 
-*   Defined in [src/models/Comment.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Comment.ts#L10)
+*   Defined in [src/models/Comment.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Comment.ts#L10)
 
 ### Settings
 

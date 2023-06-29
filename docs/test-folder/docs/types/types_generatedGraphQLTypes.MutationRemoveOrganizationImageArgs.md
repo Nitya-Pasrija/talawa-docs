@@ -23,7 +23,7 @@ MutationRemoveOrganizationImageArgs: {
 *   ##### organizationId: [Scalars](types_generatedGraphQLTypes.Scalars.html)\["String"\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:691](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L691)
+*   Defined in [src/types/generatedGraphQLTypes.ts:691](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L691)
 
 ### Settings
 

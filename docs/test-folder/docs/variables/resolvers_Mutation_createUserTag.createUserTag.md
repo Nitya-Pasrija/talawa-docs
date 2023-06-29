@@ -16,7 +16,7 @@ Variable createUserTag`Const`
 
 createUserTag: [MutationResolvers](../types/types_generatedGraphQLTypes.MutationResolvers.html)\["createUserTag"\] = ...
 
-*   Defined in [src/resolvers/Mutation/createUserTag.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createUserTag.ts#L13)
+*   Defined in [src/resolvers/Mutation/createUserTag.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createUserTag.ts#L13)
 
 ### Settings
 

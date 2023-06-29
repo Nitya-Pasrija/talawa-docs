@@ -20,7 +20,7 @@ This is an interface representing a document for a direct chat message in the da
 
 *   InterfaceDirectChatMessage
 
-*   Defined in [src/models/DirectChatMessage.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChatMessage.ts#L8)
+*   Defined in [src/models/DirectChatMessage.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChatMessage.ts#L8)
 
 ##### Index
 
@@ -35,43 +35,43 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/DirectChatMessage.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChatMessage.ts#L9)
+*   Defined in [src/models/DirectChatMessage.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChatMessage.ts#L9)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/DirectChatMessage.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChatMessage.ts#L13)
+*   Defined in [src/models/DirectChatMessage.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChatMessage.ts#L13)
 
 ### directChatMessageBelongsTo[](#directChatMessageBelongsTo)
 
 directChatMessageBelongsTo: any
 
-*   Defined in [src/models/DirectChatMessage.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChatMessage.ts#L10)
+*   Defined in [src/models/DirectChatMessage.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChatMessage.ts#L10)
 
 ### messageContent[](#messageContent)
 
 messageContent: string
 
-*   Defined in [src/models/DirectChatMessage.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChatMessage.ts#L14)
+*   Defined in [src/models/DirectChatMessage.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChatMessage.ts#L14)
 
 ### receiver[](#receiver)
 
 receiver: any
 
-*   Defined in [src/models/DirectChatMessage.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChatMessage.ts#L12)
+*   Defined in [src/models/DirectChatMessage.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChatMessage.ts#L12)
 
 ### sender[](#sender)
 
 sender: any
 
-*   Defined in [src/models/DirectChatMessage.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChatMessage.ts#L11)
+*   Defined in [src/models/DirectChatMessage.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChatMessage.ts#L11)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/DirectChatMessage.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChatMessage.ts#L15)
+*   Defined in [src/models/DirectChatMessage.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChatMessage.ts#L15)
 
 ### Settings
 

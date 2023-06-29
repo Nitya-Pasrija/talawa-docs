@@ -16,7 +16,7 @@ Variable requestTracingNamespace`Const`
 
 requestTracingNamespace: Namespace = ...
 
-*   Defined in [src/libraries/requestTracing.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/requestTracing.ts#L17)
+*   Defined in [src/libraries/requestTracing.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/requestTracing.ts#L17)
 
 ### Settings
 

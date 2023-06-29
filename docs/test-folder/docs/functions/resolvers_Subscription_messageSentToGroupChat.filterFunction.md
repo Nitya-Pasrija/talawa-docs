@@ -24,7 +24,7 @@ Function filterFunction
     
     #### Returns Promise<boolean\>
     
-    *   Defined in [src/resolvers/Subscription/messageSentToGroupChat.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Subscription/messageSentToGroupChat.ts#L7)
+    *   Defined in [src/resolvers/Subscription/messageSentToGroupChat.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Subscription/messageSentToGroupChat.ts#L7)
     
 
 ### Settings

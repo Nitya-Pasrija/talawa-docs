@@ -13,7 +13,7 @@ resolvers/Mutation/removeEvent | talawa-apidocument.documentElement.dataset.them
 Module resolvers/Mutation/removeEvent
 =====================================
 
-*   Defined in [src/resolvers/Mutation/removeEvent.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeEvent.ts#L1)
+*   Defined in [src/resolvers/Mutation/removeEvent.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeEvent.ts#L1)
 
 ### Index
 

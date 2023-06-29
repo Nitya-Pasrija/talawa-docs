@@ -16,7 +16,7 @@ Variable IN\_PRODUCTION`Const`
 
 IN\_PRODUCTION: boolean = ...
 
-*   Defined in [src/constants.ts:36](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L36)
+*   Defined in [src/constants.ts:36](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L36)
 
 ### Settings
 

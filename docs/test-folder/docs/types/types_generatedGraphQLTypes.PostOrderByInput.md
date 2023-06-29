@@ -16,7 +16,7 @@ Type alias PostOrderByInput
 
 PostOrderByInput: "commentCount\_ASC" | "commentCount\_DESC" | "createdAt\_ASC" | "createdAt\_DESC" | "id\_ASC" | "id\_DESC" | "imageUrl\_ASC" | "imageUrl\_DESC" | "likeCount\_ASC" | "likeCount\_DESC" | "text\_ASC" | "text\_DESC" | "title\_ASC" | "title\_DESC" | "videoUrl\_ASC" | "videoUrl\_DESC"
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1027](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1027)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1027](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1027)
 
 ### Settings
 

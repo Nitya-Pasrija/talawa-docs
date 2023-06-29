@@ -43,7 +43,7 @@ The following checks are done:
 
 Deleted event
 
-*   Defined in [src/resolvers/Mutation/adminRemoveEvent.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/adminRemoveEvent.ts#L22)
+*   Defined in [src/resolvers/Mutation/adminRemoveEvent.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/adminRemoveEvent.ts#L22)
 
 ### Settings
 

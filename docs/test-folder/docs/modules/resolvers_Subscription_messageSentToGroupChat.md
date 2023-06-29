@@ -13,7 +13,7 @@ resolvers/Subscription/messageSentToGroupChat | talawa-apidocument.documentEleme
 Module resolvers/Subscription/messageSentToGroupChat
 ====================================================
 
-*   Defined in [src/resolvers/Subscription/messageSentToGroupChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Subscription/messageSentToGroupChat.ts#L1)
+*   Defined in [src/resolvers/Subscription/messageSentToGroupChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Subscription/messageSentToGroupChat.ts#L1)
 
 ### Index
 

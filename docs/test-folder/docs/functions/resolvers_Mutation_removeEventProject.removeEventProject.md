@@ -44,7 +44,7 @@ Function removeEventProject
     2.  If the event project exists
     3.  If the user is the creator of the event project.
     
-    *   Defined in [src/resolvers/Mutation/removeEventProject.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeEventProject.ts#L20)
+    *   Defined in [src/resolvers/Mutation/removeEventProject.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeEventProject.ts#L20)
     
 
 ### Settings

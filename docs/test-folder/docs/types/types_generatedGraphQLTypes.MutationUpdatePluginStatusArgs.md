@@ -26,7 +26,7 @@ MutationUpdatePluginStatusArgs: {
 *   ##### status: [Scalars](types_generatedGraphQLTypes.Scalars.html)\["Boolean"\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:805](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L805)
+*   Defined in [src/types/generatedGraphQLTypes.ts:805](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L805)
 
 ### Settings
 

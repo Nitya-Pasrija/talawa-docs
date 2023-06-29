@@ -16,7 +16,7 @@ Variable parentTag`Const`
 
 parentTag: [UserTagResolvers](../types/types_generatedGraphQLTypes.UserTagResolvers.html)\["parentTag"\] = ...
 
-*   Defined in [src/resolvers/UserTag/parentTag.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/UserTag/parentTag.ts#L4)
+*   Defined in [src/resolvers/UserTag/parentTag.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/UserTag/parentTag.ts#L4)
 
 ### Settings
 

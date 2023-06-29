@@ -42,7 +42,7 @@ The following checks are done:
 
 Membership request.
 
-*   Defined in [src/resolvers/Mutation/sendMembershipRequest.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/sendMembershipRequest.ts#L20)
+*   Defined in [src/resolvers/Mutation/sendMembershipRequest.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/sendMembershipRequest.ts#L20)
 
 ### Settings
 

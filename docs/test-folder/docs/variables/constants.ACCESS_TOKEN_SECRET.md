@@ -16,7 +16,7 @@ Variable ACCESS\_TOKEN\_SECRET`Const`
 
 ACCESS\_TOKEN\_SECRET: undefined | string = ENV.ACCESS\_TOKEN\_SECRET
 
-*   Defined in [src/constants.ts:313](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L313)
+*   Defined in [src/constants.ts:313](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L313)
 
 ### Settings
 

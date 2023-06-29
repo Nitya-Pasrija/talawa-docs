@@ -13,7 +13,7 @@ resolvers/Mutation/updatePost | talawa-apidocument.documentElement.dataset.theme
 Module resolvers/Mutation/updatePost
 ====================================
 
-*   Defined in [src/resolvers/Mutation/updatePost.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updatePost.ts#L1)
+*   Defined in [src/resolvers/Mutation/updatePost.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updatePost.ts#L1)
 
 ### Index
 

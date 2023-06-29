@@ -22,7 +22,7 @@ Function createRefreshToken
     
     #### Returns string
     
-    *   Defined in [src/utilities/auth.ts:34](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/auth.ts#L34)
+    *   Defined in [src/utilities/auth.ts:34](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/auth.ts#L34)
     
 
 ### Settings

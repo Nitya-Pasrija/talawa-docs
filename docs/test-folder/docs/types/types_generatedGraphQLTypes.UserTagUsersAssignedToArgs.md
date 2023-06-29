@@ -32,7 +32,7 @@ UserTagUsersAssignedToArgs: {
 *   ##### `Optional` last?: [InputMaybe](types_generatedGraphQLTypes.InputMaybe.html)<[Scalars](types_generatedGraphQLTypes.Scalars.html)\["PositiveInt"\]\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1493](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1493)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1493](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1493)
 
 ### Settings
 

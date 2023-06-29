@@ -16,7 +16,7 @@ Variable typeDefs`Const`
 
 typeDefs: DocumentNode\[\] = ...
 
-*   Defined in [src/typeDefs/index.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/index.ts#L18)
+*   Defined in [src/typeDefs/index.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/index.ts#L18)
 
 ### Settings
 

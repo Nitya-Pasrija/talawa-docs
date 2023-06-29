@@ -43,7 +43,7 @@ The following checks are done:
 
 Deleted membership request
 
-*   Defined in [src/resolvers/Mutation/cancelMembershipRequest.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/cancelMembershipRequest.ts#L22)
+*   Defined in [src/resolvers/Mutation/cancelMembershipRequest.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/cancelMembershipRequest.ts#L22)
 
 ### Settings
 

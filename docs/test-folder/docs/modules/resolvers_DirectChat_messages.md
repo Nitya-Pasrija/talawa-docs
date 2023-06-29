@@ -13,7 +13,7 @@ resolvers/DirectChat/messages | talawa-apidocument.documentElement.dataset.theme
 Module resolvers/DirectChat/messages
 ====================================
 
-*   Defined in [src/resolvers/DirectChat/messages.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/DirectChat/messages.ts#L1)
+*   Defined in [src/resolvers/DirectChat/messages.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/DirectChat/messages.ts#L1)
 
 ### Index
 

@@ -20,7 +20,7 @@ Task: Model<[InterfaceTask](../interfaces/models_Task.InterfaceTask.html), {}, {
 
 #### Type declaration
 
-*   Defined in [src/models/Task.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Task.ts#L65)
+*   Defined in [src/models/Task.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Task.ts#L65)
 
 ### Settings
 

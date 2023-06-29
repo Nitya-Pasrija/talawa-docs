@@ -13,7 +13,7 @@ middleware/isAuth | talawa-apidocument.documentElement.dataset.theme = localStor
 Module middleware/isAuth
 ========================
 
-*   Defined in [src/middleware/isAuth.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/middleware/isAuth.ts#L1)
+*   Defined in [src/middleware/isAuth.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/middleware/isAuth.ts#L1)
 
 ### Index
 

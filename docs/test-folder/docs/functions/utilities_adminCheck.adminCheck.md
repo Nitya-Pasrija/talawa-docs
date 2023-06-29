@@ -36,7 +36,7 @@ Function adminCheck
     
     This is a utility method.
     
-    *   Defined in [src/utilities/adminCheck.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/adminCheck.ts#L14)
+    *   Defined in [src/utilities/adminCheck.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/adminCheck.ts#L14)
     
 
 ### Settings

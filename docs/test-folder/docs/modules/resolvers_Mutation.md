@@ -13,7 +13,7 @@ resolvers/Mutation | talawa-apidocument.documentElement.dataset.theme = localSto
 Module resolvers/Mutation
 =========================
 
-*   Defined in [src/resolvers/Mutation/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/index.ts#L1)
+*   Defined in [src/resolvers/Mutation/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/index.ts#L1)
 
 ### Index
 

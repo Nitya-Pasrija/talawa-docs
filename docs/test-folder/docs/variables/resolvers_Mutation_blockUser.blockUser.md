@@ -43,7 +43,7 @@ The following checks are done:
 
 Deleted updated user
 
-*   Defined in [src/resolvers/Mutation/blockUser.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/blockUser.ts#L24)
+*   Defined in [src/resolvers/Mutation/blockUser.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/blockUser.ts#L24)
 
 ### Settings
 

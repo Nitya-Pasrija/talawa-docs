@@ -45,7 +45,7 @@ GroupChatResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` users?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["User"\]\[\], ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1978](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1978)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1978](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1978)
 
 ### Settings
 

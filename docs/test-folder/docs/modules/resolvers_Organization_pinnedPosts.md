@@ -13,7 +13,7 @@ resolvers/Organization/pinnedPosts | talawa-apidocument.documentElement.dataset.
 Module resolvers/Organization/pinnedPosts
 =========================================
 
-*   Defined in [src/resolvers/Organization/pinnedPosts.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/pinnedPosts.ts#L1)
+*   Defined in [src/resolvers/Organization/pinnedPosts.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/pinnedPosts.ts#L1)
 
 ### Index
 

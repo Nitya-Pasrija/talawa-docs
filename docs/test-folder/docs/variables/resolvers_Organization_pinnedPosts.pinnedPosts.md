@@ -16,7 +16,7 @@ Variable pinnedPosts`Const`
 
 pinnedPosts: [OrganizationResolvers](../types/types_generatedGraphQLTypes.OrganizationResolvers.html)\["pinnedPosts"\] = ...
 
-*   Defined in [src/resolvers/Organization/pinnedPosts.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/pinnedPosts.ts#L4)
+*   Defined in [src/resolvers/Organization/pinnedPosts.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/pinnedPosts.ts#L4)
 
 ### Settings
 

@@ -16,7 +16,7 @@ Variable Query`Const`
 
 Query: [QueryResolvers](../types/types_generatedGraphQLTypes.QueryResolvers.html) = ...
 
-*   Defined in [src/resolvers/Query/index.ts:31](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/index.ts#L31)
+*   Defined in [src/resolvers/Query/index.ts:31](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/index.ts#L31)
 
 ### Settings
 

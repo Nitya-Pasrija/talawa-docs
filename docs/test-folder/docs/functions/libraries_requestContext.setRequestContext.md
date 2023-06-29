@@ -22,7 +22,7 @@ Function setRequestContext
     
     #### Returns void
     
-    *   Defined in [src/libraries/requestContext.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/requestContext.ts#L22)
+    *   Defined in [src/libraries/requestContext.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/requestContext.ts#L22)
     
 
 ### Settings

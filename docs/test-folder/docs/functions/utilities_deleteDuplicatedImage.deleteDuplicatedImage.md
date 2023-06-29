@@ -26,7 +26,7 @@ Function deleteDuplicatedImage
     
     #### Returns void
     
-    *   Defined in [src/utilities/deleteDuplicatedImage.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/deleteDuplicatedImage.ts#L8)
+    *   Defined in [src/utilities/deleteDuplicatedImage.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/deleteDuplicatedImage.ts#L8)
     
 
 ### Settings

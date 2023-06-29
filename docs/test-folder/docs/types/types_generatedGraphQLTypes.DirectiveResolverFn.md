@@ -46,7 +46,7 @@ DirectiveResolverFn<TResult, TParent, TContext, TArgs\>: ((next, parent, args, c
         #### Returns TResult | Promise<TResult\>
         
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1624](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1624)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1624](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1624)
 
 ### Settings
 

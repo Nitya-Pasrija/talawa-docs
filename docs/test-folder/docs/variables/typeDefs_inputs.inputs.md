@@ -16,7 +16,7 @@ Variable inputs`Const`
 
 inputs: DocumentNode = ...
 
-*   Defined in [src/typeDefs/inputs.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/inputs.ts#L4)
+*   Defined in [src/typeDefs/inputs.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/inputs.ts#L4)
 
 ### Settings
 

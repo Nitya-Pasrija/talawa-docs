@@ -34,7 +34,7 @@ context of entire application
 
 Created plugin
 
-*   Defined in [src/resolvers/Mutation/createPlugin.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createPlugin.ts#L12)
+*   Defined in [src/resolvers/Mutation/createPlugin.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createPlugin.ts#L12)
 
 ### Settings
 

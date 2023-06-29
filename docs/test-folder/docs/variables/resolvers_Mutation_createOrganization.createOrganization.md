@@ -40,7 +40,7 @@ The following checks are done:
 
 Created organization
 
-*   Defined in [src/resolvers/Mutation/createOrganization.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createOrganization.ts#L18)
+*   Defined in [src/resolvers/Mutation/createOrganization.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createOrganization.ts#L18)
 
 ### Settings
 

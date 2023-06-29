@@ -17,7 +17,7 @@ Function connect
 *   connect(): Promise<void\>[](#connect)
 *   #### Returns Promise<void\>
     
-    *   Defined in [src/db.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/db.ts#L5)
+    *   Defined in [src/db.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/db.ts#L5)
     
 
 ### Settings

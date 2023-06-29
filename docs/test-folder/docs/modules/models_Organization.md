@@ -13,7 +13,7 @@ models/Organization | talawa-apidocument.documentElement.dataset.theme = localSt
 Module models/Organization
 ==========================
 
-*   Defined in [src/models/Organization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L1)
+*   Defined in [src/models/Organization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L1)
 
 ### Index
 

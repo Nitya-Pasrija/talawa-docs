@@ -16,7 +16,7 @@ Variable REFRESH\_TOKEN\_SECRET`Const`
 
 REFRESH\_TOKEN\_SECRET: undefined | string = ENV.REFRESH\_TOKEN\_SECRET
 
-*   Defined in [src/constants.ts:315](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L315)
+*   Defined in [src/constants.ts:315](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L315)
 
 ### Settings
 

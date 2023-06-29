@@ -35,7 +35,7 @@ androidFirebaseOptions: {
 *   ##### storageBucket: undefined | string
     
 
-*   Defined in [src/config/firebaseConfig.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/config/firebaseConfig.ts#L16)
+*   Defined in [src/config/firebaseConfig.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/config/firebaseConfig.ts#L16)
 
 ### Settings
 

@@ -40,7 +40,7 @@ The following checks are done:
 
 Updated user profile.
 
-*   Defined in [src/resolvers/Mutation/updateUserProfile.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updateUserProfile.ts#L19)
+*   Defined in [src/resolvers/Mutation/updateUserProfile.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updateUserProfile.ts#L19)
 
 ### Settings
 

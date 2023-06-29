@@ -13,7 +13,7 @@ resolvers/Organization/admins | talawa-apidocument.documentElement.dataset.theme
 Module resolvers/Organization/admins
 ====================================
 
-*   Defined in [src/resolvers/Organization/admins.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/admins.ts#L1)
+*   Defined in [src/resolvers/Organization/admins.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/admins.ts#L1)
 
 ### Index
 

@@ -20,7 +20,7 @@ This is an interface representing a document for an event in the database(MongoD
 
 *   InterfaceEvent
 
-*   Defined in [src/models/Event.ts:46](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L46)
+*   Defined in [src/models/Event.ts:46](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L46)
 
 ##### Index
 
@@ -35,133 +35,133 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/Event.ts:47](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L47)
+*   Defined in [src/models/Event.ts:47](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L47)
 
 ### admins[](#admins)
 
 admins: any\[\]
 
-*   Defined in [src/models/Event.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L65)
+*   Defined in [src/models/Event.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L65)
 
 ### allDay[](#allDay)
 
 allDay: boolean
 
-*   Defined in [src/models/Event.ts:55](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L55)
+*   Defined in [src/models/Event.ts:55](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L55)
 
 ### attendees[](#attendees)
 
 attendees: undefined | string
 
-*   Defined in [src/models/Event.ts:50](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L50)
+*   Defined in [src/models/Event.ts:50](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L50)
 
 ### creator[](#creator)
 
 creator: any
 
-*   Defined in [src/models/Event.ts:63](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L63)
+*   Defined in [src/models/Event.ts:63](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L63)
 
 ### description[](#description)
 
 description: string
 
-*   Defined in [src/models/Event.ts:49](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L49)
+*   Defined in [src/models/Event.ts:49](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L49)
 
 ### endDate[](#endDate)
 
 endDate: undefined | string
 
-*   Defined in [src/models/Event.ts:57](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L57)
+*   Defined in [src/models/Event.ts:57](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L57)
 
 ### endTime[](#endTime)
 
 endTime: undefined | string
 
-*   Defined in [src/models/Event.ts:59](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L59)
+*   Defined in [src/models/Event.ts:59](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L59)
 
 ### isPublic[](#isPublic)
 
 isPublic: boolean
 
-*   Defined in [src/models/Event.ts:61](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L61)
+*   Defined in [src/models/Event.ts:61](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L61)
 
 ### isRegisterable[](#isRegisterable)
 
 isRegisterable: boolean
 
-*   Defined in [src/models/Event.ts:62](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L62)
+*   Defined in [src/models/Event.ts:62](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L62)
 
 ### latitude[](#latitude)
 
 latitude: undefined | number
 
-*   Defined in [src/models/Event.ts:52](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L52)
+*   Defined in [src/models/Event.ts:52](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L52)
 
 ### location[](#location)
 
 location: undefined | string
 
-*   Defined in [src/models/Event.ts:51](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L51)
+*   Defined in [src/models/Event.ts:51](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L51)
 
 ### longitude[](#longitude)
 
 longitude: number
 
-*   Defined in [src/models/Event.ts:53](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L53)
+*   Defined in [src/models/Event.ts:53](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L53)
 
 ### organization[](#organization)
 
 organization: any
 
-*   Defined in [src/models/Event.ts:66](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L66)
+*   Defined in [src/models/Event.ts:66](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L66)
 
 ### recurrance[](#recurrance)
 
 recurrance: string
 
-*   Defined in [src/models/Event.ts:60](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L60)
+*   Defined in [src/models/Event.ts:60](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L60)
 
 ### recurring[](#recurring)
 
 recurring: boolean
 
-*   Defined in [src/models/Event.ts:54](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L54)
+*   Defined in [src/models/Event.ts:54](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L54)
 
 ### registrants[](#registrants)
 
 registrants: any\[\]
 
-*   Defined in [src/models/Event.ts:64](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L64)
+*   Defined in [src/models/Event.ts:64](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L64)
 
 ### startDate[](#startDate)
 
 startDate: string
 
-*   Defined in [src/models/Event.ts:56](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L56)
+*   Defined in [src/models/Event.ts:56](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L56)
 
 ### startTime[](#startTime)
 
 startTime: undefined | string
 
-*   Defined in [src/models/Event.ts:58](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L58)
+*   Defined in [src/models/Event.ts:58](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L58)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/Event.ts:68](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L68)
+*   Defined in [src/models/Event.ts:68](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L68)
 
 ### tasks[](#tasks)
 
 tasks: any\[\]
 
-*   Defined in [src/models/Event.ts:67](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L67)
+*   Defined in [src/models/Event.ts:67](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L67)
 
 ### title[](#title)
 
 title: string
 
-*   Defined in [src/models/Event.ts:48](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L48)
+*   Defined in [src/models/Event.ts:48](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L48)
 
 ### Settings
 

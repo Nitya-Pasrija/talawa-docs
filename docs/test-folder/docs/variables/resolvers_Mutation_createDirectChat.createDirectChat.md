@@ -41,7 +41,7 @@ The following checks are done:
 
 Created chat
 
-*   Defined in [src/resolvers/Mutation/createDirectChat.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createDirectChat.ts#L18)
+*   Defined in [src/resolvers/Mutation/createDirectChat.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createDirectChat.ts#L18)
 
 ### Settings
 

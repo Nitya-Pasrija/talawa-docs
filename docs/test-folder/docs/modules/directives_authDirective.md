@@ -13,7 +13,7 @@ directives/authDirective | talawa-apidocument.documentElement.dataset.theme = lo
 Module directives/authDirective
 ===============================
 
-*   Defined in [src/directives/authDirective.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/directives/authDirective.ts#L1)
+*   Defined in [src/directives/authDirective.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/directives/authDirective.ts#L1)
 
 ### Index
 

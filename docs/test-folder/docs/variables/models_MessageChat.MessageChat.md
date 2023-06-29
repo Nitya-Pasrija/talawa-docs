@@ -20,7 +20,7 @@ MessageChat: Model<[InterfaceMessageChat](../interfaces/models_MessageChat.Inter
 
 #### Type declaration
 
-*   Defined in [src/models/MessageChat.ts:54](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MessageChat.ts#L54)
+*   Defined in [src/models/MessageChat.ts:54](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MessageChat.ts#L54)
 
 ### Settings
 

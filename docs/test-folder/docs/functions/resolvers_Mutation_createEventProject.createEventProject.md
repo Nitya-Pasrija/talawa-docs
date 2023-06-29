@@ -44,7 +44,7 @@ Function createEventProject
     2.  If the event exists
     3.  If the user is an admin of the event.
     
-    *   Defined in [src/resolvers/Mutation/createEventProject.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createEventProject.ts#L20)
+    *   Defined in [src/resolvers/Mutation/createEventProject.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createEventProject.ts#L20)
     
 
 ### Settings

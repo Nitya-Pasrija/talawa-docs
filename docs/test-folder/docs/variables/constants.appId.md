@@ -16,7 +16,7 @@ Variable appId`Const`
 
 appId: undefined | string = ENV.appId
 
-*   Defined in [src/constants.ts:327](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L327)
+*   Defined in [src/constants.ts:327](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L327)
 
 ### Settings
 

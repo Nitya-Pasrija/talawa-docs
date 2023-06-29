@@ -43,7 +43,7 @@ Function updateEventProject
     1.  If the user exists.
     2.  If the event project exists.
     
-    *   Defined in [src/resolvers/Mutation/updateEventProject.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updateEventProject.ts#L20)
+    *   Defined in [src/resolvers/Mutation/updateEventProject.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updateEventProject.ts#L20)
     
 
 ### Settings

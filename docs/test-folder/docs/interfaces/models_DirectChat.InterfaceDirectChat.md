@@ -20,7 +20,7 @@ This is an interface representing a document for direct chat in the database(Mon
 
 *   InterfaceDirectChat
 
-*   Defined in [src/models/DirectChat.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChat.ts#L9)
+*   Defined in [src/models/DirectChat.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChat.ts#L9)
 
 ##### Index
 
@@ -35,37 +35,37 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/DirectChat.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChat.ts#L10)
+*   Defined in [src/models/DirectChat.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChat.ts#L10)
 
 ### creator[](#creator)
 
 creator: any
 
-*   Defined in [src/models/DirectChat.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChat.ts#L13)
+*   Defined in [src/models/DirectChat.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChat.ts#L13)
 
 ### messages[](#messages)
 
 messages: any\[\]
 
-*   Defined in [src/models/DirectChat.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChat.ts#L12)
+*   Defined in [src/models/DirectChat.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChat.ts#L12)
 
 ### organization[](#organization)
 
 organization: any
 
-*   Defined in [src/models/DirectChat.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChat.ts#L14)
+*   Defined in [src/models/DirectChat.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChat.ts#L14)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/DirectChat.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChat.ts#L15)
+*   Defined in [src/models/DirectChat.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChat.ts#L15)
 
 ### users[](#users)
 
 users: any\[\]
 
-*   Defined in [src/models/DirectChat.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChat.ts#L11)
+*   Defined in [src/models/DirectChat.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChat.ts#L11)
 
 ### Settings
 

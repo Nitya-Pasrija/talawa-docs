@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Organizati
 
 *   InterfaceOrganization
 
-*   Defined in [src/models/Organization.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L10)
+*   Defined in [src/models/Organization.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L10)
 
 ##### Index
 
@@ -35,109 +35,109 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/Organization.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L11)
+*   Defined in [src/models/Organization.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L11)
 
 ### admins[](#admins)
 
 admins: any\[\]
 
-*   Defined in [src/models/Organization.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L21)
+*   Defined in [src/models/Organization.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L21)
 
 ### apiUrl[](#apiUrl)
 
 apiUrl: undefined | string
 
-*   Defined in [src/models/Organization.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L12)
+*   Defined in [src/models/Organization.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L12)
 
 ### blockedUsers[](#blockedUsers)
 
 blockedUsers: any\[\]
 
-*   Defined in [src/models/Organization.ts:26](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L26)
+*   Defined in [src/models/Organization.ts:26](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L26)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/Organization.ts:28](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L28)
+*   Defined in [src/models/Organization.ts:28](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L28)
 
 ### creator[](#creator)
 
 creator: any
 
-*   Defined in [src/models/Organization.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L18)
+*   Defined in [src/models/Organization.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L18)
 
 ### description[](#description)
 
 description: string
 
-*   Defined in [src/models/Organization.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L15)
+*   Defined in [src/models/Organization.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L15)
 
 ### groupChats[](#groupChats)
 
 groupChats: any\[\]
 
-*   Defined in [src/models/Organization.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L22)
+*   Defined in [src/models/Organization.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L22)
 
 ### image[](#image)
 
 image: undefined | string
 
-*   Defined in [src/models/Organization.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L13)
+*   Defined in [src/models/Organization.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L13)
 
 ### isPublic[](#isPublic)
 
 isPublic: boolean
 
-*   Defined in [src/models/Organization.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L17)
+*   Defined in [src/models/Organization.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L17)
 
 ### location[](#location)
 
 location: undefined | string
 
-*   Defined in [src/models/Organization.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L16)
+*   Defined in [src/models/Organization.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L16)
 
 ### members[](#members)
 
 members: any\[\]
 
-*   Defined in [src/models/Organization.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L20)
+*   Defined in [src/models/Organization.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L20)
 
 ### membershipRequests[](#membershipRequests)
 
 membershipRequests: any\[\]
 
-*   Defined in [src/models/Organization.ts:25](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L25)
+*   Defined in [src/models/Organization.ts:25](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L25)
 
 ### name[](#name)
 
 name: string
 
-*   Defined in [src/models/Organization.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L14)
+*   Defined in [src/models/Organization.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L14)
 
 ### pinnedPosts[](#pinnedPosts)
 
 pinnedPosts: any\[\]
 
-*   Defined in [src/models/Organization.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L24)
+*   Defined in [src/models/Organization.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L24)
 
 ### posts[](#posts)
 
 posts: any\[\]
 
-*   Defined in [src/models/Organization.ts:23](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L23)
+*   Defined in [src/models/Organization.ts:23](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L23)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/Organization.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L19)
+*   Defined in [src/models/Organization.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L19)
 
 ### visibleInSearch[](#visibleInSearch)
 
 visibleInSearch: undefined | boolean
 
-*   Defined in [src/models/Organization.ts:27](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L27)
+*   Defined in [src/models/Organization.ts:27](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L27)
 
 ### Settings
 

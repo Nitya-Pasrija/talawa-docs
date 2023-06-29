@@ -13,7 +13,7 @@ resolvers/Post/comments | talawa-apidocument.documentElement.dataset.theme = loc
 Module resolvers/Post/comments
 ==============================
 
-*   Defined in [src/resolvers/Post/comments.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Post/comments.ts#L1)
+*   Defined in [src/resolvers/Post/comments.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Post/comments.ts#L1)
 
 ### Index
 

@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Task.
 
 *   InterfaceTask
 
-*   Defined in [src/models/Task.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Task.ts#L8)
+*   Defined in [src/models/Task.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Task.ts#L8)
 
 ##### Index
 
@@ -35,49 +35,49 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/Task.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Task.ts#L9)
+*   Defined in [src/models/Task.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Task.ts#L9)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/Task.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Task.ts#L13)
+*   Defined in [src/models/Task.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Task.ts#L13)
 
 ### creator[](#creator)
 
 creator: any
 
-*   Defined in [src/models/Task.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Task.ts#L16)
+*   Defined in [src/models/Task.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Task.ts#L16)
 
 ### deadline[](#deadline)
 
 deadline: undefined | Date
 
-*   Defined in [src/models/Task.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Task.ts#L14)
+*   Defined in [src/models/Task.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Task.ts#L14)
 
 ### description[](#description)
 
 description: undefined | string
 
-*   Defined in [src/models/Task.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Task.ts#L11)
+*   Defined in [src/models/Task.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Task.ts#L11)
 
 ### event[](#event)
 
 event: any
 
-*   Defined in [src/models/Task.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Task.ts#L15)
+*   Defined in [src/models/Task.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Task.ts#L15)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/Task.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Task.ts#L12)
+*   Defined in [src/models/Task.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Task.ts#L12)
 
 ### title[](#title)
 
 title: string
 
-*   Defined in [src/models/Task.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Task.ts#L10)
+*   Defined in [src/models/Task.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Task.ts#L10)
 
 ### Settings
 

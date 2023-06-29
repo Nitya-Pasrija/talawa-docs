@@ -30,7 +30,7 @@ payload provided with the request
 
 New access and refresh tokens.
 
-*   Defined in [src/resolvers/Mutation/refreshToken.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/refreshToken.ts#L19)
+*   Defined in [src/resolvers/Mutation/refreshToken.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/refreshToken.ts#L19)
 
 ### Settings
 

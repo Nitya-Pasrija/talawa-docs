@@ -31,7 +31,7 @@ stream: {
             #### Returns void
             
 
-*   Defined in [src/libraries/logger.ts:55](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/logger.ts#L55)
+*   Defined in [src/libraries/logger.ts:55](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/logger.ts#L55)
 
 ### Settings
 

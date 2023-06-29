@@ -16,7 +16,7 @@ Variable MAIL\_PASSWORD`Const`
 
 MAIL\_PASSWORD: undefined | string = ENV.MAIL\_PASSWORD
 
-*   Defined in [src/constants.ts:323](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L323)
+*   Defined in [src/constants.ts:323](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L323)
 
 ### Settings
 

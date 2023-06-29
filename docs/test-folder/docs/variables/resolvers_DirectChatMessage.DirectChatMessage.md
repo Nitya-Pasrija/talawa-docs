@@ -16,7 +16,7 @@ Variable DirectChatMessage`Const`
 
 DirectChatMessage: [DirectChatMessageResolvers](../types/types_generatedGraphQLTypes.DirectChatMessageResolvers.html) = ...
 
-*   Defined in [src/resolvers/DirectChatMessage/index.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/DirectChatMessage/index.ts#L6)
+*   Defined in [src/resolvers/DirectChatMessage/index.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/DirectChatMessage/index.ts#L6)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/DirectChatMessage/receiver | talawa-apidocument.documentElement.datase
 Module resolvers/DirectChatMessage/receiver
 ===========================================
 
-*   Defined in [src/resolvers/DirectChatMessage/receiver.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/DirectChatMessage/receiver.ts#L1)
+*   Defined in [src/resolvers/DirectChatMessage/receiver.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/DirectChatMessage/receiver.ts#L1)
 
 ### Index
 

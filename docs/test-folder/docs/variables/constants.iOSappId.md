@@ -16,7 +16,7 @@ Variable iOSappId`Const`
 
 iOSappId: undefined | string = ENV.iOSappId
 
-*   Defined in [src/constants.ts:337](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L337)
+*   Defined in [src/constants.ts:337](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L337)
 
 ### Settings
 

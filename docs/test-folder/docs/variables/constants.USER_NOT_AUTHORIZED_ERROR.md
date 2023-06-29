@@ -32,7 +32,7 @@ USER\_NOT\_AUTHORIZED\_ERROR: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:262](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L262)
+*   Defined in [src/constants.ts:262](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L262)
 
 ### Settings
 

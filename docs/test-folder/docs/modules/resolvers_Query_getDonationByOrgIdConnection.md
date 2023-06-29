@@ -13,7 +13,7 @@ resolvers/Query/getDonationByOrgIdConnection | talawa-apidocument.documentElemen
 Module resolvers/Query/getDonationByOrgIdConnection
 ===================================================
 
-*   Defined in [src/resolvers/Query/getDonationByOrgIdConnection.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/getDonationByOrgIdConnection.ts#L1)
+*   Defined in [src/resolvers/Query/getDonationByOrgIdConnection.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/getDonationByOrgIdConnection.ts#L1)
 
 ### Index
 

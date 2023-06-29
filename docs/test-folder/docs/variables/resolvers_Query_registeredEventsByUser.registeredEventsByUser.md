@@ -32,7 +32,7 @@ An object that contains the Event data.
 
 The query function uses `getSort()` function to sort the data in specified.
 
-*   Defined in [src/resolvers/Query/registeredEventsByUser.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/registeredEventsByUser.ts#L12)
+*   Defined in [src/resolvers/Query/registeredEventsByUser.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/registeredEventsByUser.ts#L12)
 
 ### Settings
 

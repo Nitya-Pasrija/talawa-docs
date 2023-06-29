@@ -35,7 +35,7 @@ PluginInput: {
 *   ##### `Optional` pluginType?: [InputMaybe](types_generatedGraphQLTypes.InputMaybe.html)<[Type](types_generatedGraphQLTypes.Type.html)\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:983](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L983)
+*   Defined in [src/types/generatedGraphQLTypes.ts:983](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L983)
 
 ### Settings
 

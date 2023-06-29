@@ -16,7 +16,7 @@ Variable enums`Const`
 
 enums: DocumentNode = ...
 
-*   Defined in [src/typeDefs/enums.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/enums.ts#L4)
+*   Defined in [src/typeDefs/enums.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/enums.ts#L4)
 
 ### Settings
 

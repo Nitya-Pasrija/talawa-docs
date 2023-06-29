@@ -28,7 +28,7 @@ An object that contains `id` of the Post.
 
 An object `post`. If the `appLanguageCode` field not found then it throws a `NotFoundError` error.
 
-*   Defined in [src/resolvers/Query/post.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/post.ts#L11)
+*   Defined in [src/resolvers/Query/post.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/post.ts#L11)
 
 ### Settings
 

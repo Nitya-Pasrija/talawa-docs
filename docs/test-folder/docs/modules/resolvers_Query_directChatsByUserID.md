@@ -13,7 +13,7 @@ resolvers/Query/directChatsByUserID | talawa-apidocument.documentElement.dataset
 Module resolvers/Query/directChatsByUserID
 ==========================================
 
-*   Defined in [src/resolvers/Query/directChatsByUserID.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/directChatsByUserID.ts#L1)
+*   Defined in [src/resolvers/Query/directChatsByUserID.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/directChatsByUserID.ts#L1)
 
 ### Index
 

@@ -26,7 +26,7 @@ MutationCreateTaskArgs: {
 *   ##### eventId: [Scalars](types_generatedGraphQLTypes.Scalars.html)\["ID"\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:579](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L579)
+*   Defined in [src/types/generatedGraphQLTypes.ts:579](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L579)
 
 ### Settings
 

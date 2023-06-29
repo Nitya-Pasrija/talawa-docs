@@ -13,7 +13,7 @@ models/Plugin | talawa-apidocument.documentElement.dataset.theme = localStorage.
 Module models/Plugin
 ====================
 
-*   Defined in [src/models/Plugin.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Plugin.ts#L1)
+*   Defined in [src/models/Plugin.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Plugin.ts#L1)
 
 ### Index
 

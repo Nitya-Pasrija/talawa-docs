@@ -13,7 +13,7 @@ resolvers/Mutation/removeUserImage | talawa-apidocument.documentElement.dataset.
 Module resolvers/Mutation/removeUserImage
 =========================================
 
-*   Defined in [src/resolvers/Mutation/removeUserImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeUserImage.ts#L1)
+*   Defined in [src/resolvers/Mutation/removeUserImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeUserImage.ts#L1)
 
 ### Index
 

@@ -35,7 +35,7 @@ Language: {
 *   ##### `Optional` translation?: [Maybe](types_generatedGraphQLTypes.Maybe.html)<[Maybe](types_generatedGraphQLTypes.Maybe.html)<[LanguageModel](types_generatedGraphQLTypes.LanguageModel.html)\>\[\]\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:308](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L308)
+*   Defined in [src/types/generatedGraphQLTypes.ts:308](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L308)
 
 ### Settings
 

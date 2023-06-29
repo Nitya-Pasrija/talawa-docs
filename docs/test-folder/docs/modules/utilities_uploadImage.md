@@ -13,7 +13,7 @@ utilities/uploadImage | talawa-apidocument.documentElement.dataset.theme = local
 Module utilities/uploadImage
 ============================
 
-*   Defined in [src/utilities/uploadImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/uploadImage.ts#L1)
+*   Defined in [src/utilities/uploadImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/uploadImage.ts#L1)
 
 ### Index
 

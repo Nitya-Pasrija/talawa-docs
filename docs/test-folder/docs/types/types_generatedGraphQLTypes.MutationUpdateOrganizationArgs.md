@@ -29,7 +29,7 @@ MutationUpdateOrganizationArgs: {
 *   ##### id: [Scalars](types_generatedGraphQLTypes.Scalars.html)\["ID"\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:792](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L792)
+*   Defined in [src/types/generatedGraphQLTypes.ts:792](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L792)
 
 ### Settings
 

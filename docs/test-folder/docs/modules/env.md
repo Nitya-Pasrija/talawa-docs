@@ -13,7 +13,7 @@ env | talawa-apidocument.documentElement.dataset.theme = localStorage.getItem("t
 Module env
 ==========
 
-*   Defined in [src/env.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/env.ts#L1)
+*   Defined in [src/env.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/env.ts#L1)
 
 ### Index
 

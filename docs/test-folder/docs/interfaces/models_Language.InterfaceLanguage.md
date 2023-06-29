@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Language.
 
 *   InterfaceLanguage
 
-*   Defined in [src/models/Language.ts:46](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L46)
+*   Defined in [src/models/Language.ts:46](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L46)
 
 ##### Index
 
@@ -35,25 +35,25 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/Language.ts:47](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L47)
+*   Defined in [src/models/Language.ts:47](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L47)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/Language.ts:50](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L50)
+*   Defined in [src/models/Language.ts:50](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L50)
 
 ### en[](#en)
 
 en: string
 
-*   Defined in [src/models/Language.ts:48](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L48)
+*   Defined in [src/models/Language.ts:48](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L48)
 
 ### translation[](#translation)
 
 translation: any\[\]
 
-*   Defined in [src/models/Language.ts:49](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L49)
+*   Defined in [src/models/Language.ts:49](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L49)
 
 ### Settings
 

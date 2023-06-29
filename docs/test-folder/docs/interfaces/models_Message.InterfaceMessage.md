@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Message.
 
 *   InterfaceMessage
 
-*   Defined in [src/models/Message.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L8)
+*   Defined in [src/models/Message.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L8)
 
 ##### Index
 
@@ -35,49 +35,49 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/Message.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L9)
+*   Defined in [src/models/Message.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L9)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/Message.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L13)
+*   Defined in [src/models/Message.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L13)
 
 ### creator[](#creator)
 
 creator: any
 
-*   Defined in [src/models/Message.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L14)
+*   Defined in [src/models/Message.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L14)
 
 ### group[](#group)
 
 group: any
 
-*   Defined in [src/models/Message.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L15)
+*   Defined in [src/models/Message.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L15)
 
 ### imageUrl[](#imageUrl)
 
 imageUrl: undefined | string
 
-*   Defined in [src/models/Message.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L11)
+*   Defined in [src/models/Message.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L11)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/Message.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L16)
+*   Defined in [src/models/Message.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L16)
 
 ### text[](#text)
 
 text: string
 
-*   Defined in [src/models/Message.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L10)
+*   Defined in [src/models/Message.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L10)
 
 ### videoUrl[](#videoUrl)
 
 videoUrl: undefined | string
 
-*   Defined in [src/models/Message.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L12)
+*   Defined in [src/models/Message.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L12)
 
 ### Settings
 

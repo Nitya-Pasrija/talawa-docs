@@ -13,7 +13,7 @@ utilities/adminCheck | talawa-apidocument.documentElement.dataset.theme = localS
 Module utilities/adminCheck
 ===========================
 
-*   Defined in [src/utilities/adminCheck.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/adminCheck.ts#L1)
+*   Defined in [src/utilities/adminCheck.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/adminCheck.ts#L1)
 
 ### Index
 

@@ -13,7 +13,7 @@ utilities/mailer | talawa-apidocument.documentElement.dataset.theme = localStora
 Module utilities/mailer
 =======================
 
-*   Defined in [src/utilities/mailer.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/mailer.ts#L1)
+*   Defined in [src/utilities/mailer.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/mailer.ts#L1)
 
 ### Index
 

@@ -16,7 +16,7 @@ Variable iosClientId`Const`
 
 iosClientId: undefined | string = ENV.iosClientId
 
-*   Defined in [src/constants.ts:345](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L345)
+*   Defined in [src/constants.ts:345](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L345)
 
 ### Settings
 

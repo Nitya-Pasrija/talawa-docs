@@ -27,7 +27,7 @@ NextResolverFn<T\>: (() => Promise<T\>)
     *   #### Returns Promise<T\>
         
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1622](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1622)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1622](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1622)
 
 ### Settings
 

@@ -98,7 +98,7 @@ OrganizationWhereInput: {
 *   ##### `Optional` visibleInSearch?: [InputMaybe](types_generatedGraphQLTypes.InputMaybe.html)<[Scalars](types_generatedGraphQLTypes.Scalars.html)\["Boolean"\]\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:913](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L913)
+*   Defined in [src/types/generatedGraphQLTypes.ts:913](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L913)
 
 ### Settings
 

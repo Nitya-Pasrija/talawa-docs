@@ -16,7 +16,7 @@ Variable User`Const`
 
 User: [UserResolvers](../types/types_generatedGraphQLTypes.UserResolvers.html) = {}
 
-*   Defined in [src/resolvers/User/index.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/User/index.ts#L4)
+*   Defined in [src/resolvers/User/index.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/User/index.ts#L4)
 
 ### Settings
 

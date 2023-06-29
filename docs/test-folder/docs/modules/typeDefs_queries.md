@@ -13,7 +13,7 @@ typeDefs/queries | talawa-apidocument.documentElement.dataset.theme = localStora
 Module typeDefs/queries
 =======================
 
-*   Defined in [src/typeDefs/queries.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/queries.ts#L1)
+*   Defined in [src/typeDefs/queries.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/queries.ts#L1)
 
 ### Index
 

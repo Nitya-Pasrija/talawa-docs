@@ -120,7 +120,7 @@ QueryResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` usersConnection?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[Maybe](types_generatedGraphQLTypes.Maybe.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["User"\]\>\[\], ParentType, ContextType, Partial<[QueryUsersConnectionArgs](types_generatedGraphQLTypes.QueryUsersConnectionArgs.html)\>\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2233](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2233)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2233](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2233)
 
 ### Settings
 

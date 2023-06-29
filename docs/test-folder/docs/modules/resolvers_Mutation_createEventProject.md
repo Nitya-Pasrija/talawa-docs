@@ -13,7 +13,7 @@ resolvers/Mutation/createEventProject | talawa-apidocument.documentElement.datas
 Module resolvers/Mutation/createEventProject
 ============================================
 
-*   Defined in [src/resolvers/Mutation/createEventProject.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createEventProject.ts#L1)
+*   Defined in [src/resolvers/Mutation/createEventProject.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createEventProject.ts#L1)
 
 ### Index
 

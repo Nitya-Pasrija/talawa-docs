@@ -66,7 +66,7 @@ PostResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` videoUrl?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[Maybe](types_generatedGraphQLTypes.Maybe.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["URL"\]\>, ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2210](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2210)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2210](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2210)
 
 ### Settings
 

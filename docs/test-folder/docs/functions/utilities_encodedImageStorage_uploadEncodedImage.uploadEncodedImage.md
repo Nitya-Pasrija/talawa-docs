@@ -24,7 +24,7 @@ Function uploadEncodedImage
     
     #### Returns Promise<string\>
     
-    *   Defined in [src/utilities/encodedImageStorage/uploadEncodedImage.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/encodedImageStorage/uploadEncodedImage.ts#L11)
+    *   Defined in [src/utilities/encodedImageStorage/uploadEncodedImage.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/encodedImageStorage/uploadEncodedImage.ts#L11)
     
 
 ### Settings

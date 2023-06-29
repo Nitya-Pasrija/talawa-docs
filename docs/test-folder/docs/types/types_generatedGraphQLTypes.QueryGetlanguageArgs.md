@@ -23,7 +23,7 @@ QueryGetlanguageArgs: {
 *   ##### lang\_code: [Scalars](types_generatedGraphQLTypes.Scalars.html)\["String"\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1161](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1161)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1161](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1161)
 
 ### Settings
 

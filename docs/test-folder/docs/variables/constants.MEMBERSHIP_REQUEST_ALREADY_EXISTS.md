@@ -16,7 +16,7 @@ Variable MEMBERSHIP\_REQUEST\_ALREADY\_EXISTS`Const`
 
 MEMBERSHIP\_REQUEST\_ALREADY\_EXISTS: "Membership Request already exists" = "Membership Request already exists"
 
-*   Defined in [src/constants.ts:49](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L49)
+*   Defined in [src/constants.ts:49](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L49)
 
 ### Settings
 

@@ -208,7 +208,7 @@ envSchema: ZodObject<{
 *   ##### storageBucket: string
     
 
-*   Defined in [src/env.ts:3](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/env.ts#L3)
+*   Defined in [src/env.ts:3](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/env.ts#L3)
 
 ### Settings
 

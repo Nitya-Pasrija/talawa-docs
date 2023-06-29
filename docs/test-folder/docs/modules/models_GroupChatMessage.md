@@ -13,7 +13,7 @@ models/GroupChatMessage | talawa-apidocument.documentElement.dataset.theme = loc
 Module models/GroupChatMessage
 ==============================
 
-*   Defined in [src/models/GroupChatMessage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChatMessage.ts#L1)
+*   Defined in [src/models/GroupChatMessage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChatMessage.ts#L1)
 
 ### Index
 

@@ -36,7 +36,7 @@ SubscriptionResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` messageSentToGroupChat?: [SubscriptionResolver](types_generatedGraphQLTypes.SubscriptionResolver.html)<[Maybe](types_generatedGraphQLTypes.Maybe.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["GroupChatMessage"\]\>, "messageSentToGroupChat", ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2267](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2267)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2267](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2267)
 
 ### Settings
 

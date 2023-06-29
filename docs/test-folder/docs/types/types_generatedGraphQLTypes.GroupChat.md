@@ -38,7 +38,7 @@ GroupChat: {
 *   ##### users: [User](types_generatedGraphQLTypes.User.html)\[\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:279](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L279)
+*   Defined in [src/types/generatedGraphQLTypes.ts:279](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L279)
 
 ### Settings
 

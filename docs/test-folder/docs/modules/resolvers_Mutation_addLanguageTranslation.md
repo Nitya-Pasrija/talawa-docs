@@ -13,7 +13,7 @@ resolvers/Mutation/addLanguageTranslation | talawa-apidocument.documentElement.d
 Module resolvers/Mutation/addLanguageTranslation
 ================================================
 
-*   Defined in [src/resolvers/Mutation/addLanguageTranslation.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/addLanguageTranslation.ts#L1)
+*   Defined in [src/resolvers/Mutation/addLanguageTranslation.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/addLanguageTranslation.ts#L1)
 
 ### Index
 

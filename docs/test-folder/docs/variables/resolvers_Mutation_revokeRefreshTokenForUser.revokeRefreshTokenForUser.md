@@ -30,7 +30,7 @@ payload provided with the request
 
 True is operation successful.
 
-*   Defined in [src/resolvers/Mutation/revokeRefreshTokenForUser.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/revokeRefreshTokenForUser.ts#L9)
+*   Defined in [src/resolvers/Mutation/revokeRefreshTokenForUser.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/revokeRefreshTokenForUser.ts#L9)
 
 ### Settings
 

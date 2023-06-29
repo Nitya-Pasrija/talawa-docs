@@ -29,7 +29,7 @@ USER\_ALREADY\_HAS\_TAG: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:222](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L222)
+*   Defined in [src/constants.ts:222](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L222)
 
 ### Settings
 

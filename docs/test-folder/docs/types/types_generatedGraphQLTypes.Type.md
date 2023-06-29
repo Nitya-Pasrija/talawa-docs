@@ -16,7 +16,7 @@ Type alias Type
 
 Type: "PRIVATE" | "UNIVERSAL"
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1335](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1335)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1335](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1335)
 
 ### Settings
 

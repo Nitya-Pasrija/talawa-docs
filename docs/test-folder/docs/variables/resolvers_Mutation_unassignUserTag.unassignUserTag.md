@@ -16,7 +16,7 @@ Variable unassignUserTag`Const`
 
 unassignUserTag: [MutationResolvers](../types/types_generatedGraphQLTypes.MutationResolvers.html)\["unassignUserTag"\] = ...
 
-*   Defined in [src/resolvers/Mutation/unassignUserTag.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/unassignUserTag.ts#L11)
+*   Defined in [src/resolvers/Mutation/unassignUserTag.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/unassignUserTag.ts#L11)
 
 ### Settings
 

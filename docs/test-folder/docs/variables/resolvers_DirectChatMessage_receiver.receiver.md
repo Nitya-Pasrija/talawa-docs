@@ -26,7 +26,7 @@ An object that is the return value of the resolver for this field's parent.
 
 An `object` that contains User's data.
 
-*   Defined in [src/resolvers/DirectChatMessage/receiver.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/DirectChatMessage/receiver.ts#L8)
+*   Defined in [src/resolvers/DirectChatMessage/receiver.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/DirectChatMessage/receiver.ts#L8)
 
 ### Settings
 

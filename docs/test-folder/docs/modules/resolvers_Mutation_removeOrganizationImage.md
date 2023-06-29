@@ -13,7 +13,7 @@ resolvers/Mutation/removeOrganizationImage | talawa-apidocument.documentElement.
 Module resolvers/Mutation/removeOrganizationImage
 =================================================
 
-*   Defined in [src/resolvers/Mutation/removeOrganizationImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeOrganizationImage.ts#L1)
+*   Defined in [src/resolvers/Mutation/removeOrganizationImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeOrganizationImage.ts#L1)
 
 ### Index
 

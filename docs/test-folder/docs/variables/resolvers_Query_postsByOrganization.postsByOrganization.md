@@ -32,7 +32,7 @@ An object that contains the Post.
 
 The query function uses `getSort()` function to sort the data in specified order.
 
-*   Defined in [src/resolvers/Query/postsByOrganization.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/postsByOrganization.ts#L13)
+*   Defined in [src/resolvers/Query/postsByOrganization.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/postsByOrganization.ts#L13)
 
 ### Settings
 

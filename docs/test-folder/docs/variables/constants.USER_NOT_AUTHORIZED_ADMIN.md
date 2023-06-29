@@ -29,7 +29,7 @@ USER\_NOT\_AUTHORIZED\_ADMIN: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:131](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L131)
+*   Defined in [src/constants.ts:131](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L131)
 
 ### Settings
 

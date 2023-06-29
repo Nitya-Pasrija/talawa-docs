@@ -16,7 +16,7 @@ Variable UserTag`Const`
 
 UserTag: [UserTagResolvers](../types/types_generatedGraphQLTypes.UserTagResolvers.html) = ...
 
-*   Defined in [src/resolvers/UserTag/index.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/UserTag/index.ts#L7)
+*   Defined in [src/resolvers/UserTag/index.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/UserTag/index.ts#L7)
 
 ### Settings
 

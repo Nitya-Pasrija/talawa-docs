@@ -32,7 +32,7 @@ An object that contains `userId` of the User.
 
 An object that contains an `event` object and a boolean property `isRegistered`. If the `event` is null or not found then throws `NotFoundError` error.
 
-*   Defined in [src/resolvers/Query/isUserRegister.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/isUserRegister.ts#L13)
+*   Defined in [src/resolvers/Query/isUserRegister.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/isUserRegister.ts#L13)
 
 ### Settings
 

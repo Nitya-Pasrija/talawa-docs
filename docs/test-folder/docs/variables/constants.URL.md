@@ -16,7 +16,7 @@ Variable URL`Const`
 
 URL: "http://localhost:4000/graphql" | "http://calico.palisadoes.org/talawa/graphql" = ...
 
-*   Defined in [src/constants.ts:245](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L245)
+*   Defined in [src/constants.ts:245](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L245)
 
 ### Settings
 

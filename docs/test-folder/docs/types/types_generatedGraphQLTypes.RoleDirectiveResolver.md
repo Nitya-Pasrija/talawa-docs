@@ -27,7 +27,7 @@ RoleDirectiveResolver<Result, Parent, ContextType, Args\>: [DirectiveResolverFn]
 *   #### Args = [RoleDirectiveArgs](types_generatedGraphQLTypes.RoleDirectiveArgs.html)
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1835](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1835)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1835](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1835)
 
 ### Settings
 

@@ -16,7 +16,7 @@ Variable types`Const`
 
 types: DocumentNode = ...
 
-*   Defined in [src/typeDefs/types.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/types.ts#L4)
+*   Defined in [src/typeDefs/types.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/types.ts#L4)
 
 ### Settings
 

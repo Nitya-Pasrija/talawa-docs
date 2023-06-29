@@ -30,7 +30,7 @@ Function deleteImage
     
     #### Returns Promise<void\>
     
-    *   Defined in [src/utilities/deleteImage.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/deleteImage.ts#L12)
+    *   Defined in [src/utilities/deleteImage.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/deleteImage.ts#L12)
     
 
 ### Settings

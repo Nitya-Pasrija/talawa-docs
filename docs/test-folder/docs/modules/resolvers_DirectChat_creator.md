@@ -13,7 +13,7 @@ resolvers/DirectChat/creator | talawa-apidocument.documentElement.dataset.theme 
 Module resolvers/DirectChat/creator
 ===================================
 
-*   Defined in [src/resolvers/DirectChat/creator.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/DirectChat/creator.ts#L1)
+*   Defined in [src/resolvers/DirectChat/creator.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/DirectChat/creator.ts#L1)
 
 ### Index
 

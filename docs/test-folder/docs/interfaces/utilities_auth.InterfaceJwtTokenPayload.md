@@ -18,7 +18,7 @@ Interface InterfaceJwtTokenPayload
 
 *   InterfaceJwtTokenPayload
 
-*   Defined in [src/utilities/auth.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/auth.ts#L5)
+*   Defined in [src/utilities/auth.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/auth.ts#L5)
 
 ##### Index
 
@@ -33,31 +33,31 @@ Properties
 
 email: string
 
-*   Defined in [src/utilities/auth.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/auth.ts#L10)
+*   Defined in [src/utilities/auth.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/auth.ts#L10)
 
 ### firstName[](#firstName)
 
 firstName: string
 
-*   Defined in [src/utilities/auth.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/auth.ts#L8)
+*   Defined in [src/utilities/auth.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/auth.ts#L8)
 
 ### lastName[](#lastName)
 
 lastName: string
 
-*   Defined in [src/utilities/auth.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/auth.ts#L9)
+*   Defined in [src/utilities/auth.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/auth.ts#L9)
 
 ### tokenVersion[](#tokenVersion)
 
 tokenVersion: number
 
-*   Defined in [src/utilities/auth.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/auth.ts#L6)
+*   Defined in [src/utilities/auth.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/auth.ts#L6)
 
 ### userId[](#userId)
 
 userId: string
 
-*   Defined in [src/utilities/auth.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/auth.ts#L7)
+*   Defined in [src/utilities/auth.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/auth.ts#L7)
 
 ### Settings
 

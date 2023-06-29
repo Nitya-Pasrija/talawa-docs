@@ -42,7 +42,7 @@ The following checks are done:
 
 Created event
 
-*   Defined in [src/resolvers/Mutation/createEvent.ts:31](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createEvent.ts#L31)
+*   Defined in [src/resolvers/Mutation/createEvent.ts:31](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createEvent.ts#L31)
 
 ### Settings
 

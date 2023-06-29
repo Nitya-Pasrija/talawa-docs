@@ -13,7 +13,7 @@ resolvers/Mutation/createDonation | talawa-apidocument.documentElement.dataset.t
 Module resolvers/Mutation/createDonation
 ========================================
 
-*   Defined in [src/resolvers/Mutation/createDonation.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createDonation.ts#L1)
+*   Defined in [src/resolvers/Mutation/createDonation.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createDonation.ts#L1)
 
 ### Index
 

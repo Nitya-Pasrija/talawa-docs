@@ -20,7 +20,7 @@ Plugin: Model<[InterfacePlugin](../interfaces/models_Plugin.InterfacePlugin.html
 
 #### Type declaration
 
-*   Defined in [src/models/Plugin.ts:54](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Plugin.ts#L54)
+*   Defined in [src/models/Plugin.ts:54](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Plugin.ts#L54)
 
 ### Settings
 

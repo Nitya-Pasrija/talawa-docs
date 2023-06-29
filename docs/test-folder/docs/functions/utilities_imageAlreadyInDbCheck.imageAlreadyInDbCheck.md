@@ -32,7 +32,7 @@ Function imageAlreadyInDbCheck
     
     file name.
     
-    *   Defined in [src/utilities/imageAlreadyInDbCheck.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/imageAlreadyInDbCheck.ts#L16)
+    *   Defined in [src/utilities/imageAlreadyInDbCheck.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/imageAlreadyInDbCheck.ts#L16)
     
 
 ### Settings

@@ -41,7 +41,7 @@ The following checks are done:
 
 Created Post
 
-*   Defined in [src/resolvers/Mutation/createPost.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createPost.ts#L22)
+*   Defined in [src/resolvers/Mutation/createPost.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createPost.ts#L22)
 
 ### Settings
 

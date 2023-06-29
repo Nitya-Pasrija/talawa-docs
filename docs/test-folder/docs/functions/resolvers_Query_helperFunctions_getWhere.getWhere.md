@@ -46,7 +46,7 @@ Function getWhere
         const inputArgs = getWhere<InterfaceEvent>(args.where);
         
     
-    *   Defined in [src/resolvers/Query/helperFunctions/getWhere.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/helperFunctions/getWhere.ts#L24)
+    *   Defined in [src/resolvers/Query/helperFunctions/getWhere.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/helperFunctions/getWhere.ts#L24)
     
 
 ### Settings

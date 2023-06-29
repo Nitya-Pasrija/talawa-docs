@@ -13,7 +13,7 @@ resolvers/Query/me | talawa-apidocument.documentElement.dataset.theme = localSto
 Module resolvers/Query/me
 =========================
 
-*   Defined in [src/resolvers/Query/me.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/me.ts#L1)
+*   Defined in [src/resolvers/Query/me.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/me.ts#L1)
 
 ### Index
 

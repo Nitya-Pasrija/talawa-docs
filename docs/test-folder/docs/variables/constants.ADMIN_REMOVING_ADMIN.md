@@ -29,7 +29,7 @@ ADMIN\_REMOVING\_ADMIN: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:156](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L156)
+*   Defined in [src/constants.ts:156](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L156)
 
 ### Settings
 

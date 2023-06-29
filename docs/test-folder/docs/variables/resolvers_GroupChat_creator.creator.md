@@ -26,7 +26,7 @@ An object that is the return value of the resolver for this field's parent.
 
 An object that contains the User data.
 
-*   Defined in [src/resolvers/GroupChat/creator.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/GroupChat/creator.ts#L8)
+*   Defined in [src/resolvers/GroupChat/creator.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/GroupChat/creator.ts#L8)
 
 ### Settings
 

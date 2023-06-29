@@ -13,7 +13,7 @@ middleware | talawa-apidocument.documentElement.dataset.theme = localStorage.get
 Module middleware
 =================
 
-*   Defined in [src/middleware/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/middleware/index.ts#L1)
+*   Defined in [src/middleware/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/middleware/index.ts#L1)
 
 ##### Index
 

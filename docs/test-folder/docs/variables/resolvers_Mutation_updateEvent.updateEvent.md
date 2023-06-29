@@ -42,7 +42,7 @@ The following checks are done:
 
 Updated event.
 
-*   Defined in [src/resolvers/Mutation/updateEvent.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updateEvent.ts#L22)
+*   Defined in [src/resolvers/Mutation/updateEvent.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updateEvent.ts#L22)
 
 ### Settings
 

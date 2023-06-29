@@ -20,7 +20,7 @@ This is an interface representing a document for a group chat in the database(Mo
 
 *   InterfaceGroupChat
 
-*   Defined in [src/models/GroupChat.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChat.ts#L9)
+*   Defined in [src/models/GroupChat.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChat.ts#L9)
 
 ##### Index
 
@@ -35,43 +35,43 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/GroupChat.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChat.ts#L10)
+*   Defined in [src/models/GroupChat.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChat.ts#L10)
 
 ### creator[](#creator)
 
 creator: any
 
-*   Defined in [src/models/GroupChat.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChat.ts#L14)
+*   Defined in [src/models/GroupChat.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChat.ts#L14)
 
 ### messages[](#messages)
 
 messages: any\[\]
 
-*   Defined in [src/models/GroupChat.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChat.ts#L13)
+*   Defined in [src/models/GroupChat.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChat.ts#L13)
 
 ### organization[](#organization)
 
 organization: any
 
-*   Defined in [src/models/GroupChat.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChat.ts#L15)
+*   Defined in [src/models/GroupChat.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChat.ts#L15)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/GroupChat.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChat.ts#L16)
+*   Defined in [src/models/GroupChat.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChat.ts#L16)
 
 ### title[](#title)
 
 title: string
 
-*   Defined in [src/models/GroupChat.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChat.ts#L11)
+*   Defined in [src/models/GroupChat.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChat.ts#L11)
 
 ### users[](#users)
 
 users: any\[\]
 
-*   Defined in [src/models/GroupChat.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChat.ts#L12)
+*   Defined in [src/models/GroupChat.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChat.ts#L12)
 
 ### Settings
 

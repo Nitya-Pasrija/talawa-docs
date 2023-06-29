@@ -18,7 +18,7 @@ Interface InterfaceMailFields
 
 *   InterfaceMailFields
 
-*   Defined in [src/utilities/mailer.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/mailer.ts#L10)
+*   Defined in [src/utilities/mailer.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/mailer.ts#L10)
 
 ##### Index
 
@@ -33,19 +33,19 @@ Properties
 
 body: string
 
-*   Defined in [src/utilities/mailer.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/mailer.ts#L13)
+*   Defined in [src/utilities/mailer.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/mailer.ts#L13)
 
 ### emailTo[](#emailTo)
 
 emailTo: string
 
-*   Defined in [src/utilities/mailer.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/mailer.ts#L11)
+*   Defined in [src/utilities/mailer.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/mailer.ts#L11)
 
 ### subject[](#subject)
 
 subject: string
 
-*   Defined in [src/utilities/mailer.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/mailer.ts#L12)
+*   Defined in [src/utilities/mailer.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/mailer.ts#L12)
 
 ### Settings
 

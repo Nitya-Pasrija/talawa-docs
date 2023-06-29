@@ -32,7 +32,7 @@ PostUpdateInput: {
 *   ##### `Optional` videoUrl?: [InputMaybe](types_generatedGraphQLTypes.InputMaybe.html)<[Scalars](types_generatedGraphQLTypes.Scalars.html)\["URL"\]\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1045](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1045)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1045](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1045)
 
 ### Settings
 

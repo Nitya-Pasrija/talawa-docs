@@ -13,7 +13,7 @@ utilities/imageAlreadyInDbCheck | talawa-apidocument.documentElement.dataset.the
 Module utilities/imageAlreadyInDbCheck
 ======================================
 
-*   Defined in [src/utilities/imageAlreadyInDbCheck.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/imageAlreadyInDbCheck.ts#L1)
+*   Defined in [src/utilities/imageAlreadyInDbCheck.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/imageAlreadyInDbCheck.ts#L1)
 
 ### Index
 

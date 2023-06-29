@@ -20,7 +20,7 @@ ImageHash: Model<[InterfaceImageHash](../interfaces/models_ImageHash.InterfaceIm
 
 #### Type declaration
 
-*   Defined in [src/models/ImageHash.ts:46](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/ImageHash.ts#L46)
+*   Defined in [src/models/ImageHash.ts:46](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/ImageHash.ts#L46)
 
 ### Settings
 

@@ -32,7 +32,7 @@ A `directChatsMessages` object that holds all of the messages from the specified
 
 You can learn about GraphQL `Resolvers` [here](https://www.apollographql.com/docs/apollo-server/data/resolvers/).
 
-*   Defined in [src/resolvers/Query/directChatsMessagesByChatID.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/directChatsMessagesByChatID.ts#L14)
+*   Defined in [src/resolvers/Query/directChatsMessagesByChatID.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/directChatsMessagesByChatID.ts#L14)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/Query/eventsByOrganizationConnection | talawa-apidocument.documentElem
 Module resolvers/Query/eventsByOrganizationConnection
 =====================================================
 
-*   Defined in [src/resolvers/Query/eventsByOrganizationConnection.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/eventsByOrganizationConnection.ts#L1)
+*   Defined in [src/resolvers/Query/eventsByOrganizationConnection.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/eventsByOrganizationConnection.ts#L1)
 
 ### Index
 

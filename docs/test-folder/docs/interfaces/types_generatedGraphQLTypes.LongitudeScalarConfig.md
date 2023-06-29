@@ -19,7 +19,7 @@ Interface LongitudeScalarConfig
 *   GraphQLScalarTypeConfig<[ResolversTypes](../types/types_generatedGraphQLTypes.ResolversTypes.html)\["Longitude"\], any\>
     *   LongitudeScalarConfig
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2028](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2028)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2028](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2028)
 
 ##### Index
 
@@ -68,7 +68,7 @@ name: "Longitude"
 
 Overrides GraphQLScalarTypeConfig.name
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2029](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2029)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2029](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2029)
 
 ### `Optional` parseLiteral[](#parseLiteral)
 

@@ -33,7 +33,7 @@ AggregatePostResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` count?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["Int"\], ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1837](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1837)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1837](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1837)
 
 ### Settings
 

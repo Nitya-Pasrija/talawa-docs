@@ -48,7 +48,7 @@ PageInfoResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` totalPages?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[Maybe](types_generatedGraphQLTypes.Maybe.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["Int"\]\>, ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2174](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2174)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2174](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2174)
 
 ### Settings
 

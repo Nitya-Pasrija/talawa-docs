@@ -13,7 +13,7 @@ typeDefs/directives | talawa-apidocument.documentElement.dataset.theme = localSt
 Module typeDefs/directives
 ==========================
 
-*   Defined in [src/typeDefs/directives.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/directives.ts#L1)
+*   Defined in [src/typeDefs/directives.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/directives.ts#L1)
 
 ### Index
 

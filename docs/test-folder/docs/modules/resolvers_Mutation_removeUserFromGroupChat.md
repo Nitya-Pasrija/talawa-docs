@@ -13,7 +13,7 @@ resolvers/Mutation/removeUserFromGroupChat | talawa-apidocument.documentElement.
 Module resolvers/Mutation/removeUserFromGroupChat
 =================================================
 
-*   Defined in [src/resolvers/Mutation/removeUserFromGroupChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeUserFromGroupChat.ts#L1)
+*   Defined in [src/resolvers/Mutation/removeUserFromGroupChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeUserFromGroupChat.ts#L1)
 
 ### Index
 

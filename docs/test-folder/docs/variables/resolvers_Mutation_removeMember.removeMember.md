@@ -43,7 +43,7 @@ The following checks are done:
 
 Organization.
 
-*   Defined in [src/resolvers/Mutation/removeMember.ts:26](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeMember.ts#L26)
+*   Defined in [src/resolvers/Mutation/removeMember.ts:26](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeMember.ts#L26)
 
 ### Settings
 

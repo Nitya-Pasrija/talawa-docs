@@ -17,7 +17,7 @@ Function disconnect
 *   disconnect(): Promise<void\>[](#disconnect)
 *   #### Returns Promise<void\>
     
-    *   Defined in [src/db.ts:47](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/db.ts#L47)
+    *   Defined in [src/db.ts:47](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/db.ts#L47)
     
 
 ### Settings

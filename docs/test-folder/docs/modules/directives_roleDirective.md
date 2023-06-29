@@ -13,7 +13,7 @@ directives/roleDirective | talawa-apidocument.documentElement.dataset.theme = lo
 Module directives/roleDirective
 ===============================
 
-*   Defined in [src/directives/roleDirective.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/directives/roleDirective.ts#L1)
+*   Defined in [src/directives/roleDirective.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/directives/roleDirective.ts#L1)
 
 ### Index
 

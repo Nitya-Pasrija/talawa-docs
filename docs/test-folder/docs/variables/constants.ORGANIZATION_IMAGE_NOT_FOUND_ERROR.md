@@ -32,7 +32,7 @@ ORGANIZATION\_IMAGE\_NOT\_FOUND\_ERROR: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:70](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L70)
+*   Defined in [src/constants.ts:70](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L70)
 
 ### Settings
 

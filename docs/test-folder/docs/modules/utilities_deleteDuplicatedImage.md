@@ -13,7 +13,7 @@ utilities/deleteDuplicatedImage | talawa-apidocument.documentElement.dataset.the
 Module utilities/deleteDuplicatedImage
 ======================================
 
-*   Defined in [src/utilities/deleteDuplicatedImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/deleteDuplicatedImage.ts#L1)
+*   Defined in [src/utilities/deleteDuplicatedImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/deleteDuplicatedImage.ts#L1)
 
 ### Index
 

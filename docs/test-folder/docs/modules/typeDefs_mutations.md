@@ -13,7 +13,7 @@ typeDefs/mutations | talawa-apidocument.documentElement.dataset.theme = localSto
 Module typeDefs/mutations
 =========================
 
-*   Defined in [src/typeDefs/mutations.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/mutations.ts#L1)
+*   Defined in [src/typeDefs/mutations.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/mutations.ts#L1)
 
 ### Index
 

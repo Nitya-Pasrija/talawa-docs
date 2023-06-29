@@ -18,7 +18,7 @@ Interface InterfaceOrganizationTagUser
 
 *   InterfaceOrganizationTagUser
 
-*   Defined in [src/models/OrganizationTagUser.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/OrganizationTagUser.ts#L5)
+*   Defined in [src/models/OrganizationTagUser.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/OrganizationTagUser.ts#L5)
 
 ##### Index
 
@@ -33,25 +33,25 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/OrganizationTagUser.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/OrganizationTagUser.ts#L6)
+*   Defined in [src/models/OrganizationTagUser.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/OrganizationTagUser.ts#L6)
 
 ### name[](#name)
 
 name: string
 
-*   Defined in [src/models/OrganizationTagUser.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/OrganizationTagUser.ts#L9)
+*   Defined in [src/models/OrganizationTagUser.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/OrganizationTagUser.ts#L9)
 
 ### organizationId[](#organizationId)
 
 organizationId: any
 
-*   Defined in [src/models/OrganizationTagUser.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/OrganizationTagUser.ts#L7)
+*   Defined in [src/models/OrganizationTagUser.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/OrganizationTagUser.ts#L7)
 
 ### parentTagId[](#parentTagId)
 
 parentTagId: any
 
-*   Defined in [src/models/OrganizationTagUser.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/OrganizationTagUser.ts#L8)
+*   Defined in [src/models/OrganizationTagUser.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/OrganizationTagUser.ts#L8)
 
 ### Settings
 

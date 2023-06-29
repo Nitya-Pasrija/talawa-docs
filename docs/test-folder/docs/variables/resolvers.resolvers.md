@@ -16,7 +16,7 @@ Variable resolvers`Const`
 
 resolvers: [Resolvers](../types/types_generatedGraphQLTypes.Resolvers.html) = ...
 
-*   Defined in [src/resolvers/index.ts:27](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/index.ts#L27)
+*   Defined in [src/resolvers/index.ts:27](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/index.ts#L27)
 
 ### Settings
 

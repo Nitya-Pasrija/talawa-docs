@@ -21,7 +21,7 @@ This class detects validation errors and sends those errors to the superclass Ap
 *   [ApplicationError](libraries_errors_applicationError.ApplicationError.html)
     *   ValidationError
 
-*   Defined in [src/libraries/errors/validationError.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/validationError.ts#L6)
+*   Defined in [src/libraries/errors/validationError.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/validationError.ts#L6)
 
 ##### Index
 
@@ -54,7 +54,7 @@ Constructors
     
     Overrides [ApplicationError](libraries_errors_applicationError.ApplicationError.html).[constructor](libraries_errors_applicationError.ApplicationError.html#constructor)
     
-    *   Defined in [src/libraries/errors/validationError.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/validationError.ts#L7)
+    *   Defined in [src/libraries/errors/validationError.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/validationError.ts#L7)
     
 
 Properties
@@ -66,7 +66,7 @@ errors: [InterfaceError](../interfaces/libraries_errors_applicationError.Interfa
 
 Inherited from [ApplicationError](libraries_errors_applicationError.ApplicationError.html).[errors](libraries_errors_applicationError.ApplicationError.html#errors)
 
-*   Defined in [src/libraries/errors/applicationError.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L11)
+*   Defined in [src/libraries/errors/applicationError.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L11)
 
 ### httpCode[](#httpCode)
 
@@ -74,7 +74,7 @@ httpCode: number
 
 Inherited from [ApplicationError](libraries_errors_applicationError.ApplicationError.html).[httpCode](libraries_errors_applicationError.ApplicationError.html#httpCode)
 
-*   Defined in [src/libraries/errors/applicationError.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L12)
+*   Defined in [src/libraries/errors/applicationError.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L12)
 
 ### message[](#message)
 

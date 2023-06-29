@@ -24,7 +24,7 @@ Function filterFunction
     
     #### Returns boolean
     
-    *   Defined in [src/resolvers/Subscription/messageSentToDirectChat.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Subscription/messageSentToDirectChat.ts#L6)
+    *   Defined in [src/resolvers/Subscription/messageSentToDirectChat.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Subscription/messageSentToDirectChat.ts#L6)
     
 
 ### Settings

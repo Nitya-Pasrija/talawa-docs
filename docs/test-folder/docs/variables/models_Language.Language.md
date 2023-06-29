@@ -20,7 +20,7 @@ Language: Model<[InterfaceLanguage](../interfaces/models_Language.InterfaceLangu
 
 #### Type declaration
 
-*   Defined in [src/models/Language.ts:77](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L77)
+*   Defined in [src/models/Language.ts:77](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L77)
 
 ### Settings
 

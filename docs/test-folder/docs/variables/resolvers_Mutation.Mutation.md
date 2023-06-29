@@ -16,7 +16,7 @@ Variable Mutation`Const`
 
 Mutation: [MutationResolvers](../types/types_generatedGraphQLTypes.MutationResolvers.html) = ...
 
-*   Defined in [src/resolvers/Mutation/index.ts:78](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/index.ts#L78)
+*   Defined in [src/resolvers/Mutation/index.ts:78](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/index.ts#L78)
 
 ### Settings
 

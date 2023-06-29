@@ -32,7 +32,7 @@ An `event` object. If the `event` object is null then it throws `NotFoundError` 
 
 You can learn about GraphQL `Resolvers` [here](https://www.apollographql.com/docs/apollo-server/data/resolvers/).
 
-*   Defined in [src/resolvers/Query/event.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/event.ts#L13)
+*   Defined in [src/resolvers/Query/event.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/event.ts#L13)
 
 ### Settings
 

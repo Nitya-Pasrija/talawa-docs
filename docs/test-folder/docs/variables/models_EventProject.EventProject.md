@@ -20,7 +20,7 @@ EventProject: Model<[InterfaceEventProject](../interfaces/models_EventProject.In
 
 #### Type declaration
 
-*   Defined in [src/models/EventProject.ts:70](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L70)
+*   Defined in [src/models/EventProject.ts:70](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L70)
 
 ### Settings
 

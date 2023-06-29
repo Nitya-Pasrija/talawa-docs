@@ -13,7 +13,7 @@ resolvers/Mutation/createAdmin | talawa-apidocument.documentElement.dataset.them
 Module resolvers/Mutation/createAdmin
 =====================================
 
-*   Defined in [src/resolvers/Mutation/createAdmin.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createAdmin.ts#L1)
+*   Defined in [src/resolvers/Mutation/createAdmin.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createAdmin.ts#L1)
 
 ### Index
 

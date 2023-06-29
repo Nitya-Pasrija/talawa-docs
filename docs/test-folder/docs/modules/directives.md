@@ -13,7 +13,7 @@ directives | talawa-apidocument.documentElement.dataset.theme = localStorage.get
 Module directives
 =================
 
-*   Defined in [src/directives/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/directives/index.ts#L1)
+*   Defined in [src/directives/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/directives/index.ts#L1)
 
 ##### Index
 

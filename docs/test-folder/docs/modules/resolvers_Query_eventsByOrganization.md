@@ -13,7 +13,7 @@ resolvers/Query/eventsByOrganization | talawa-apidocument.documentElement.datase
 Module resolvers/Query/eventsByOrganization
 ===========================================
 
-*   Defined in [src/resolvers/Query/eventsByOrganization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/eventsByOrganization.ts#L1)
+*   Defined in [src/resolvers/Query/eventsByOrganization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/eventsByOrganization.ts#L1)
 
 ### Index
 

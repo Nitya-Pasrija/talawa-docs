@@ -13,7 +13,7 @@ resolvers/Organization/image | talawa-apidocument.documentElement.dataset.theme 
 Module resolvers/Organization/image
 ===================================
 
-*   Defined in [src/resolvers/Organization/image.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/image.ts#L1)
+*   Defined in [src/resolvers/Organization/image.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/image.ts#L1)
 
 ### Index
 

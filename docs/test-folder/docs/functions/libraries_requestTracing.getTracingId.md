@@ -17,7 +17,7 @@ Function getTracingId
 *   getTracingId(): string[](#getTracingId)
 *   #### Returns string
     
-    *   Defined in [src/libraries/requestTracing.ts:29](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/requestTracing.ts#L29)
+    *   Defined in [src/libraries/requestTracing.ts:29](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/requestTracing.ts#L29)
     
 
 ### Settings

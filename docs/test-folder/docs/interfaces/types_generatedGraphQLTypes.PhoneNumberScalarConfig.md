@@ -19,7 +19,7 @@ Interface PhoneNumberScalarConfig
 *   GraphQLScalarTypeConfig<[ResolversTypes](../types/types_generatedGraphQLTypes.ResolversTypes.html)\["PhoneNumber"\], any\>
     *   PhoneNumberScalarConfig
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2184](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2184)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2184](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2184)
 
 ##### Index
 
@@ -68,7 +68,7 @@ name: "PhoneNumber"
 
 Overrides GraphQLScalarTypeConfig.name
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2185](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2185)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2185](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2185)
 
 ### `Optional` parseLiteral[](#parseLiteral)
 

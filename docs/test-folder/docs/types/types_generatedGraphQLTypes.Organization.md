@@ -71,7 +71,7 @@ Organization: {
 *   ##### visibleInSearch: [Scalars](types_generatedGraphQLTypes.Scalars.html)\["Boolean"\]
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:847](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L847)
+*   Defined in [src/types/generatedGraphQLTypes.ts:847](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L847)
 
 ### Settings
 

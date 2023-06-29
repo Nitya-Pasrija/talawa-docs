@@ -16,7 +16,7 @@ Variable MONGO\_DB\_URL`Const`
 
 MONGO\_DB\_URL: undefined | string = ENV.MONGO\_DB\_URL
 
-*   Defined in [src/constants.ts:317](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L317)
+*   Defined in [src/constants.ts:317](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L317)
 
 ### Settings
 

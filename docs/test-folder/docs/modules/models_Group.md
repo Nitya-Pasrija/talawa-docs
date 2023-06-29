@@ -13,7 +13,7 @@ models/Group | talawa-apidocument.documentElement.dataset.theme = localStorage.g
 Module models/Group
 ===================
 
-*   Defined in [src/models/Group.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Group.ts#L1)
+*   Defined in [src/models/Group.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Group.ts#L1)
 
 ### Index
 

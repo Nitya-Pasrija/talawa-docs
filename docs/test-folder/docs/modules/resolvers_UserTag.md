@@ -13,7 +13,7 @@ resolvers/UserTag | talawa-apidocument.documentElement.dataset.theme = localStor
 Module resolvers/UserTag
 ========================
 
-*   Defined in [src/resolvers/UserTag/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/UserTag/index.ts#L1)
+*   Defined in [src/resolvers/UserTag/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/UserTag/index.ts#L1)
 
 ### Index
 

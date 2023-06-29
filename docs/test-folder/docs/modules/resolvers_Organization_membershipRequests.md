@@ -13,7 +13,7 @@ resolvers/Organization/membershipRequests | talawa-apidocument.documentElement.d
 Module resolvers/Organization/membershipRequests
 ================================================
 
-*   Defined in [src/resolvers/Organization/membershipRequests.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/membershipRequests.ts#L1)
+*   Defined in [src/resolvers/Organization/membershipRequests.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/membershipRequests.ts#L1)
 
 ### Index
 

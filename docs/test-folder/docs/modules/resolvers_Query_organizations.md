@@ -13,7 +13,7 @@ resolvers/Query/organizations | talawa-apidocument.documentElement.dataset.theme
 Module resolvers/Query/organizations
 ====================================
 
-*   Defined in [src/resolvers/Query/organizations.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/organizations.ts#L1)
+*   Defined in [src/resolvers/Query/organizations.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/organizations.ts#L1)
 
 ### Index
 

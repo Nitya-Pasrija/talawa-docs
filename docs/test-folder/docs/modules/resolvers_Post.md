@@ -13,7 +13,7 @@ resolvers/Post | talawa-apidocument.documentElement.dataset.theme = localStorage
 Module resolvers/Post
 =====================
 
-*   Defined in [src/resolvers/Post/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Post/index.ts#L1)
+*   Defined in [src/resolvers/Post/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Post/index.ts#L1)
 
 ### Index
 

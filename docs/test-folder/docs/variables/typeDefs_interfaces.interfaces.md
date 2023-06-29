@@ -16,7 +16,7 @@ Variable interfaces`Const`
 
 interfaces: DocumentNode = ...
 
-*   Defined in [src/typeDefs/interfaces.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/interfaces.ts#L4)
+*   Defined in [src/typeDefs/interfaces.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/interfaces.ts#L4)
 
 ### Settings
 

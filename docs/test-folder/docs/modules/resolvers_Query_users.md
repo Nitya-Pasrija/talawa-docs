@@ -13,7 +13,7 @@ resolvers/Query/users | talawa-apidocument.documentElement.dataset.theme = local
 Module resolvers/Query/users
 ============================
 
-*   Defined in [src/resolvers/Query/users.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/users.ts#L1)
+*   Defined in [src/resolvers/Query/users.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/users.ts#L1)
 
 ### Index
 

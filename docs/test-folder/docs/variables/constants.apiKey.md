@@ -16,7 +16,7 @@ Variable apiKey`Const`
 
 apiKey: undefined | string = ENV.apiKey
 
-*   Defined in [src/constants.ts:325](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L325)
+*   Defined in [src/constants.ts:325](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L325)
 
 ### Settings
 

@@ -28,7 +28,7 @@ Function createAccessToken
     
     JSON Web Token string payload
     
-    *   Defined in [src/utilities/auth.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/auth.ts#L18)
+    *   Defined in [src/utilities/auth.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/auth.ts#L18)
     
 
 ### Settings

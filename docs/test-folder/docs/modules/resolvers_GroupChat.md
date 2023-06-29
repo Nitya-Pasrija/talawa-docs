@@ -13,7 +13,7 @@ resolvers/GroupChat | talawa-apidocument.documentElement.dataset.theme = localSt
 Module resolvers/GroupChat
 ==========================
 
-*   Defined in [src/resolvers/GroupChat/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/GroupChat/index.ts#L1)
+*   Defined in [src/resolvers/GroupChat/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/GroupChat/index.ts#L1)
 
 ### Index
 

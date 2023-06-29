@@ -20,7 +20,7 @@ EncodedImage: Model<[InterfaceEncodedImage](../interfaces/models_EncodedImage.In
 
 #### Type declaration
 
-*   Defined in [src/models/EncodedImage.ts:38](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EncodedImage.ts#L38)
+*   Defined in [src/models/EncodedImage.ts:38](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EncodedImage.ts#L38)
 
 ### Settings
 

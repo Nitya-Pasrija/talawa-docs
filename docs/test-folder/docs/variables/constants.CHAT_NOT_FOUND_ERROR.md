@@ -32,7 +32,7 @@ CHAT\_NOT\_FOUND\_ERROR: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L9)
+*   Defined in [src/constants.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L9)
 
 ### Settings
 

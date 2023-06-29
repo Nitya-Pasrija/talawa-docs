@@ -13,7 +13,7 @@ resolvers/Query/directChatsMessagesByChatID | talawa-apidocument.documentElement
 Module resolvers/Query/directChatsMessagesByChatID
 ==================================================
 
-*   Defined in [src/resolvers/Query/directChatsMessagesByChatID.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/directChatsMessagesByChatID.ts#L1)
+*   Defined in [src/resolvers/Query/directChatsMessagesByChatID.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/directChatsMessagesByChatID.ts#L1)
 
 ### Index
 

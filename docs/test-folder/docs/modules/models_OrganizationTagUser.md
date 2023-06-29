@@ -13,7 +13,7 @@ models/OrganizationTagUser | talawa-apidocument.documentElement.dataset.theme = 
 Module models/OrganizationTagUser
 =================================
 
-*   Defined in [src/models/OrganizationTagUser.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/OrganizationTagUser.ts#L1)
+*   Defined in [src/models/OrganizationTagUser.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/OrganizationTagUser.ts#L1)
 
 ### Index
 

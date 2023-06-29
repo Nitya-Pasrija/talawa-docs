@@ -13,7 +13,7 @@ config | talawa-apidocument.documentElement.dataset.theme = localStorage.getItem
 Module config
 =============
 
-*   Defined in [src/config/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/config/index.ts#L1)
+*   Defined in [src/config/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/config/index.ts#L1)
 
 ##### Index
 

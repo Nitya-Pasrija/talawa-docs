@@ -41,7 +41,7 @@ iosFirebaseOptions: {
 *   ##### storageBucket: undefined | string
     
 
-*   Defined in [src/config/firebaseConfig.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/config/firebaseConfig.ts#L24)
+*   Defined in [src/config/firebaseConfig.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/config/firebaseConfig.ts#L24)
 
 ### Settings
 

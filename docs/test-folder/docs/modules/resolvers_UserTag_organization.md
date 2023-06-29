@@ -13,7 +13,7 @@ resolvers/UserTag/organization | talawa-apidocument.documentElement.dataset.them
 Module resolvers/UserTag/organization
 =====================================
 
-*   Defined in [src/resolvers/UserTag/organization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/UserTag/organization.ts#L1)
+*   Defined in [src/resolvers/UserTag/organization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/UserTag/organization.ts#L1)
 
 ### Index
 

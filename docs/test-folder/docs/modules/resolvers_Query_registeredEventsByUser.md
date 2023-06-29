@@ -13,7 +13,7 @@ resolvers/Query/registeredEventsByUser | talawa-apidocument.documentElement.data
 Module resolvers/Query/registeredEventsByUser
 =============================================
 
-*   Defined in [src/resolvers/Query/registeredEventsByUser.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/registeredEventsByUser.ts#L1)
+*   Defined in [src/resolvers/Query/registeredEventsByUser.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/registeredEventsByUser.ts#L1)
 
 ### Index
 

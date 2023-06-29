@@ -18,7 +18,7 @@ Interface InterfaceError
 
 *   InterfaceError
 
-*   Defined in [src/libraries/errors/applicationError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L1)
+*   Defined in [src/libraries/errors/applicationError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L1)
 
 ##### Index
 
@@ -33,25 +33,25 @@ Properties
 
 code: null | string
 
-*   Defined in [src/libraries/errors/applicationError.ts:3](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L3)
+*   Defined in [src/libraries/errors/applicationError.ts:3](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L3)
 
 ### message[](#message)
 
 message: string
 
-*   Defined in [src/libraries/errors/applicationError.ts:2](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L2)
+*   Defined in [src/libraries/errors/applicationError.ts:2](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L2)
 
 ### `Optional` metadata[](#metadata)
 
 metadata?: Record<any, any\>
 
-*   Defined in [src/libraries/errors/applicationError.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L5)
+*   Defined in [src/libraries/errors/applicationError.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L5)
 
 ### param[](#param)
 
 param: null | string
 
-*   Defined in [src/libraries/errors/applicationError.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L4)
+*   Defined in [src/libraries/errors/applicationError.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L4)
 
 ### Settings
 

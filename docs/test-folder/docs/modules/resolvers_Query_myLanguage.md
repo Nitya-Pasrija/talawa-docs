@@ -13,7 +13,7 @@ resolvers/Query/myLanguage | talawa-apidocument.documentElement.dataset.theme = 
 Module resolvers/Query/myLanguage
 =================================
 
-*   Defined in [src/resolvers/Query/myLanguage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/myLanguage.ts#L1)
+*   Defined in [src/resolvers/Query/myLanguage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/myLanguage.ts#L1)
 
 ### Index
 

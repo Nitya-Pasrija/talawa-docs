@@ -37,7 +37,7 @@ THe following checks are done:
 1.  Whether the user exists
 2.  Whether the user accepting the admin request is a superadmin or not.
 
-*   Defined in [src/resolvers/Mutation/acceptAdmin.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/acceptAdmin.ts#L15)
+*   Defined in [src/resolvers/Mutation/acceptAdmin.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/acceptAdmin.ts#L15)
 
 ### Settings
 

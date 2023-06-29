@@ -13,7 +13,7 @@ resolvers/Mutation/togglePostPin | talawa-apidocument.documentElement.dataset.th
 Module resolvers/Mutation/togglePostPin
 =======================================
 
-*   Defined in [src/resolvers/Mutation/togglePostPin.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/togglePostPin.ts#L1)
+*   Defined in [src/resolvers/Mutation/togglePostPin.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/togglePostPin.ts#L1)
 
 ### Index
 

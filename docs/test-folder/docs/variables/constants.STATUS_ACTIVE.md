@@ -16,7 +16,7 @@ Variable STATUS\_ACTIVE`Const`
 
 STATUS\_ACTIVE: "ACTIVE" = "ACTIVE"
 
-*   Defined in [src/constants.ts:243](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L243)
+*   Defined in [src/constants.ts:243](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L243)
 
 ### Settings
 

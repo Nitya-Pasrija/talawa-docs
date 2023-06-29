@@ -16,7 +16,7 @@ Type alias EventOrderByInput
 
 EventOrderByInput: "allDay\_ASC" | "allDay\_DESC" | "description\_ASC" | "description\_DESC" | "endDate\_ASC" | "endDate\_DESC" | "endTime\_ASC" | "endTime\_DESC" | "id\_ASC" | "id\_DESC" | "location\_ASC" | "location\_DESC" | "recurrance\_ASC" | "recurrance\_DESC" | "startDate\_ASC" | "startDate\_DESC" | "startTime\_ASC" | "startTime\_DESC" | "title\_ASC" | "title\_DESC"
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:201](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L201)
+*   Defined in [src/types/generatedGraphQLTypes.ts:201](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L201)
 
 ### Settings
 

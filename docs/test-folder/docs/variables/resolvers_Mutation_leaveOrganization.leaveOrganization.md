@@ -43,7 +43,7 @@ The following checks are done:
 
 Updated user
 
-*   Defined in [src/resolvers/Mutation/leaveOrganization.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/leaveOrganization.ts#L21)
+*   Defined in [src/resolvers/Mutation/leaveOrganization.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/leaveOrganization.ts#L21)
 
 ### Settings
 

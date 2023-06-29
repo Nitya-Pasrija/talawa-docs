@@ -18,7 +18,7 @@ Interface InterfaceAuthData
 
 *   InterfaceAuthData
 
-*   Defined in [src/middleware/isAuth.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/middleware/isAuth.ts#L7)
+*   Defined in [src/middleware/isAuth.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/middleware/isAuth.ts#L7)
 
 ##### Index
 
@@ -33,19 +33,19 @@ Properties
 
 expired: undefined | boolean
 
-*   Defined in [src/middleware/isAuth.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/middleware/isAuth.ts#L9)
+*   Defined in [src/middleware/isAuth.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/middleware/isAuth.ts#L9)
 
 ### isAuth[](#isAuth)
 
 isAuth: boolean
 
-*   Defined in [src/middleware/isAuth.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/middleware/isAuth.ts#L8)
+*   Defined in [src/middleware/isAuth.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/middleware/isAuth.ts#L8)
 
 ### userId[](#userId)
 
 userId: undefined | string
 
-*   Defined in [src/middleware/isAuth.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/middleware/isAuth.ts#L10)
+*   Defined in [src/middleware/isAuth.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/middleware/isAuth.ts#L10)
 
 ### Settings
 

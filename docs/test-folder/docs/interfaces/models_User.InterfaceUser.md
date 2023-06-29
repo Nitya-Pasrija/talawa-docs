@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for User.
 
 *   InterfaceUser
 
-*   Defined in [src/models/User.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L11)
+*   Defined in [src/models/User.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L11)
 
 ##### Index
 
@@ -35,139 +35,139 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/User.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L12)
+*   Defined in [src/models/User.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L12)
 
 ### adminApproved[](#adminApproved)
 
 adminApproved: boolean
 
-*   Defined in [src/models/User.ts:35](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L35)
+*   Defined in [src/models/User.ts:35](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L35)
 
 ### adminFor[](#adminFor)
 
 adminFor: any\[\]
 
-*   Defined in [src/models/User.ts:27](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L27)
+*   Defined in [src/models/User.ts:27](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L27)
 
 ### appLanguageCode[](#appLanguageCode)
 
 appLanguageCode: string
 
-*   Defined in [src/models/User.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L20)
+*   Defined in [src/models/User.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L20)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/User.ts:36](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L36)
+*   Defined in [src/models/User.ts:36](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L36)
 
 ### createdEvents[](#createdEvents)
 
 createdEvents: any\[\]
 
-*   Defined in [src/models/User.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L22)
+*   Defined in [src/models/User.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L22)
 
 ### createdOrganizations[](#createdOrganizations)
 
 createdOrganizations: any\[\]
 
-*   Defined in [src/models/User.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L21)
+*   Defined in [src/models/User.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L21)
 
 ### email[](#email)
 
 email: string
 
-*   Defined in [src/models/User.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L18)
+*   Defined in [src/models/User.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L18)
 
 ### eventAdmin[](#eventAdmin)
 
 eventAdmin: any\[\]
 
-*   Defined in [src/models/User.ts:26](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L26)
+*   Defined in [src/models/User.ts:26](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L26)
 
 ### firstName[](#firstName)
 
 firstName: string
 
-*   Defined in [src/models/User.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L16)
+*   Defined in [src/models/User.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L16)
 
 ### image[](#image)
 
 image: undefined | null | string
 
-*   Defined in [src/models/User.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L13)
+*   Defined in [src/models/User.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L13)
 
 ### joinedOrganizations[](#joinedOrganizations)
 
 joinedOrganizations: any\[\]
 
-*   Defined in [src/models/User.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L24)
+*   Defined in [src/models/User.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L24)
 
 ### lastName[](#lastName)
 
 lastName: string
 
-*   Defined in [src/models/User.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L17)
+*   Defined in [src/models/User.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L17)
 
 ### membershipRequests[](#membershipRequests)
 
 membershipRequests: any\[\]
 
-*   Defined in [src/models/User.ts:28](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L28)
+*   Defined in [src/models/User.ts:28](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L28)
 
 ### organizationUserBelongsTo[](#organizationUserBelongsTo)
 
 organizationUserBelongsTo: any
 
-*   Defined in [src/models/User.ts:31](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L31)
+*   Defined in [src/models/User.ts:31](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L31)
 
 ### organizationsBlockedBy[](#organizationsBlockedBy)
 
 organizationsBlockedBy: any\[\]
 
-*   Defined in [src/models/User.ts:29](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L29)
+*   Defined in [src/models/User.ts:29](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L29)
 
 ### password[](#password)
 
 password: string
 
-*   Defined in [src/models/User.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L19)
+*   Defined in [src/models/User.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L19)
 
 ### pluginCreationAllowed[](#pluginCreationAllowed)
 
 pluginCreationAllowed: boolean
 
-*   Defined in [src/models/User.ts:34](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L34)
+*   Defined in [src/models/User.ts:34](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L34)
 
 ### registeredEvents[](#registeredEvents)
 
 registeredEvents: any\[\]
 
-*   Defined in [src/models/User.ts:25](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L25)
+*   Defined in [src/models/User.ts:25](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L25)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/User.ts:30](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L30)
+*   Defined in [src/models/User.ts:30](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L30)
 
 ### token[](#token)
 
 token: undefined | string
 
-*   Defined in [src/models/User.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L14)
+*   Defined in [src/models/User.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L14)
 
 ### tokenVersion[](#tokenVersion)
 
 tokenVersion: number
 
-*   Defined in [src/models/User.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L15)
+*   Defined in [src/models/User.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L15)
 
 ### userType[](#userType)
 
 userType: string
 
-*   Defined in [src/models/User.ts:23](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L23)
+*   Defined in [src/models/User.ts:23](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L23)
 
 ### Settings
 

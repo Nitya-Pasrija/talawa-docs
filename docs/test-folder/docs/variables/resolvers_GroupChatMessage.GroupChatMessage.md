@@ -16,7 +16,7 @@ Variable GroupChatMessage`Const`
 
 GroupChatMessage: [GroupChatMessageResolvers](../types/types_generatedGraphQLTypes.GroupChatMessageResolvers.html) = ...
 
-*   Defined in [src/resolvers/GroupChatMessage/index.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/GroupChatMessage/index.ts#L5)
+*   Defined in [src/resolvers/GroupChatMessage/index.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/GroupChatMessage/index.ts#L5)
 
 ### Settings
 

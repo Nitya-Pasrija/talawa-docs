@@ -13,7 +13,7 @@ config/firebaseConfig | talawa-apidocument.documentElement.dataset.theme = local
 Module config/firebaseConfig
 ============================
 
-*   Defined in [src/config/firebaseConfig.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/config/firebaseConfig.ts#L1)
+*   Defined in [src/config/firebaseConfig.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/config/firebaseConfig.ts#L1)
 
 ### Index
 

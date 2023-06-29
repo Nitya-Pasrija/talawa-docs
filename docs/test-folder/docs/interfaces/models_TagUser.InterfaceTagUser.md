@@ -18,7 +18,7 @@ Interface InterfaceTagUser
 
 *   InterfaceTagUser
 
-*   Defined in [src/models/TagUser.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/TagUser.ts#L6)
+*   Defined in [src/models/TagUser.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/TagUser.ts#L6)
 
 ##### Index
 
@@ -33,19 +33,19 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/TagUser.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/TagUser.ts#L7)
+*   Defined in [src/models/TagUser.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/TagUser.ts#L7)
 
 ### tagId[](#tagId)
 
 tagId: any
 
-*   Defined in [src/models/TagUser.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/TagUser.ts#L9)
+*   Defined in [src/models/TagUser.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/TagUser.ts#L9)
 
 ### userId[](#userId)
 
 userId: any
 
-*   Defined in [src/models/TagUser.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/TagUser.ts#L8)
+*   Defined in [src/models/TagUser.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/TagUser.ts#L8)
 
 ### Settings
 

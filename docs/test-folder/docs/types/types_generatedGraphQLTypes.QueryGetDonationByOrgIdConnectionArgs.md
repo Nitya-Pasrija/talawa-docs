@@ -32,7 +32,7 @@ QueryGetDonationByOrgIdConnectionArgs: {
 *   ##### `Optional` where?: [InputMaybe](types_generatedGraphQLTypes.InputMaybe.html)<[DonationWhereInput](types_generatedGraphQLTypes.DonationWhereInput.html)\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1153](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1153)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1153](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1153)
 
 ### Settings
 

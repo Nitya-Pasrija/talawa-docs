@@ -20,7 +20,7 @@ PluginField: Model<[InterfacePluginField](../interfaces/models_PluginField.Inter
 
 #### Type declaration
 
-*   Defined in [src/models/PluginField.ts:45](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/PluginField.ts#L45)
+*   Defined in [src/models/PluginField.ts:45](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/PluginField.ts#L45)
 
 ### Settings
 

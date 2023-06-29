@@ -34,7 +34,7 @@ context of entire application
 
 Updated PLugin status.
 
-*   Defined in [src/resolvers/Mutation/updatePluginStatus.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updatePluginStatus.ts#L12)
+*   Defined in [src/resolvers/Mutation/updatePluginStatus.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updatePluginStatus.ts#L12)
 
 ### Settings
 

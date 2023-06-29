@@ -16,7 +16,7 @@ Variable removeUserTag`Const`
 
 removeUserTag: [MutationResolvers](../types/types_generatedGraphQLTypes.MutationResolvers.html)\["removeUserTag"\] = ...
 
-*   Defined in [src/resolvers/Mutation/removeUserTag.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeUserTag.ts#L10)
+*   Defined in [src/resolvers/Mutation/removeUserTag.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeUserTag.ts#L10)
 
 ### Settings
 

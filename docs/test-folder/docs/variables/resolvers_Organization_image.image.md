@@ -16,7 +16,7 @@ Variable image`Const`
 
 image: [OrganizationResolvers](../types/types_generatedGraphQLTypes.OrganizationResolvers.html)\["image"\] = ...
 
-*   Defined in [src/resolvers/Organization/image.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/image.ts#L4)
+*   Defined in [src/resolvers/Organization/image.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/image.ts#L4)
 
 ### Settings
 

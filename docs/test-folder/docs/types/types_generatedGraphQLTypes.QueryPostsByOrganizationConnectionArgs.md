@@ -35,7 +35,7 @@ QueryPostsByOrganizationConnectionArgs: {
 *   ##### `Optional` where?: [InputMaybe](types_generatedGraphQLTypes.InputMaybe.html)<[PostWhereInput](types_generatedGraphQLTypes.PostWhereInput.html)\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1215](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1215)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1215](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1215)
 
 ### Settings
 

@@ -38,7 +38,7 @@ A connection to a list of items.
     Information to aid in pagination.
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1008](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1008)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1008](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1008)
 
 ### Settings
 

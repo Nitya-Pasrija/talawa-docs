@@ -13,7 +13,7 @@ resolvers/Mutation/addUserToGroupChat | talawa-apidocument.documentElement.datas
 Module resolvers/Mutation/addUserToGroupChat
 ============================================
 
-*   Defined in [src/resolvers/Mutation/addUserToGroupChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/addUserToGroupChat.ts#L1)
+*   Defined in [src/resolvers/Mutation/addUserToGroupChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/addUserToGroupChat.ts#L1)
 
 ### Index
 

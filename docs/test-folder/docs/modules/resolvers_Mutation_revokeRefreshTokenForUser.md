@@ -13,7 +13,7 @@ resolvers/Mutation/revokeRefreshTokenForUser | talawa-apidocument.documentElemen
 Module resolvers/Mutation/revokeRefreshTokenForUser
 ===================================================
 
-*   Defined in [src/resolvers/Mutation/revokeRefreshTokenForUser.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/revokeRefreshTokenForUser.ts#L1)
+*   Defined in [src/resolvers/Mutation/revokeRefreshTokenForUser.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/revokeRefreshTokenForUser.ts#L1)
 
 ### Index
 

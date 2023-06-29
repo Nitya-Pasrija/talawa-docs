@@ -16,7 +16,7 @@ Variable updateUserPassword`Const`
 
 updateUserPassword: [MutationResolvers](../types/types_generatedGraphQLTypes.MutationResolvers.html)\["updateUserPassword"\] = ...
 
-*   Defined in [src/resolvers/Mutation/updateUserPassword.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updateUserPassword.ts#L10)
+*   Defined in [src/resolvers/Mutation/updateUserPassword.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updateUserPassword.ts#L10)
 
 ### Settings
 

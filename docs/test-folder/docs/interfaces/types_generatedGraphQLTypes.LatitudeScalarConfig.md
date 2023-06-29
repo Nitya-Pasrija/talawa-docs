@@ -19,7 +19,7 @@ Interface LatitudeScalarConfig
 *   GraphQLScalarTypeConfig<[ResolversTypes](../types/types_generatedGraphQLTypes.ResolversTypes.html)\["Latitude"\], any\>
     *   LatitudeScalarConfig
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2024](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2024)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2024](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2024)
 
 ##### Index
 
@@ -68,7 +68,7 @@ name: "Latitude"
 
 Overrides GraphQLScalarTypeConfig.name
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2025](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2025)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2025](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2025)
 
 ### `Optional` parseLiteral[](#parseLiteral)
 

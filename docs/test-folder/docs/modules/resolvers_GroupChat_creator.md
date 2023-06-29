@@ -13,7 +13,7 @@ resolvers/GroupChat/creator | talawa-apidocument.documentElement.dataset.theme =
 Module resolvers/GroupChat/creator
 ==================================
 
-*   Defined in [src/resolvers/GroupChat/creator.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/GroupChat/creator.ts#L1)
+*   Defined in [src/resolvers/GroupChat/creator.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/GroupChat/creator.ts#L1)
 
 ### Index
 

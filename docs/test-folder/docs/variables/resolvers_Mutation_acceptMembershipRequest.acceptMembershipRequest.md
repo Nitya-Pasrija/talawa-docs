@@ -40,7 +40,7 @@ The following checks are done:
 4.  whether currentUser with \_id === context.userId is an admin of organization.
 5.  Whether user is already a member of organization.
 
-*   Defined in [src/resolvers/Mutation/acceptMembershipRequest.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/acceptMembershipRequest.ts#L24)
+*   Defined in [src/resolvers/Mutation/acceptMembershipRequest.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/acceptMembershipRequest.ts#L24)
 
 ### Settings
 

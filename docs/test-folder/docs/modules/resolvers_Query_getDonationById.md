@@ -13,7 +13,7 @@ resolvers/Query/getDonationById | talawa-apidocument.documentElement.dataset.the
 Module resolvers/Query/getDonationById
 ======================================
 
-*   Defined in [src/resolvers/Query/getDonationById.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/getDonationById.ts#L1)
+*   Defined in [src/resolvers/Query/getDonationById.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/getDonationById.ts#L1)
 
 ### Index
 

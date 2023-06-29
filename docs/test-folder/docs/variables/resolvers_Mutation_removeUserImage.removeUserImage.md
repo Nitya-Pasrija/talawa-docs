@@ -41,7 +41,7 @@ The following checks are done:
 
 Updated user.
 
-*   Defined in [src/resolvers/Mutation/removeUserImage.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeUserImage.ts#L19)
+*   Defined in [src/resolvers/Mutation/removeUserImage.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeUserImage.ts#L19)
 
 ### Settings
 

@@ -20,7 +20,7 @@ Post: PaginateModel<[InterfacePost](../interfaces/models_Post.InterfacePost.html
 
 #### Type declaration
 
-*   Defined in [src/models/Post.ts:101](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Post.ts#L101)
+*   Defined in [src/models/Post.ts:101](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Post.ts#L101)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/Query/usersConnection | talawa-apidocument.documentElement.dataset.the
 Module resolvers/Query/usersConnection
 ======================================
 
-*   Defined in [src/resolvers/Query/usersConnection.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/usersConnection.ts#L1)
+*   Defined in [src/resolvers/Query/usersConnection.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/usersConnection.ts#L1)
 
 ### Index
 

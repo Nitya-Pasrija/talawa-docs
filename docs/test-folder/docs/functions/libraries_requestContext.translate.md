@@ -22,7 +22,7 @@ Function translate
     
     #### Returns any
     
-    *   Defined in [src/libraries/requestContext.ts:61](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/requestContext.ts#L61)
+    *   Defined in [src/libraries/requestContext.ts:61](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/requestContext.ts#L61)
     
 
 ### Settings

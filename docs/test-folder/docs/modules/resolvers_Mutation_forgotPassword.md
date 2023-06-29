@@ -13,7 +13,7 @@ resolvers/Mutation/forgotPassword | talawa-apidocument.documentElement.dataset.t
 Module resolvers/Mutation/forgotPassword
 ========================================
 
-*   Defined in [src/resolvers/Mutation/forgotPassword.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/forgotPassword.ts#L1)
+*   Defined in [src/resolvers/Mutation/forgotPassword.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/forgotPassword.ts#L1)
 
 ### Index
 

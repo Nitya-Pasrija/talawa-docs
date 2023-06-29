@@ -20,7 +20,7 @@ DirectChatMessage: Model<[InterfaceDirectChatMessage](../interfaces/models_Direc
 
 #### Type declaration
 
-*   Defined in [src/models/DirectChatMessage.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChatMessage.ts#L65)
+*   Defined in [src/models/DirectChatMessage.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChatMessage.ts#L65)
 
 ### Settings
 

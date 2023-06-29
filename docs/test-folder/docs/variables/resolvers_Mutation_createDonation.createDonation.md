@@ -34,7 +34,7 @@ context of entire application
 
 Created Donation
 
-*   Defined in [src/resolvers/Mutation/createDonation.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createDonation.ts#L11)
+*   Defined in [src/resolvers/Mutation/createDonation.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createDonation.ts#L11)
 
 ### Settings
 

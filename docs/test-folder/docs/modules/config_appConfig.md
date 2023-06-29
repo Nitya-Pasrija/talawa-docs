@@ -13,7 +13,7 @@ config/appConfig | talawa-apidocument.documentElement.dataset.theme = localStora
 Module config/appConfig
 =======================
 
-*   Defined in [src/config/appConfig.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/config/appConfig.ts#L1)
+*   Defined in [src/config/appConfig.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/config/appConfig.ts#L1)
 
 ### Index
 

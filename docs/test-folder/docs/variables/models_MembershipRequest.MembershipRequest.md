@@ -20,7 +20,7 @@ MembershipRequest: Model<[InterfaceMembershipRequest](../interfaces/models_Membe
 
 #### Type declaration
 
-*   Defined in [src/models/MembershipRequest.ts:45](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MembershipRequest.ts#L45)
+*   Defined in [src/models/MembershipRequest.ts:45](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MembershipRequest.ts#L45)
 
 ### Settings
 

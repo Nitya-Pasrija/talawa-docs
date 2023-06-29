@@ -22,7 +22,7 @@ Function deletePreviousImage
     
     #### Returns Promise<void\>
     
-    *   Defined in [src/utilities/encodedImageStorage/deletePreviousImage.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/encodedImageStorage/deletePreviousImage.ts#L5)
+    *   Defined in [src/utilities/encodedImageStorage/deletePreviousImage.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/encodedImageStorage/deletePreviousImage.ts#L5)
     
 
 ### Settings

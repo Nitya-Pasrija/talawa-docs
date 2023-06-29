@@ -29,7 +29,7 @@ This class is responsible for finding the application errors. It adds those erro
         *   [UnauthorizedError](libraries_errors_unauthorizedError.UnauthorizedError.html)
         *   [ValidationError](libraries_errors_validationError.ValidationError.html)
 
-*   Defined in [src/libraries/errors/applicationError.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L10)
+*   Defined in [src/libraries/errors/applicationError.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L10)
 
 ##### Index
 
@@ -64,7 +64,7 @@ Constructors
     
     Overrides Error.constructor
     
-    *   Defined in [src/libraries/errors/applicationError.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L14)
+    *   Defined in [src/libraries/errors/applicationError.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L14)
     
 
 Properties
@@ -74,13 +74,13 @@ Properties
 
 errors: [InterfaceError](../interfaces/libraries_errors_applicationError.InterfaceError.html)\[\]
 
-*   Defined in [src/libraries/errors/applicationError.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L11)
+*   Defined in [src/libraries/errors/applicationError.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L11)
 
 ### httpCode[](#httpCode)
 
 httpCode: number
 
-*   Defined in [src/libraries/errors/applicationError.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/applicationError.ts#L12)
+*   Defined in [src/libraries/errors/applicationError.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/applicationError.ts#L12)
 
 ### message[](#message)
 

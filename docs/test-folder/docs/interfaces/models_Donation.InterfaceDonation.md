@@ -20,7 +20,7 @@ This is an interface representing a document for a donation in the database(Mong
 
 *   InterfaceDonation
 
-*   Defined in [src/models/Donation.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Donation.ts#L6)
+*   Defined in [src/models/Donation.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Donation.ts#L6)
 
 ##### Index
 
@@ -35,37 +35,37 @@ Properties
 
 amount: number
 
-*   Defined in [src/models/Donation.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Donation.ts#L12)
+*   Defined in [src/models/Donation.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Donation.ts#L12)
 
 ### nameOfOrg[](#nameOfOrg)
 
 nameOfOrg: string
 
-*   Defined in [src/models/Donation.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Donation.ts#L9)
+*   Defined in [src/models/Donation.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Donation.ts#L9)
 
 ### nameOfUser[](#nameOfUser)
 
 nameOfUser: string
 
-*   Defined in [src/models/Donation.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Donation.ts#L11)
+*   Defined in [src/models/Donation.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Donation.ts#L11)
 
 ### orgId[](#orgId)
 
 orgId: string | ObjectId
 
-*   Defined in [src/models/Donation.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Donation.ts#L8)
+*   Defined in [src/models/Donation.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Donation.ts#L8)
 
 ### payPalId[](#payPalId)
 
 payPalId: string
 
-*   Defined in [src/models/Donation.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Donation.ts#L10)
+*   Defined in [src/models/Donation.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Donation.ts#L10)
 
 ### userId[](#userId)
 
 userId: string | ObjectId
 
-*   Defined in [src/models/Donation.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Donation.ts#L7)
+*   Defined in [src/models/Donation.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Donation.ts#L7)
 
 ### Settings
 

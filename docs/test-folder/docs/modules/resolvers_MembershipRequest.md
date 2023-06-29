@@ -13,7 +13,7 @@ resolvers/MembershipRequest | talawa-apidocument.documentElement.dataset.theme =
 Module resolvers/MembershipRequest
 ==================================
 
-*   Defined in [src/resolvers/MembershipRequest/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/MembershipRequest/index.ts#L1)
+*   Defined in [src/resolvers/MembershipRequest/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/MembershipRequest/index.ts#L1)
 
 ### Index
 

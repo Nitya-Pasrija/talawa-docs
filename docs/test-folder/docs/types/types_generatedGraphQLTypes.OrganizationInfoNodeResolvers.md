@@ -54,7 +54,7 @@ OrganizationInfoNodeResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` visibleInSearch?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["Boolean"\], ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2157](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2157)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2157](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2157)
 
 ### Settings
 

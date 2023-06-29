@@ -20,7 +20,7 @@ This is an interface representing a document for a user attendee in the database
 
 *   InterfaceUserAttende
 
-*   Defined in [src/models/Event.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L9)
+*   Defined in [src/models/Event.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L9)
 
 ##### Index
 
@@ -35,25 +35,25 @@ Properties
 
 createdAt: Date
 
-*   Defined in [src/models/Event.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L13)
+*   Defined in [src/models/Event.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L13)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/Event.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L12)
+*   Defined in [src/models/Event.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L12)
 
 ### user[](#user)
 
 user: any
 
-*   Defined in [src/models/Event.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L11)
+*   Defined in [src/models/Event.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L11)
 
 ### userId[](#userId)
 
 userId: string
 
-*   Defined in [src/models/Event.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L10)
+*   Defined in [src/models/Event.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L10)
 
 ### Settings
 

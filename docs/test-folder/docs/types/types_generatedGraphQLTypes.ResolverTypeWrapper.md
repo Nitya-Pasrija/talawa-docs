@@ -21,7 +21,7 @@ ResolverTypeWrapper<T\>: Promise<T\> | T
 *   #### T
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1571](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1571)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1571](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1571)
 
 ### Settings
 

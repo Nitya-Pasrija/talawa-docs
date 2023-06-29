@@ -13,7 +13,7 @@ models/User | talawa-apidocument.documentElement.dataset.theme = localStorage.ge
 Module models/User
 ==================
 
-*   Defined in [src/models/User.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L1)
+*   Defined in [src/models/User.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L1)
 
 ### Index
 

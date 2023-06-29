@@ -17,7 +17,7 @@ Function getEnvIssues
 *   getEnvIssues(): void | ZodIssue\[\][](#getEnvIssues)
 *   #### Returns void | ZodIssue\[\]
     
-    *   Defined in [src/env.ts:35](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/env.ts#L35)
+    *   Defined in [src/env.ts:35](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/env.ts#L35)
     
 
 ### Settings

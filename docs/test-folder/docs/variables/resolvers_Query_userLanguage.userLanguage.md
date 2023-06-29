@@ -28,7 +28,7 @@ An object that contains `userId`.
 
 The language code of the user.
 
-*   Defined in [src/resolvers/Query/userLanguage.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/userLanguage.ts#L11)
+*   Defined in [src/resolvers/Query/userLanguage.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/userLanguage.ts#L11)
 
 ### Settings
 

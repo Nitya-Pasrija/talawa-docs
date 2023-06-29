@@ -13,7 +13,7 @@ resolvers/GroupChat/messages | talawa-apidocument.documentElement.dataset.theme 
 Module resolvers/GroupChat/messages
 ===================================
 
-*   Defined in [src/resolvers/GroupChat/messages.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/GroupChat/messages.ts#L1)
+*   Defined in [src/resolvers/GroupChat/messages.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/GroupChat/messages.ts#L1)
 
 ### Index
 

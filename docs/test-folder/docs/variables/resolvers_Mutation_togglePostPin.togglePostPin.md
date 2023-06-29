@@ -16,7 +16,7 @@ Variable togglePostPin`Const`
 
 togglePostPin: [MutationResolvers](../types/types_generatedGraphQLTypes.MutationResolvers.html)\["togglePostPin"\] = ...
 
-*   Defined in [src/resolvers/Mutation/togglePostPin.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/togglePostPin.ts#L10)
+*   Defined in [src/resolvers/Mutation/togglePostPin.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/togglePostPin.ts#L10)
 
 ### Settings
 

@@ -41,7 +41,7 @@ The following checks are done:
 
 Direct chat message.
 
-*   Defined in [src/resolvers/Mutation/sendMessageToDirectChat.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/sendMessageToDirectChat.ts#L15)
+*   Defined in [src/resolvers/Mutation/sendMessageToDirectChat.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/sendMessageToDirectChat.ts#L15)
 
 ### Settings
 

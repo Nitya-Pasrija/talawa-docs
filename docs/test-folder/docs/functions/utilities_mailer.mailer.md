@@ -30,7 +30,7 @@ Function mailer
     
     This is a utility method.
     
-    *   Defined in [src/utilities/mailer.ts:23](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/mailer.ts#L23)
+    *   Defined in [src/utilities/mailer.ts:23](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/mailer.ts#L23)
     
 
 ### Settings

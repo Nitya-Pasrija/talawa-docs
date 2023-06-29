@@ -20,7 +20,7 @@ This is an interface representing a document for a group in the database(MongoDB
 
 *   InterfaceGroup
 
-*   Defined in [src/models/Group.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Group.ts#L8)
+*   Defined in [src/models/Group.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Group.ts#L8)
 
 ##### Index
 
@@ -35,43 +35,43 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/Group.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Group.ts#L9)
+*   Defined in [src/models/Group.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Group.ts#L9)
 
 ### admins[](#admins)
 
 admins: any\[\]
 
-*   Defined in [src/models/Group.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Group.ts#L15)
+*   Defined in [src/models/Group.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Group.ts#L15)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/Group.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Group.ts#L12)
+*   Defined in [src/models/Group.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Group.ts#L12)
 
 ### description[](#description)
 
 description: undefined | string
 
-*   Defined in [src/models/Group.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Group.ts#L11)
+*   Defined in [src/models/Group.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Group.ts#L11)
 
 ### organization[](#organization)
 
 organization: any
 
-*   Defined in [src/models/Group.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Group.ts#L13)
+*   Defined in [src/models/Group.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Group.ts#L13)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/Group.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Group.ts#L14)
+*   Defined in [src/models/Group.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Group.ts#L14)
 
 ### title[](#title)
 
 title: string
 
-*   Defined in [src/models/Group.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Group.ts#L10)
+*   Defined in [src/models/Group.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Group.ts#L10)
 
 ### Settings
 

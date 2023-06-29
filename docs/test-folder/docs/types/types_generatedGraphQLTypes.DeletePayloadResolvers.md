@@ -33,7 +33,7 @@ DeletePayloadResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` success?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["Boolean"\], ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1892](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1892)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1892](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1892)
 
 ### Settings
 

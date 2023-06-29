@@ -16,7 +16,7 @@ Variable creator`Const`
 
 creator: [CommentResolvers](../types/types_generatedGraphQLTypes.CommentResolvers.html)\["creator"\] = ...
 
-*   Defined in [src/resolvers/Comment/creator.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Comment/creator.ts#L4)
+*   Defined in [src/resolvers/Comment/creator.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Comment/creator.ts#L4)
 
 ### Settings
 

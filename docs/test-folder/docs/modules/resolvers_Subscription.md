@@ -13,7 +13,7 @@ resolvers/Subscription | talawa-apidocument.documentElement.dataset.theme = loca
 Module resolvers/Subscription
 =============================
 
-*   Defined in [src/resolvers/Subscription/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Subscription/index.ts#L1)
+*   Defined in [src/resolvers/Subscription/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Subscription/index.ts#L1)
 
 ### Index
 

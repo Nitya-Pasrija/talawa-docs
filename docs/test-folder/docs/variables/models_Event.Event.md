@@ -20,7 +20,7 @@ Event: Model<[InterfaceEvent](../interfaces/models_Event.InterfaceEvent.html), {
 
 #### Type declaration
 
-*   Defined in [src/models/Event.ts:204](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L204)
+*   Defined in [src/models/Event.ts:204](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L204)
 
 ### Settings
 

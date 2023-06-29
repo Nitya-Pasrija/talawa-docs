@@ -16,7 +16,7 @@ Type alias TaskOrderByInput
 
 TaskOrderByInput: "createdAt\_ASC" | "createdAt\_DESC" | "deadline\_ASC" | "deadline\_DESC" | "description\_ASC" | "description\_DESC" | "id\_ASC" | "id\_DESC" | "title\_ASC" | "title\_DESC"
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1310](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1310)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1310](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1310)
 
 ### Settings
 

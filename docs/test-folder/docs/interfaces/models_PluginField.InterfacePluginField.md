@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Plugin Fie
 
 *   InterfacePluginField
 
-*   Defined in [src/models/PluginField.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/PluginField.ts#L6)
+*   Defined in [src/models/PluginField.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/PluginField.ts#L6)
 
 ##### Index
 
@@ -35,31 +35,31 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/PluginField.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/PluginField.ts#L7)
+*   Defined in [src/models/PluginField.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/PluginField.ts#L7)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/PluginField.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/PluginField.ts#L11)
+*   Defined in [src/models/PluginField.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/PluginField.ts#L11)
 
 ### key[](#key)
 
 key: string
 
-*   Defined in [src/models/PluginField.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/PluginField.ts#L8)
+*   Defined in [src/models/PluginField.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/PluginField.ts#L8)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/PluginField.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/PluginField.ts#L10)
+*   Defined in [src/models/PluginField.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/PluginField.ts#L10)
 
 ### value[](#value)
 
 value: string
 
-*   Defined in [src/models/PluginField.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/PluginField.ts#L9)
+*   Defined in [src/models/PluginField.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/PluginField.ts#L9)
 
 ### Settings
 

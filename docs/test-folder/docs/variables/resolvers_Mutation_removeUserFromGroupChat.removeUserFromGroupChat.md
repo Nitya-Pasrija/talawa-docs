@@ -43,7 +43,7 @@ The following checks are done:
 
 Updated group chat.
 
-*   Defined in [src/resolvers/Mutation/removeUserFromGroupChat.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeUserFromGroupChat.ts#L22)
+*   Defined in [src/resolvers/Mutation/removeUserFromGroupChat.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeUserFromGroupChat.ts#L22)
 
 ### Settings
 

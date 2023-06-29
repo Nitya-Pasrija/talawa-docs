@@ -13,7 +13,7 @@ resolvers/Mutation/removeOrganization | talawa-apidocument.documentElement.datas
 Module resolvers/Mutation/removeOrganization
 ============================================
 
-*   Defined in [src/resolvers/Mutation/removeOrganization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeOrganization.ts#L1)
+*   Defined in [src/resolvers/Mutation/removeOrganization.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeOrganization.ts#L1)
 
 ### Index
 

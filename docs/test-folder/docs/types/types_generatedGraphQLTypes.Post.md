@@ -59,7 +59,7 @@ Post: {
 *   ##### `Optional` videoUrl?: [Maybe](types_generatedGraphQLTypes.Maybe.html)<[Scalars](types_generatedGraphQLTypes.Scalars.html)\["URL"\]\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:991](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L991)
+*   Defined in [src/types/generatedGraphQLTypes.ts:991](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L991)
 
 ### Settings
 

@@ -29,7 +29,7 @@ USER\_BLOCKING\_SELF: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:143](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L143)
+*   Defined in [src/constants.ts:143](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L143)
 
 ### Settings
 

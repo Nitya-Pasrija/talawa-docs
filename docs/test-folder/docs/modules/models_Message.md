@@ -13,7 +13,7 @@ models/Message | talawa-apidocument.documentElement.dataset.theme = localStorage
 Module models/Message
 =====================
 
-*   Defined in [src/models/Message.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L1)
+*   Defined in [src/models/Message.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L1)
 
 ### Index
 

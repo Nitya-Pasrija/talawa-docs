@@ -42,7 +42,7 @@ The following checks are done:
 
 Deleted chat.
 
-*   Defined in [src/resolvers/Mutation/removeDirectChat.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeDirectChat.ts#L20)
+*   Defined in [src/resolvers/Mutation/removeDirectChat.ts:20](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeDirectChat.ts#L20)
 
 ### Settings
 

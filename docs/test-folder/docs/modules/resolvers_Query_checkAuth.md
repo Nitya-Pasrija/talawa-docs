@@ -13,7 +13,7 @@ resolvers/Query/checkAuth | talawa-apidocument.documentElement.dataset.theme = l
 Module resolvers/Query/checkAuth
 ================================
 
-*   Defined in [src/resolvers/Query/checkAuth.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/checkAuth.ts#L1)
+*   Defined in [src/resolvers/Query/checkAuth.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/checkAuth.ts#L1)
 
 ### Index
 

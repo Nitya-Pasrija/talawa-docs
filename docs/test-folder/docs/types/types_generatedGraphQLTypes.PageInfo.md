@@ -47,7 +47,7 @@ Information about pagination in a connection.
 *   ##### `Optional` totalPages?: [Maybe](types_generatedGraphQLTypes.Maybe.html)<[Scalars](types_generatedGraphQLTypes.Scalars.html)\["Int"\]\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:948](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L948)
+*   Defined in [src/types/generatedGraphQLTypes.ts:948](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L948)
 
 ### Settings
 

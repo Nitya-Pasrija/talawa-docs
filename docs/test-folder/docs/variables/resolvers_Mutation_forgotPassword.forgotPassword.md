@@ -39,7 +39,7 @@ The following tasks are done:
 
 True if the operation is successful.
 
-*   Defined in [src/resolvers/Mutation/forgotPassword.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/forgotPassword.ts#L17)
+*   Defined in [src/resolvers/Mutation/forgotPassword.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/forgotPassword.ts#L17)
 
 ### Settings
 

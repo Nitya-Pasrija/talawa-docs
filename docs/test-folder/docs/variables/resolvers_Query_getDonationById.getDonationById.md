@@ -28,7 +28,7 @@ An object that contains `id` of the donation.
 
 A `donation` object.
 
-*   Defined in [src/resolvers/Query/getDonationById.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/getDonationById.ts#L11)
+*   Defined in [src/resolvers/Query/getDonationById.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/getDonationById.ts#L11)
 
 ### Settings
 

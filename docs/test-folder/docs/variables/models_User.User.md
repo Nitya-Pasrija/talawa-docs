@@ -20,7 +20,7 @@ User: PaginateModel<[InterfaceUser](../interfaces/models_User.InterfaceUser.html
 
 #### Type declaration
 
-*   Defined in [src/models/User.ts:182](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/User.ts#L182)
+*   Defined in [src/models/User.ts:182](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/User.ts#L182)
 
 ### Settings
 

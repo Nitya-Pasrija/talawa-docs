@@ -28,7 +28,7 @@ An object that contains `orgId` of the Organization.
 
 A `donation` object.
 
-*   Defined in [src/resolvers/Query/getDonationByOrgId.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/getDonationByOrgId.ts#L10)
+*   Defined in [src/resolvers/Query/getDonationByOrgId.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/getDonationByOrgId.ts#L10)
 
 ### Settings
 

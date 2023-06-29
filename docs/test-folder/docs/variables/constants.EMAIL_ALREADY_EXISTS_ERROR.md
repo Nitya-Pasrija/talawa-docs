@@ -32,7 +32,7 @@ EMAIL\_ALREADY\_EXISTS\_ERROR: {
 *   ##### PARAM: string
     
 
-*   Defined in [src/constants.ts:304](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L304)
+*   Defined in [src/constants.ts:304](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L304)
 
 ### Settings
 

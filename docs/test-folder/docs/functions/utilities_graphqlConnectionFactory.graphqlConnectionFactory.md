@@ -22,7 +22,7 @@ Function graphqlConnectionFactory
     
     #### Returns InterfaceConnection<T\>
     
-    *   Defined in [src/utilities/graphqlConnectionFactory.ts:28](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/graphqlConnectionFactory.ts#L28)
+    *   Defined in [src/utilities/graphqlConnectionFactory.ts:28](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/graphqlConnectionFactory.ts#L28)
     
 
 ### Settings

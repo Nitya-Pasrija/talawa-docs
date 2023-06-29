@@ -13,7 +13,7 @@ libraries/errors/inputValidationError | talawa-apidocument.documentElement.datas
 Module libraries/errors/inputValidationError
 ============================================
 
-*   Defined in [src/libraries/errors/inputValidationError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/inputValidationError.ts#L1)
+*   Defined in [src/libraries/errors/inputValidationError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/inputValidationError.ts#L1)
 
 ### Index
 

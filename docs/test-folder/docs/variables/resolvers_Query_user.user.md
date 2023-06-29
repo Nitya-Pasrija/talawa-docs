@@ -30,7 +30,7 @@ An object that contains `id` for the user.
 
 An object that contains user data. If the user is not found then it throws a `NotFoundError` error.
 
-*   Defined in [src/resolvers/Query/user.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/user.ts#L12)
+*   Defined in [src/resolvers/Query/user.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/user.ts#L12)
 
 ### Settings
 

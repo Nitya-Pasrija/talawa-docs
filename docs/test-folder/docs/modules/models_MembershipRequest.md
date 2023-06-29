@@ -13,7 +13,7 @@ models/MembershipRequest | talawa-apidocument.documentElement.dataset.theme = lo
 Module models/MembershipRequest
 ===============================
 
-*   Defined in [src/models/MembershipRequest.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MembershipRequest.ts#L1)
+*   Defined in [src/models/MembershipRequest.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MembershipRequest.ts#L1)
 
 ### Index
 

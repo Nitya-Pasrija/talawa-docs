@@ -13,7 +13,7 @@ resolvers/Mutation/saveFcmToken | talawa-apidocument.documentElement.dataset.the
 Module resolvers/Mutation/saveFcmToken
 ======================================
 
-*   Defined in [src/resolvers/Mutation/saveFcmToken.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/saveFcmToken.ts#L1)
+*   Defined in [src/resolvers/Mutation/saveFcmToken.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/saveFcmToken.ts#L1)
 
 ### Index
 

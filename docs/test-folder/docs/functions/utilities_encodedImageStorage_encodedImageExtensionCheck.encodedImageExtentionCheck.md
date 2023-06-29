@@ -22,7 +22,7 @@ Function encodedImageExtentionCheck
     
     #### Returns boolean
     
-    *   Defined in [src/utilities/encodedImageStorage/encodedImageExtensionCheck.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/encodedImageStorage/encodedImageExtensionCheck.ts#L1)
+    *   Defined in [src/utilities/encodedImageStorage/encodedImageExtensionCheck.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/encodedImageStorage/encodedImageExtensionCheck.ts#L1)
     
 
 ### Settings

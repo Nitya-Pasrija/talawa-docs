@@ -22,7 +22,7 @@ This property contained a `subscribe` field, which is used to subscribe the user
 
 To control updates on a per-client basis, the function uses the `withFilter` method imported from `apollo-server-express` module. You can learn about `subscription` [here](https://www.apollographql.com/docs/apollo-server/data/subscriptions/).
 
-*   Defined in [src/resolvers/Subscription/directMessageChat.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Subscription/directMessageChat.ts#L12)
+*   Defined in [src/resolvers/Subscription/directMessageChat.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Subscription/directMessageChat.ts#L12)
 
 ### Settings
 

@@ -30,7 +30,7 @@ payload provided with the request
 
 Sign up details.
 
-*   Defined in [src/resolvers/Mutation/signUp.ts:27](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/signUp.ts#L27)
+*   Defined in [src/resolvers/Mutation/signUp.ts:27](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/signUp.ts#L27)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/Organization/blockedUsers | talawa-apidocument.documentElement.dataset
 Module resolvers/Organization/blockedUsers
 ==========================================
 
-*   Defined in [src/resolvers/Organization/blockedUsers.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Organization/blockedUsers.ts#L1)
+*   Defined in [src/resolvers/Organization/blockedUsers.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Organization/blockedUsers.ts#L1)
 
 ### Index
 

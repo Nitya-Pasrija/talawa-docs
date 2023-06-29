@@ -40,7 +40,7 @@ The following checks are done:
 
 Updated language.
 
-*   Defined in [src/resolvers/Mutation/updateLanguage.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updateLanguage.ts#L14)
+*   Defined in [src/resolvers/Mutation/updateLanguage.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updateLanguage.ts#L14)
 
 ### Settings
 

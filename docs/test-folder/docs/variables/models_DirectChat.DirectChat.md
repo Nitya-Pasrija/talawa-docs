@@ -20,7 +20,7 @@ DirectChat: Model<[InterfaceDirectChat](../interfaces/models_DirectChat.Interfac
 
 #### Type declaration
 
-*   Defined in [src/models/DirectChat.ts:61](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/DirectChat.ts#L61)
+*   Defined in [src/models/DirectChat.ts:61](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/DirectChat.ts#L61)
 
 ### Settings
 

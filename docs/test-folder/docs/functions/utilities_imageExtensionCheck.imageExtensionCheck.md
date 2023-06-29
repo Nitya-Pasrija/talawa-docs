@@ -26,7 +26,7 @@ Function imageExtensionCheck
     
     #### Returns Promise<void\>
     
-    *   Defined in [src/utilities/imageExtensionCheck.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/imageExtensionCheck.ts#L10)
+    *   Defined in [src/utilities/imageExtensionCheck.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/imageExtensionCheck.ts#L10)
     
 
 ### Settings

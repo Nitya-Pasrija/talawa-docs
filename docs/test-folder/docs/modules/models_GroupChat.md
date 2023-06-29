@@ -13,7 +13,7 @@ models/GroupChat | talawa-apidocument.documentElement.dataset.theme = localStora
 Module models/GroupChat
 =======================
 
-*   Defined in [src/models/GroupChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/GroupChat.ts#L1)
+*   Defined in [src/models/GroupChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/GroupChat.ts#L1)
 
 ### Index
 

@@ -19,7 +19,7 @@ Interface PositiveIntScalarConfig
 *   GraphQLScalarTypeConfig<[ResolversTypes](../types/types_generatedGraphQLTypes.ResolversTypes.html)\["PositiveInt"\], any\>
     *   PositiveIntScalarConfig
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2206](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2206)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2206](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2206)
 
 ##### Index
 
@@ -68,7 +68,7 @@ name: "PositiveInt"
 
 Overrides GraphQLScalarTypeConfig.name
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:2207](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L2207)
+*   Defined in [src/types/generatedGraphQLTypes.ts:2207](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L2207)
 
 ### `Optional` parseLiteral[](#parseLiteral)
 

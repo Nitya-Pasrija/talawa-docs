@@ -16,7 +16,7 @@ Variable RECAPTCHA\_SECRET\_KEY`Const`
 
 RECAPTCHA\_SECRET\_KEY: undefined | string = ENV.RECAPTCHA\_SECRET\_KEY
 
-*   Defined in [src/constants.ts:319](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L319)
+*   Defined in [src/constants.ts:319](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L319)
 
 ### Settings
 

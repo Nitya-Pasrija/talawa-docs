@@ -27,7 +27,7 @@ Function init
     
     #### Returns T
     
-    *   Defined in [src/libraries/requestContext.ts:44](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/requestContext.ts#L44)
+    *   Defined in [src/libraries/requestContext.ts:44](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/requestContext.ts#L44)
     
 
 ### Settings

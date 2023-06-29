@@ -20,7 +20,7 @@ This is an interface representing a document for a chat in the database(MongoDB)
 
 *   InterfaceMessageChat
 
-*   Defined in [src/models/MessageChat.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MessageChat.ts#L7)
+*   Defined in [src/models/MessageChat.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MessageChat.ts#L7)
 
 ##### Index
 
@@ -35,37 +35,37 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/MessageChat.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MessageChat.ts#L8)
+*   Defined in [src/models/MessageChat.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MessageChat.ts#L8)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/MessageChat.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MessageChat.ts#L13)
+*   Defined in [src/models/MessageChat.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MessageChat.ts#L13)
 
 ### languageBarrier[](#languageBarrier)
 
 languageBarrier: boolean
 
-*   Defined in [src/models/MessageChat.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MessageChat.ts#L10)
+*   Defined in [src/models/MessageChat.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MessageChat.ts#L10)
 
 ### message[](#message)
 
 message: string
 
-*   Defined in [src/models/MessageChat.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MessageChat.ts#L9)
+*   Defined in [src/models/MessageChat.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MessageChat.ts#L9)
 
 ### receiver[](#receiver)
 
 receiver: any
 
-*   Defined in [src/models/MessageChat.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MessageChat.ts#L12)
+*   Defined in [src/models/MessageChat.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MessageChat.ts#L12)
 
 ### sender[](#sender)
 
 sender: any
 
-*   Defined in [src/models/MessageChat.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/MessageChat.ts#L11)
+*   Defined in [src/models/MessageChat.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/MessageChat.ts#L11)
 
 ### Settings
 

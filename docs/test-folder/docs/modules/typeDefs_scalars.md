@@ -13,7 +13,7 @@ typeDefs/scalars | talawa-apidocument.documentElement.dataset.theme = localStora
 Module typeDefs/scalars
 =======================
 
-*   Defined in [src/typeDefs/scalars.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/scalars.ts#L1)
+*   Defined in [src/typeDefs/scalars.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/scalars.ts#L1)
 
 ### Index
 

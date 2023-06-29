@@ -13,7 +13,7 @@ libraries/errors/conflictError | talawa-apidocument.documentElement.dataset.them
 Module libraries/errors/conflictError
 =====================================
 
-*   Defined in [src/libraries/errors/conflictError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/conflictError.ts#L1)
+*   Defined in [src/libraries/errors/conflictError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/conflictError.ts#L1)
 
 ### Index
 

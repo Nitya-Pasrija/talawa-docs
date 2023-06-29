@@ -36,7 +36,7 @@ ExtendSessionResolvers<ContextType, ParentType\>: {
 *   ##### `Optional` refreshToken?: [Resolver](types_generatedGraphQLTypes.Resolver.html)<[ResolversTypes](types_generatedGraphQLTypes.ResolversTypes.html)\["String"\], ParentType, ContextType\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1962](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1962)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1962](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1962)
 
 ### Settings
 

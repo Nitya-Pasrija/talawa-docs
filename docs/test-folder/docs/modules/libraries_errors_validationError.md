@@ -13,7 +13,7 @@ libraries/errors/validationError | talawa-apidocument.documentElement.dataset.th
 Module libraries/errors/validationError
 =======================================
 
-*   Defined in [src/libraries/errors/validationError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/validationError.ts#L1)
+*   Defined in [src/libraries/errors/validationError.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/validationError.ts#L1)
 
 ### Index
 

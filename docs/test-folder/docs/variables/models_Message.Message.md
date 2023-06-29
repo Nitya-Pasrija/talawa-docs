@@ -20,7 +20,7 @@ Message: Model<[InterfaceMessage](../interfaces/models_Message.InterfaceMessage.
 
 #### Type declaration
 
-*   Defined in [src/models/Message.ts:67](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Message.ts#L67)
+*   Defined in [src/models/Message.ts:67](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Message.ts#L67)
 
 ### Settings
 

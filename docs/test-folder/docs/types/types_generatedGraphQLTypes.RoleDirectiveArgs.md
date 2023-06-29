@@ -23,7 +23,7 @@ RoleDirectiveArgs: {
 *   ##### `Optional` requires?: [Maybe](types_generatedGraphQLTypes.Maybe.html)<[UserType](types_generatedGraphQLTypes.UserType.html)\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1831](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1831)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1831](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1831)
 
 ### Settings
 

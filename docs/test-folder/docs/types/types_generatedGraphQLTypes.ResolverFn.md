@@ -44,7 +44,7 @@ ResolverFn<TResult, TParent, TContext, TArgs\>: ((parent, args, context, info?) 
         #### Returns Promise<TResult\> | TResult
         
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1575](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1575)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1575](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1575)
 
 ### Settings
 

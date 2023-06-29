@@ -13,7 +13,7 @@ typeDefs | talawa-apidocument.documentElement.dataset.theme = localStorage.getIt
 Module typeDefs
 ===============
 
-*   Defined in [src/typeDefs/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/index.ts#L1)
+*   Defined in [src/typeDefs/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/index.ts#L1)
 
 ### Index
 

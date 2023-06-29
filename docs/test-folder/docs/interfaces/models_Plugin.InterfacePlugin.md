@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Plugin.
 
 *   InterfacePlugin
 
-*   Defined in [src/models/Plugin.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Plugin.ts#L6)
+*   Defined in [src/models/Plugin.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Plugin.ts#L6)
 
 ##### Index
 
@@ -35,37 +35,37 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/Plugin.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Plugin.ts#L7)
+*   Defined in [src/models/Plugin.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Plugin.ts#L7)
 
 ### installedOrgs[](#installedOrgs)
 
 installedOrgs: ObjectId\[\]
 
-*   Defined in [src/models/Plugin.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Plugin.ts#L12)
+*   Defined in [src/models/Plugin.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Plugin.ts#L12)
 
 ### pluginCreatedBy[](#pluginCreatedBy)
 
 pluginCreatedBy: string
 
-*   Defined in [src/models/Plugin.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Plugin.ts#L9)
+*   Defined in [src/models/Plugin.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Plugin.ts#L9)
 
 ### pluginDesc[](#pluginDesc)
 
 pluginDesc: string
 
-*   Defined in [src/models/Plugin.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Plugin.ts#L10)
+*   Defined in [src/models/Plugin.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Plugin.ts#L10)
 
 ### pluginInstallStatus[](#pluginInstallStatus)
 
 pluginInstallStatus: boolean
 
-*   Defined in [src/models/Plugin.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Plugin.ts#L11)
+*   Defined in [src/models/Plugin.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Plugin.ts#L11)
 
 ### pluginName[](#pluginName)
 
 pluginName: string
 
-*   Defined in [src/models/Plugin.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Plugin.ts#L8)
+*   Defined in [src/models/Plugin.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Plugin.ts#L8)
 
 ### Settings
 

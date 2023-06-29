@@ -16,7 +16,7 @@ Variable LAST\_RESORT\_SUPERADMIN\_EMAIL`Const`
 
 LAST\_RESORT\_SUPERADMIN\_EMAIL: undefined | string = process.env.LAST\_RESORT\_SUPERADMIN\_EMAIL
 
-*   Defined in [src/constants.ts:349](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/constants.ts#L349)
+*   Defined in [src/constants.ts:349](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/constants.ts#L349)
 
 ### Settings
 

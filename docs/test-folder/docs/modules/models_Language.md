@@ -13,7 +13,7 @@ models/Language | talawa-apidocument.documentElement.dataset.theme = localStorag
 Module models/Language
 ======================
 
-*   Defined in [src/models/Language.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Language.ts#L1)
+*   Defined in [src/models/Language.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Language.ts#L1)
 
 ### Index
 

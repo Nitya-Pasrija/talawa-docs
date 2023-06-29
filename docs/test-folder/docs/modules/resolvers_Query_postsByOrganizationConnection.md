@@ -13,7 +13,7 @@ resolvers/Query/postsByOrganizationConnection | talawa-apidocument.documentEleme
 Module resolvers/Query/postsByOrganizationConnection
 ====================================================
 
-*   Defined in [src/resolvers/Query/postsByOrganizationConnection.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/postsByOrganizationConnection.ts#L1)
+*   Defined in [src/resolvers/Query/postsByOrganizationConnection.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/postsByOrganizationConnection.ts#L1)
 
 ### Index
 

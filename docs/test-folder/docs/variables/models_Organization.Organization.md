@@ -20,7 +20,7 @@ Organization: Model<[InterfaceOrganization](../interfaces/models_Organization.In
 
 #### Type declaration
 
-*   Defined in [src/models/Organization.ts:139](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Organization.ts#L139)
+*   Defined in [src/models/Organization.ts:139](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Organization.ts#L139)
 
 ### Settings
 

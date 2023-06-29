@@ -20,7 +20,7 @@ This is an interface representing a document for an event project in the databas
 
 *   InterfaceEventProject
 
-*   Defined in [src/models/EventProject.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L9)
+*   Defined in [src/models/EventProject.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L9)
 
 ##### Index
 
@@ -35,49 +35,49 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/EventProject.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L10)
+*   Defined in [src/models/EventProject.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L10)
 
 ### createdAt[](#createdAt)
 
 createdAt: Date
 
-*   Defined in [src/models/EventProject.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L13)
+*   Defined in [src/models/EventProject.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L13)
 
 ### creator[](#creator)
 
 creator: any
 
-*   Defined in [src/models/EventProject.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L15)
+*   Defined in [src/models/EventProject.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L15)
 
 ### description[](#description)
 
 description: string
 
-*   Defined in [src/models/EventProject.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L12)
+*   Defined in [src/models/EventProject.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L12)
 
 ### event[](#event)
 
 event: any
 
-*   Defined in [src/models/EventProject.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L14)
+*   Defined in [src/models/EventProject.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L14)
 
 ### status[](#status)
 
 status: string
 
-*   Defined in [src/models/EventProject.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L17)
+*   Defined in [src/models/EventProject.ts:17](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L17)
 
 ### tasks[](#tasks)
 
 tasks: any\[\]
 
-*   Defined in [src/models/EventProject.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L16)
+*   Defined in [src/models/EventProject.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L16)
 
 ### title[](#title)
 
 title: string
 
-*   Defined in [src/models/EventProject.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EventProject.ts#L11)
+*   Defined in [src/models/EventProject.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EventProject.ts#L11)
 
 ### Settings
 

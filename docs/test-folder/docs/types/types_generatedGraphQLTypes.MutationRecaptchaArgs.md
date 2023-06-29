@@ -23,7 +23,7 @@ MutationRecaptchaArgs: {
 *   ##### data: [RecaptchaVerification](types_generatedGraphQLTypes.RecaptchaVerification.html)
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:630](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L630)
+*   Defined in [src/types/generatedGraphQLTypes.ts:630](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L630)
 
 ### Settings
 

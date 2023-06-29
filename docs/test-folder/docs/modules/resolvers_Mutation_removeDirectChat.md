@@ -13,7 +13,7 @@ resolvers/Mutation/removeDirectChat | talawa-apidocument.documentElement.dataset
 Module resolvers/Mutation/removeDirectChat
 ==========================================
 
-*   Defined in [src/resolvers/Mutation/removeDirectChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/removeDirectChat.ts#L1)
+*   Defined in [src/resolvers/Mutation/removeDirectChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/removeDirectChat.ts#L1)
 
 ### Index
 

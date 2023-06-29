@@ -13,7 +13,7 @@ libraries/errors | talawa-apidocument.documentElement.dataset.theme = localStora
 Module libraries/errors
 =======================
 
-*   Defined in [src/libraries/errors/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/errors/index.ts#L1)
+*   Defined in [src/libraries/errors/index.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/errors/index.ts#L1)
 
 ##### Index
 

@@ -13,7 +13,7 @@ utilities/encodedImageStorage/deletePreviousImage | talawa-apidocument.documentE
 Module utilities/encodedImageStorage/deletePreviousImage
 ========================================================
 
-*   Defined in [src/utilities/encodedImageStorage/deletePreviousImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/encodedImageStorage/deletePreviousImage.ts#L1)
+*   Defined in [src/utilities/encodedImageStorage/deletePreviousImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/encodedImageStorage/deletePreviousImage.ts#L1)
 
 ### Index
 

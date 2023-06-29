@@ -13,7 +13,7 @@ resolvers/Query/helperFunctions/getSort | talawa-apidocument.documentElement.dat
 Module resolvers/Query/helperFunctions/getSort
 ==============================================
 
-*   Defined in [src/resolvers/Query/helperFunctions/getSort.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/helperFunctions/getSort.ts#L1)
+*   Defined in [src/resolvers/Query/helperFunctions/getSort.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/helperFunctions/getSort.ts#L1)
 
 ### Index
 

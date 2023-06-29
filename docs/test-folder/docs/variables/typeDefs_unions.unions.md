@@ -16,7 +16,7 @@ Variable unions`Const`
 
 unions: DocumentNode = ...
 
-*   Defined in [src/typeDefs/unions.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/unions.ts#L4)
+*   Defined in [src/typeDefs/unions.ts:4](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/unions.ts#L4)
 
 ### Settings
 

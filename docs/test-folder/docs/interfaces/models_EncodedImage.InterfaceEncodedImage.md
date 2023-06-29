@@ -20,7 +20,7 @@ This is an interface that represents a database(MongoDB) document for Encoded Im
 
 *   InterfaceEncodedImage
 
-*   Defined in [src/models/EncodedImage.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EncodedImage.ts#L6)
+*   Defined in [src/models/EncodedImage.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EncodedImage.ts#L6)
 
 ##### Index
 
@@ -35,25 +35,25 @@ Properties
 
 \_id: ObjectId
 
-*   Defined in [src/models/EncodedImage.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EncodedImage.ts#L7)
+*   Defined in [src/models/EncodedImage.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EncodedImage.ts#L7)
 
 ### content[](#content)
 
 content: string
 
-*   Defined in [src/models/EncodedImage.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EncodedImage.ts#L9)
+*   Defined in [src/models/EncodedImage.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EncodedImage.ts#L9)
 
 ### fileName[](#fileName)
 
 fileName: string
 
-*   Defined in [src/models/EncodedImage.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EncodedImage.ts#L8)
+*   Defined in [src/models/EncodedImage.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EncodedImage.ts#L8)
 
 ### numberOfUses[](#numberOfUses)
 
 numberOfUses: number
 
-*   Defined in [src/models/EncodedImage.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EncodedImage.ts#L10)
+*   Defined in [src/models/EncodedImage.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EncodedImage.ts#L10)
 
 ### Settings
 

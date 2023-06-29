@@ -19,7 +19,7 @@ Interface DateTimeScalarConfig
 *   GraphQLScalarTypeConfig<[ResolversTypes](../types/types_generatedGraphQLTypes.ResolversTypes.html)\["DateTime"\], any\>
     *   DateTimeScalarConfig
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1888](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1888)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1888](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1888)
 
 ##### Index
 
@@ -68,7 +68,7 @@ name: "DateTime"
 
 Overrides GraphQLScalarTypeConfig.name
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1889](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1889)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1889](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1889)
 
 ### `Optional` parseLiteral[](#parseLiteral)
 

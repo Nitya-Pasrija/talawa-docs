@@ -18,7 +18,7 @@ queries: DocumentNode = ...
 
 This graphQL typeDef defines the logic for different queries defined in the talawa-api.
 
-*   Defined in [src/typeDefs/queries.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/queries.ts#L6)
+*   Defined in [src/typeDefs/queries.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/queries.ts#L6)
 
 ### Settings
 

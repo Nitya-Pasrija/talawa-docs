@@ -13,7 +13,7 @@ resolvers/Query/organizationsConnection | talawa-apidocument.documentElement.dat
 Module resolvers/Query/organizationsConnection
 ==============================================
 
-*   Defined in [src/resolvers/Query/organizationsConnection.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/organizationsConnection.ts#L1)
+*   Defined in [src/resolvers/Query/organizationsConnection.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/organizationsConnection.ts#L1)
 
 ### Index
 

@@ -13,7 +13,7 @@ utilities/superAdminCheck | talawa-apidocument.documentElement.dataset.theme = l
 Module utilities/superAdminCheck
 ================================
 
-*   Defined in [src/utilities/superAdminCheck.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/utilities/superAdminCheck.ts#L1)
+*   Defined in [src/utilities/superAdminCheck.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/utilities/superAdminCheck.ts#L1)
 
 ### Index
 

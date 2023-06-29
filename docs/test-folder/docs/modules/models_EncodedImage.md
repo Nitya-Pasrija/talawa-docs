@@ -13,7 +13,7 @@ models/EncodedImage | talawa-apidocument.documentElement.dataset.theme = localSt
 Module models/EncodedImage
 ==========================
 
-*   Defined in [src/models/EncodedImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/EncodedImage.ts#L1)
+*   Defined in [src/models/EncodedImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/EncodedImage.ts#L1)
 
 ### Index
 

@@ -32,7 +32,7 @@ UserConnection: {
 *   ##### pageInfo: [PageInfo](types_generatedGraphQLTypes.PageInfo.html)
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1440](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1440)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1440](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1440)
 
 ### Settings
 

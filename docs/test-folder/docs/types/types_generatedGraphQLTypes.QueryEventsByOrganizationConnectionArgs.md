@@ -32,7 +32,7 @@ QueryEventsByOrganizationConnectionArgs: {
 *   ##### `Optional` where?: [InputMaybe](types_generatedGraphQLTypes.InputMaybe.html)<[EventWhereInput](types_generatedGraphQLTypes.EventWhereInput.html)\>
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1135](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1135)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1135](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1135)
 
 ### Settings
 

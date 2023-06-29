@@ -13,7 +13,7 @@ resolvers/Mutation/likeComment | talawa-apidocument.documentElement.dataset.them
 Module resolvers/Mutation/likeComment
 =====================================
 
-*   Defined in [src/resolvers/Mutation/likeComment.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/likeComment.ts#L1)
+*   Defined in [src/resolvers/Mutation/likeComment.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/likeComment.ts#L1)
 
 ### Index
 

@@ -32,7 +32,7 @@ The organization if valid `id` is provided else return organizations with size l
 
 `id` in the args is optional.
 
-*   Defined in [src/resolvers/Query/organizations.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/organizations.ts#L14)
+*   Defined in [src/resolvers/Query/organizations.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/organizations.ts#L14)
 
 ### Settings
 

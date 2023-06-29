@@ -13,7 +13,7 @@ resolvers/Mutation/addOrganizationImage | talawa-apidocument.documentElement.dat
 Module resolvers/Mutation/addOrganizationImage
 ==============================================
 
-*   Defined in [src/resolvers/Mutation/addOrganizationImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/addOrganizationImage.ts#L1)
+*   Defined in [src/resolvers/Mutation/addOrganizationImage.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/addOrganizationImage.ts#L1)
 
 ### Index
 

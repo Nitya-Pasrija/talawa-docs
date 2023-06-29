@@ -16,7 +16,7 @@ Variable logger`Const`
 
 logger: Logger = ...
 
-*   Defined in [src/libraries/logger.ts:42](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/libraries/logger.ts#L42)
+*   Defined in [src/libraries/logger.ts:42](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/libraries/logger.ts#L42)
 
 ### Settings
 

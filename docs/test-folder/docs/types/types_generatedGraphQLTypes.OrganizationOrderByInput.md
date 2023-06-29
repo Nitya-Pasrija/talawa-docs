@@ -16,7 +16,7 @@ Type alias OrganizationOrderByInput
 
 OrganizationOrderByInput: "apiUrl\_ASC" | "apiUrl\_DESC" | "description\_ASC" | "description\_DESC" | "id\_ASC" | "id\_DESC" | "name\_ASC" | "name\_DESC"
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:903](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L903)
+*   Defined in [src/types/generatedGraphQLTypes.ts:903](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L903)
 
 ### Settings
 

@@ -13,7 +13,7 @@ resolvers/Mutation/createGroupChat | talawa-apidocument.documentElement.dataset.
 Module resolvers/Mutation/createGroupChat
 =========================================
 
-*   Defined in [src/resolvers/Mutation/createGroupChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/createGroupChat.ts#L1)
+*   Defined in [src/resolvers/Mutation/createGroupChat.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/createGroupChat.ts#L1)
 
 ### Index
 

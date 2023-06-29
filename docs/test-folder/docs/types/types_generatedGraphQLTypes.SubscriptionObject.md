@@ -29,7 +29,7 @@ SubscriptionObject<TResult, TKey, TParent, TContext, TArgs\>: [SubscriptionSubsc
 *   #### TArgs
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:1606](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L1606)
+*   Defined in [src/types/generatedGraphQLTypes.ts:1606](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L1606)
 
 ### Settings
 

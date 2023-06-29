@@ -38,7 +38,7 @@ AuthData: {
 *   ##### user: [User](types_generatedGraphQLTypes.User.html)
     
 
-*   Defined in [src/types/generatedGraphQLTypes.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/types/generatedGraphQLTypes.ts#L65)
+*   Defined in [src/types/generatedGraphQLTypes.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/types/generatedGraphQLTypes.ts#L65)
 
 ### Settings
 

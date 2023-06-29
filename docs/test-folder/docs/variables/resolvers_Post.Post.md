@@ -16,7 +16,7 @@ Variable Post`Const`
 
 Post: [PostResolvers](../types/types_generatedGraphQLTypes.PostResolvers.html) = ...
 
-*   Defined in [src/resolvers/Post/index.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Post/index.ts#L5)
+*   Defined in [src/resolvers/Post/index.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Post/index.ts#L5)
 
 ### Settings
 

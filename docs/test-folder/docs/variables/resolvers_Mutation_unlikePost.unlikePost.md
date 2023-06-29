@@ -41,7 +41,7 @@ The following checks are done:
 
 Post.
 
-*   Defined in [src/resolvers/Mutation/unlikePost.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/unlikePost.ts#L15)
+*   Defined in [src/resolvers/Mutation/unlikePost.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/unlikePost.ts#L15)
 
 ### Settings
 

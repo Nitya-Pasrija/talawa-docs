@@ -32,7 +32,7 @@ An object containing the list of members and pagination information.
 
 Connection in graphQL means pagination, learn more about Connection [here](https://relay.dev/graphql/connections.htm).
 
-*   Defined in [src/resolvers/Query/organizationsMemberConnection.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/organizationsMemberConnection.ts#L19)
+*   Defined in [src/resolvers/Query/organizationsMemberConnection.ts:19](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/organizationsMemberConnection.ts#L19)
 
 ### Settings
 

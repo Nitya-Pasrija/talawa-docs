@@ -13,7 +13,7 @@ models/Event | talawa-apidocument.documentElement.dataset.theme = localStorage.g
 Module models/Event
 ===================
 
-*   Defined in [src/models/Event.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/models/Event.ts#L1)
+*   Defined in [src/models/Event.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/models/Event.ts#L1)
 
 ### Index
 

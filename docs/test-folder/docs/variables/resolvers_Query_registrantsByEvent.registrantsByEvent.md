@@ -28,7 +28,7 @@ An object that contains `id` of the event.
 
 An object that contains list of all the Registrants. If the event is not found then it throws an `NotFoundError` error.
 
-*   Defined in [src/resolvers/Query/registrantsByEvent.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/registrantsByEvent.ts#L13)
+*   Defined in [src/resolvers/Query/registrantsByEvent.ts:13](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/registrantsByEvent.ts#L13)
 
 ### Settings
 

@@ -16,7 +16,7 @@ Variable getDonationByOrgIdConnection`Const`
 
 getDonationByOrgIdConnection: [QueryResolvers](../types/types_generatedGraphQLTypes.QueryResolvers.html)\["getDonationByOrgIdConnection"\] = ...
 
-*   Defined in [src/resolvers/Query/getDonationByOrgIdConnection.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/getDonationByOrgIdConnection.ts#L6)
+*   Defined in [src/resolvers/Query/getDonationByOrgIdConnection.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/getDonationByOrgIdConnection.ts#L6)
 
 ### Settings
 

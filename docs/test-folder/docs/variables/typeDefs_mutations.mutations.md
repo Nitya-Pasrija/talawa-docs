@@ -18,7 +18,7 @@ mutations: DocumentNode = ...
 
 This graphQL typeDef defines the logic for different mutations defined in the talawa-api.
 
-*   Defined in [src/typeDefs/mutations.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/typeDefs/mutations.ts#L6)
+*   Defined in [src/typeDefs/mutations.ts:6](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/typeDefs/mutations.ts#L6)
 
 ### Settings
 

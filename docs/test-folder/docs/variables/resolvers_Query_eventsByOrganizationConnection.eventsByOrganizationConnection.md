@@ -16,7 +16,7 @@ Variable eventsByOrganizationConnection`Const`
 
 eventsByOrganizationConnection: [QueryResolvers](../types/types_generatedGraphQLTypes.QueryResolvers.html)\["eventsByOrganizationConnection"\] = ...
 
-*   Defined in [src/resolvers/Query/eventsByOrganizationConnection.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Query/eventsByOrganizationConnection.ts#L8)
+*   Defined in [src/resolvers/Query/eventsByOrganizationConnection.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Query/eventsByOrganizationConnection.ts#L8)
 
 ### Settings
 

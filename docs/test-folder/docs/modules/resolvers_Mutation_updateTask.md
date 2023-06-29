@@ -13,7 +13,7 @@ resolvers/Mutation/updateTask | talawa-apidocument.documentElement.dataset.theme
 Module resolvers/Mutation/updateTask
 ====================================
 
-*   Defined in [src/resolvers/Mutation/updateTask.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/resolvers/Mutation/updateTask.ts#L1)
+*   Defined in [src/resolvers/Mutation/updateTask.ts:1](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/resolvers/Mutation/updateTask.ts#L1)
 
 ### Index
 

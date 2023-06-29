@@ -19,7 +19,7 @@ Class RoleAuthorizationDirective
 *   SchemaDirectiveVisitor
     *   RoleAuthorizationDirective
 
-*   Defined in [src/directives/roleDirective.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/directives/roleDirective.ts#L8)
+*   Defined in [src/directives/roleDirective.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/directives/roleDirective.ts#L8)
 
 ##### Index
 
@@ -229,7 +229,7 @@ Methods
     
     Overrides SchemaDirectiveVisitor.visitFieldDefinition
     
-    *   Defined in [src/directives/roleDirective.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/68139af/src/directives/roleDirective.ts#L15)
+    *   Defined in [src/directives/roleDirective.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/6058ae7/src/directives/roleDirective.ts#L15)
     
 
 ### visitInputFieldDefinition[](#visitInputFieldDefinition)
