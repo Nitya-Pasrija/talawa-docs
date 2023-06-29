@@ -1,0 +1,23 @@
+[talawa-api](../README.md) / [Exports](../modules.md) / models/File
+
+# Module: models/File
+
+## Table of contents
+
+### Interfaces
+
+- [InterfaceFile](../interfaces/models_File.InterfaceFile.md)
+
+### Variables
+
+- [File](models_File.md#file)
+
+## Variables
+
+### File
+
+• `Const` **File**: `Model`<[`InterfaceFile`](../interfaces/models_File.InterfaceFile.md), {}, {}\>
+
+#### Defined in
+
+[src/models/File.ts:63](https://github.com/Nitya-Pasrija/talawa-api/blob/faae1c9/src/models/File.ts#L63)
