@@ -6,8 +6,8 @@
 
 ### Interfaces
 
-- [Interface\_Event](../interfaces/models_Event.Interface_Event.md)
-- [Interface\_UserAttende](../interfaces/models_Event.Interface_UserAttende.md)
+- [InterfaceEvent](../interfaces/models_Event.InterfaceEvent.md)
+- [InterfaceUserAttende](../interfaces/models_Event.InterfaceUserAttende.md)
 
 ### Variables
 
@@ -17,8 +17,8 @@
 
 ### Event
 
-• `Const` **Event**: `Model`<[`Interface_Event`](../interfaces/models_Event.Interface_Event.md), {}, {}\>
+• `Const` **Event**: `Model`<[`InterfaceEvent`](../interfaces/models_Event.InterfaceEvent.md), {}, {}\>
 
 #### Defined in
 
-src/models/Event.ts:202
+[src/models/Event.ts:204](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/models/Event.ts#L204)

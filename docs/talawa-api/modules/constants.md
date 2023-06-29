@@ -45,6 +45,7 @@
 - [SAME\_FILE\_ERROR](constants.md#same_file_error)
 - [SMTP\_OPTIONS](constants.md#smtp_options)
 - [STATUS\_ACTIVE](constants.md#status_active)
+- [SUPERADMIN\_CANT\_CHANGE\_OWN\_ROLE](constants.md#superadmin_cant_change_own_role)
 - [TAG\_ALREADY\_EXISTS](constants.md#tag_already_exists)
 - [TAG\_NOT\_FOUND](constants.md#tag_not_found)
 - [TASK\_NOT\_FOUND\_ERROR](constants.md#task_not_found_error)
@@ -83,11 +84,11 @@
 
 ### ACCESS\_TOKEN\_SECRET
 
-• `Const` **ACCESS\_TOKEN\_SECRET**: `undefined` \| `string` = `process.env.ACCESS_TOKEN_SECRET`
+• `Const` **ACCESS\_TOKEN\_SECRET**: `undefined` \| `string` = `ENV.ACCESS_TOKEN_SECRET`
 
 #### Defined in
 
-src/constants.ts:299
+[src/constants.ts:313](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L313)
 
 ___
 
@@ -105,7 +106,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:148
+[src/constants.ts:156](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L156)
 
 ___
 
@@ -123,7 +124,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:154
+[src/constants.ts:162](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L162)
 
 ___
 
@@ -133,7 +134,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:297
+[src/constants.ts:311](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L311)
 
 ___
 
@@ -152,7 +153,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:1
+[src/constants.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L9)
 
 ___
 
@@ -171,7 +172,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:7
+[src/constants.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L15)
 
 ___
 
@@ -190,7 +191,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:290
+[src/constants.ts:304](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L304)
 
 ___
 
@@ -200,7 +201,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:13
+[src/constants.ts:21](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L21)
 
 ___
 
@@ -219,7 +220,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:14
+[src/constants.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L22)
 
 ___
 
@@ -238,7 +239,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:20
+[src/constants.ts:28](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L28)
 
 ___
 
@@ -256,7 +257,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:187
+[src/constants.ts:195](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L195)
 
 ___
 
@@ -274,7 +275,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:93
+[src/constants.ts:101](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L101)
 
 ___
 
@@ -293,7 +294,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:272
+[src/constants.ts:286](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L286)
 
 ___
 
@@ -311,7 +312,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:81
+[src/constants.ts:89](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L89)
 
 ___
 
@@ -321,7 +322,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:26
+[src/constants.ts:34](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L34)
 
 ___
 
@@ -340,7 +341,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:278
+[src/constants.ts:292](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L292)
 
 ___
 
@@ -358,7 +359,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:180
+[src/constants.ts:188](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L188)
 
 ___
 
@@ -368,7 +369,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:28
+[src/constants.ts:36](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L36)
 
 ___
 
@@ -378,7 +379,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:335
+[src/constants.ts:349](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L349)
 
 ___
 
@@ -396,27 +397,27 @@ ___
 
 #### Defined in
 
-src/constants.ts:105
+[src/constants.ts:113](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L113)
 
 ___
 
 ### MAIL\_PASSWORD
 
-• `Const` **MAIL\_PASSWORD**: `undefined` \| `string` = `process.env.MAIL_PASSWORD`
+• `Const` **MAIL\_PASSWORD**: `undefined` \| `string` = `ENV.MAIL_PASSWORD`
 
 #### Defined in
 
-src/constants.ts:309
+[src/constants.ts:323](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L323)
 
 ___
 
 ### MAIL\_USERNAME
 
-• `Const` **MAIL\_USERNAME**: `undefined` \| `string` = `process.env.MAIL_USERNAME`
+• `Const` **MAIL\_USERNAME**: `undefined` \| `string` = `ENV.MAIL_USERNAME`
 
 #### Defined in
 
-src/constants.ts:307
+[src/constants.ts:321](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L321)
 
 ___
 
@@ -426,7 +427,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:41
+[src/constants.ts:49](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L49)
 
 ___
 
@@ -445,7 +446,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:35
+[src/constants.ts:43](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L43)
 
 ___
 
@@ -464,17 +465,17 @@ ___
 
 #### Defined in
 
-src/constants.ts:29
+[src/constants.ts:37](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L37)
 
 ___
 
 ### MONGO\_DB\_URL
 
-• `Const` **MONGO\_DB\_URL**: `undefined` \| `string` = `process.env.MONGO_DB_URL`
+• `Const` **MONGO\_DB\_URL**: `undefined` \| `string` = `ENV.MONGO_DB_URL`
 
 #### Defined in
 
-src/constants.ts:303
+[src/constants.ts:317](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L317)
 
 ___
 
@@ -492,7 +493,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:193
+[src/constants.ts:201](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L201)
 
 ___
 
@@ -511,7 +512,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:62
+[src/constants.ts:70](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L70)
 
 ___
 
@@ -530,7 +531,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:44
+[src/constants.ts:52](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L52)
 
 ___
 
@@ -549,7 +550,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:50
+[src/constants.ts:58](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L58)
 
 ___
 
@@ -568,7 +569,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:56
+[src/constants.ts:64](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L64)
 
 ___
 
@@ -587,27 +588,27 @@ ___
 
 #### Defined in
 
-src/constants.ts:68
+[src/constants.ts:76](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L76)
 
 ___
 
 ### RECAPTCHA\_SECRET\_KEY
 
-• `Const` **RECAPTCHA\_SECRET\_KEY**: `undefined` \| `string` = `process.env.RECAPTCHA_SECRET_KEY`
+• `Const` **RECAPTCHA\_SECRET\_KEY**: `undefined` \| `string` = `ENV.RECAPTCHA_SECRET_KEY`
 
 #### Defined in
 
-src/constants.ts:305
+[src/constants.ts:319](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L319)
 
 ___
 
 ### REFRESH\_TOKEN\_SECRET
 
-• `Const` **REFRESH\_TOKEN\_SECRET**: `undefined` \| `string` = `process.env.REFRESH_TOKEN_SECRET`
+• `Const` **REFRESH\_TOKEN\_SECRET**: `undefined` \| `string` = `ENV.REFRESH_TOKEN_SECRET`
 
 #### Defined in
 
-src/constants.ts:301
+[src/constants.ts:315](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L315)
 
 ___
 
@@ -625,7 +626,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:111
+[src/constants.ts:119](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L119)
 
 ___
 
@@ -644,7 +645,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:74
+[src/constants.ts:82](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L82)
 
 ___
 
@@ -662,7 +663,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:87
+[src/constants.ts:95](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L95)
 
 ___
 
@@ -683,7 +684,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:338
+[src/constants.ts:352](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L352)
 
 ___
 
@@ -693,7 +694,25 @@ ___
 
 #### Defined in
 
-src/constants.ts:235
+[src/constants.ts:243](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L243)
+
+___
+
+### SUPERADMIN\_CANT\_CHANGE\_OWN\_ROLE
+
+• `Const` **SUPERADMIN\_CANT\_CHANGE\_OWN\_ROLE**: `Object`
+
+#### Type declaration
+
+| Name | Type |
+| :------ | :------ |
+| `CODE` | `string` |
+| `MESSAGE` | `string` |
+| `PARAM` | `string` |
+
+#### Defined in
+
+[src/constants.ts:274](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L274)
 
 ___
 
@@ -711,7 +730,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:200
+[src/constants.ts:208](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L208)
 
 ___
 
@@ -729,7 +748,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:167
+[src/constants.ts:175](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L175)
 
 ___
 
@@ -748,7 +767,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:228
+[src/constants.ts:236](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L236)
 
 ___
 
@@ -767,7 +786,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:266
+[src/constants.ts:280](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L280)
 
 ___
 
@@ -785,7 +804,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:99
+[src/constants.ts:107](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L107)
 
 ___
 
@@ -795,7 +814,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:237
+[src/constants.ts:245](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L245)
 
 ___
 
@@ -813,7 +832,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:214
+[src/constants.ts:222](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L222)
 
 ___
 
@@ -832,7 +851,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:242
+[src/constants.ts:250](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L250)
 
 ___
 
@@ -851,7 +870,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:248
+[src/constants.ts:256](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L256)
 
 ___
 
@@ -869,7 +888,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:135
+[src/constants.ts:143](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L143)
 
 ___
 
@@ -887,7 +906,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:173
+[src/constants.ts:181](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L181)
 
 ___
 
@@ -905,7 +924,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:221
+[src/constants.ts:229](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L229)
 
 ___
 
@@ -923,7 +942,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:123
+[src/constants.ts:131](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L131)
 
 ___
 
@@ -942,7 +961,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:254
+[src/constants.ts:262](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L262)
 
 ___
 
@@ -960,7 +979,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:117
+[src/constants.ts:125](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L125)
 
 ___
 
@@ -978,7 +997,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:207
+[src/constants.ts:215](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L215)
 
 ___
 
@@ -996,7 +1015,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:160
+[src/constants.ts:168](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L168)
 
 ___
 
@@ -1015,7 +1034,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:260
+[src/constants.ts:268](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L268)
 
 ___
 
@@ -1033,7 +1052,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:129
+[src/constants.ts:137](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L137)
 
 ___
 
@@ -1052,7 +1071,7 @@ ___
 
 #### Defined in
 
-src/constants.ts:284
+[src/constants.ts:298](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L298)
 
 ___
 
@@ -1070,124 +1089,124 @@ ___
 
 #### Defined in
 
-src/constants.ts:141
+[src/constants.ts:149](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L149)
 
 ___
 
 ### apiKey
 
-• `Const` **apiKey**: `undefined` \| `string` = `process.env.apiKey`
+• `Const` **apiKey**: `undefined` \| `string` = `ENV.apiKey`
 
 #### Defined in
 
-src/constants.ts:311
+[src/constants.ts:325](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L325)
 
 ___
 
 ### appId
 
-• `Const` **appId**: `undefined` \| `string` = `process.env.appId`
+• `Const` **appId**: `undefined` \| `string` = `ENV.appId`
 
 #### Defined in
 
-src/constants.ts:313
+[src/constants.ts:327](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L327)
 
 ___
 
 ### iOSapiKey
 
-• `Const` **iOSapiKey**: `undefined` \| `string` = `process.env.iOSapiKey`
+• `Const` **iOSapiKey**: `undefined` \| `string` = `ENV.iOSapiKey`
 
 #### Defined in
 
-src/constants.ts:321
+[src/constants.ts:335](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L335)
 
 ___
 
 ### iOSappId
 
-• `Const` **iOSappId**: `undefined` \| `string` = `process.env.iOSappId`
+• `Const` **iOSappId**: `undefined` \| `string` = `ENV.iOSappId`
 
 #### Defined in
 
-src/constants.ts:323
+[src/constants.ts:337](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L337)
 
 ___
 
 ### iOSmessagingSenderId
 
-• `Const` **iOSmessagingSenderId**: `undefined` \| `string` = `process.env.iOSmessagingSenderId`
+• `Const` **iOSmessagingSenderId**: `undefined` \| `string` = `ENV.iOSmessagingSenderId`
 
 #### Defined in
 
-src/constants.ts:325
+[src/constants.ts:339](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L339)
 
 ___
 
 ### iOSprojectId
 
-• `Const` **iOSprojectId**: `undefined` \| `string` = `process.env.iOSprojectId`
+• `Const` **iOSprojectId**: `undefined` \| `string` = `ENV.iOSprojectId`
 
 #### Defined in
 
-src/constants.ts:327
+[src/constants.ts:341](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L341)
 
 ___
 
 ### iOSstorageBucket
 
-• `Const` **iOSstorageBucket**: `undefined` \| `string` = `process.env.iOSstorageBucket`
+• `Const` **iOSstorageBucket**: `undefined` \| `string` = `ENV.iOSstorageBucket`
 
 #### Defined in
 
-src/constants.ts:329
+[src/constants.ts:343](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L343)
 
 ___
 
 ### iosBundleId
 
-• `Const` **iosBundleId**: `undefined` \| `string` = `process.env.iosBundleId`
+• `Const` **iosBundleId**: `undefined` \| `string` = `ENV.iosBundleId`
 
 #### Defined in
 
-src/constants.ts:333
+[src/constants.ts:347](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L347)
 
 ___
 
 ### iosClientId
 
-• `Const` **iosClientId**: `undefined` \| `string` = `process.env.iosClientId`
+• `Const` **iosClientId**: `undefined` \| `string` = `ENV.iosClientId`
 
 #### Defined in
 
-src/constants.ts:331
+[src/constants.ts:345](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L345)
 
 ___
 
 ### messagingSenderId
 
-• `Const` **messagingSenderId**: `undefined` \| `string` = `process.env.messagingSenderId`
+• `Const` **messagingSenderId**: `undefined` \| `string` = `ENV.messagingSenderId`
 
 #### Defined in
 
-src/constants.ts:315
+[src/constants.ts:329](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L329)
 
 ___
 
 ### projectId
 
-• `Const` **projectId**: `undefined` \| `string` = `process.env.projectId`
+• `Const` **projectId**: `undefined` \| `string` = `ENV.projectId`
 
 #### Defined in
 
-src/constants.ts:317
+[src/constants.ts:331](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L331)
 
 ___
 
 ### storageBucket
 
-• `Const` **storageBucket**: `undefined` \| `string` = `process.env.storageBucket`
+• `Const` **storageBucket**: `undefined` \| `string` = `ENV.storageBucket`
 
 #### Defined in
 
-src/constants.ts:319
+[src/constants.ts:333](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/constants.ts#L333)

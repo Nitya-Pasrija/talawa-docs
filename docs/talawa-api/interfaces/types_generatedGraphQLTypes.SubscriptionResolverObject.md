@@ -28,7 +28,7 @@
 
 #### Defined in
 
-src/types/generatedGraphQLTypes.ts:1636
+[src/types/generatedGraphQLTypes.ts:1603](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/types/generatedGraphQLTypes.ts#L1603)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-src/types/generatedGraphQLTypes.ts:1635
+[src/types/generatedGraphQLTypes.ts:1602](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/types/generatedGraphQLTypes.ts#L1602)

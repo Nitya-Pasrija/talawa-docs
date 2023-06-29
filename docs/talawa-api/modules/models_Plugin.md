@@ -6,7 +6,7 @@
 
 ### Interfaces
 
-- [Interface\_Plugin](../interfaces/models_Plugin.Interface_Plugin.md)
+- [InterfacePlugin](../interfaces/models_Plugin.InterfacePlugin.md)
 
 ### Variables
 
@@ -16,8 +16,8 @@
 
 ### Plugin
 
-• `Const` **Plugin**: `Model`<[`Interface_Plugin`](../interfaces/models_Plugin.Interface_Plugin.md), {}, {}\>
+• `Const` **Plugin**: `Model`<[`InterfacePlugin`](../interfaces/models_Plugin.InterfacePlugin.md), {}, {}\>
 
 #### Defined in
 
-src/models/Plugin.ts:52
+[src/models/Plugin.ts:54](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/models/Plugin.ts#L54)

@@ -6,7 +6,7 @@
 
 ### Interfaces
 
-- [Interface\_User](../interfaces/models_User.Interface_User.md)
+- [InterfaceUser](../interfaces/models_User.InterfaceUser.md)
 
 ### Variables
 
@@ -16,8 +16,8 @@
 
 ### User
 
-• `Const` **User**: `PaginateModel`<[`Interface_User`](../interfaces/models_User.Interface_User.md), {}, {}\>
+• `Const` **User**: `PaginateModel`<[`InterfaceUser`](../interfaces/models_User.InterfaceUser.md), {}, {}\>
 
 #### Defined in
 
-src/models/User.ts:193
+[src/models/User.ts:182](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/models/User.ts#L182)

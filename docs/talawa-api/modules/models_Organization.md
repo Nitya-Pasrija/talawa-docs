@@ -6,7 +6,7 @@
 
 ### Interfaces
 
-- [Interface\_Organization](../interfaces/models_Organization.Interface_Organization.md)
+- [InterfaceOrganization](../interfaces/models_Organization.InterfaceOrganization.md)
 
 ### Variables
 
@@ -16,8 +16,8 @@
 
 ### Organization
 
-• `Const` **Organization**: `Model`<[`Interface_Organization`](../interfaces/models_Organization.Interface_Organization.md), {}, {}\>
+• `Const` **Organization**: `Model`<[`InterfaceOrganization`](../interfaces/models_Organization.InterfaceOrganization.md), {}, {}\>
 
 #### Defined in
 
-src/models/Organization.ts:140
+[src/models/Organization.ts:139](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/models/Organization.ts#L139)

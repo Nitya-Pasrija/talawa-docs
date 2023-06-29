@@ -58,7 +58,7 @@ This class is responsible for finding the application errors. It adds those erro
 
 | Name | Type | Default value |
 | :------ | :------ | :------ |
-| `errors` | [`Interface_Error`](../interfaces/libraries_errors_applicationError.Interface_Error.md)[] | `undefined` |
+| `errors` | [`InterfaceError`](../interfaces/libraries_errors_applicationError.InterfaceError.md)[] | `undefined` |
 | `httpCode` | `number` | `422` |
 | `message` | `string` | `"Error"` |
 
@@ -68,17 +68,17 @@ Error.constructor
 
 #### Defined in
 
-src/libraries/errors/applicationError.ts:14
+[src/libraries/errors/applicationError.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/errors/applicationError.ts#L14)
 
 ## Properties
 
 ### errors
 
-• **errors**: [`Interface_Error`](../interfaces/libraries_errors_applicationError.Interface_Error.md)[]
+• **errors**: [`InterfaceError`](../interfaces/libraries_errors_applicationError.InterfaceError.md)[]
 
 #### Defined in
 
-src/libraries/errors/applicationError.ts:11
+[src/libraries/errors/applicationError.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/errors/applicationError.ts#L11)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-src/libraries/errors/applicationError.ts:12
+[src/libraries/errors/applicationError.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/errors/applicationError.ts#L12)
 
 ___
 

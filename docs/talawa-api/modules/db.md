@@ -21,7 +21,7 @@
 
 #### Defined in
 
-src/db.ts:5
+[src/db.ts:5](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/db.ts#L5)
 
 ___
 
@@ -35,4 +35,4 @@ ___
 
 #### Defined in
 
-src/db.ts:42
+[src/db.ts:47](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/db.ts#L47)

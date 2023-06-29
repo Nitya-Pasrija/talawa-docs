@@ -158,7 +158,7 @@ node_modules/graphql-tools/dist/schemaVisitor.d.ts:34
 | `argument` | `GraphQLArgument` |
 | `details` | `Object` |
 | `details.field` | `GraphQLField`<`any`, `any`, { `[key: string]`: `any`;  }\> |
-| `details.objectType` | `GraphQLObjectType`<`any`, `any`\> \| `GraphQLInterfaceType` |
+| `details.objectType` | `GraphQLInterfaceType` \| `GraphQLObjectType`<`any`, `any`\> |
 
 #### Returns
 
@@ -226,7 +226,7 @@ ___
 
 ### visitFieldDefinition
 
-▸ **visitFieldDefinition**(`field`, `_details`): ``null`` \| `void` \| `GraphQLField`<`any`, `any`, { `[key: string]`: `any`;  }\>
+▸ **visitFieldDefinition**(`field`): ``null`` \| `void` \| `GraphQLField`<`any`, `any`, { `[key: string]`: `any`;  }\>
 
 This function authenticates the role of the user and if not validated, then throws an Unauthenticated Error.
 
@@ -235,8 +235,6 @@ This function authenticates the role of the user and if not validated, then thro
 | Name | Type | Description |
 | :------ | :------ | :------ |
 | `field` | `GraphQLField`<`any`, `any`, { `[key: string]`: `any`;  }\> | GraphQLField |
-| `_details` | `Object` | Object |
-| `_details.objectType` | `GraphQLObjectType`<`any`, `any`\> \| `GraphQLInterfaceType` | - |
 
 #### Returns
 
@@ -250,7 +248,7 @@ SchemaDirectiveVisitor.visitFieldDefinition
 
 #### Defined in
 
-src/directives/roleDirective.ts:19
+[src/directives/roleDirective.ts:15](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/directives/roleDirective.ts#L15)
 
 ___
 

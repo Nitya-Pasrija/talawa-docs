@@ -27,7 +27,7 @@
 
 #### Defined in
 
-src/config/firebaseConfig.ts:16
+[src/config/firebaseConfig.ts:16](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/config/firebaseConfig.ts#L16)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-src/config/firebaseConfig.ts:24
+[src/config/firebaseConfig.ts:24](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/config/firebaseConfig.ts#L24)

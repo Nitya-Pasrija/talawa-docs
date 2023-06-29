@@ -6,7 +6,7 @@
 
 ### Interfaces
 
-- [Interface\_MembershipRequest](../interfaces/models_MembershipRequest.Interface_MembershipRequest.md)
+- [InterfaceMembershipRequest](../interfaces/models_MembershipRequest.InterfaceMembershipRequest.md)
 
 ### Variables
 
@@ -16,8 +16,8 @@
 
 ### MembershipRequest
 
-• `Const` **MembershipRequest**: `Model`<[`Interface_MembershipRequest`](../interfaces/models_MembershipRequest.Interface_MembershipRequest.md), {}, {}\>
+• `Const` **MembershipRequest**: `Model`<[`InterfaceMembershipRequest`](../interfaces/models_MembershipRequest.InterfaceMembershipRequest.md), {}, {}\>
 
 #### Defined in
 
-src/models/MembershipRequest.ts:44
+[src/models/MembershipRequest.ts:45](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/models/MembershipRequest.ts#L45)

@@ -17,7 +17,7 @@
 
 #### Defined in
 
-src/libraries/logger.ts:42
+[src/libraries/logger.ts:42](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/logger.ts#L42)
 
 ___
 
@@ -29,8 +29,8 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `write` | (`message`: `any`) => `void` |
+| `write` | (`message`: ``null`` \| `string`) => `void` |
 
 #### Defined in
 
-src/libraries/logger.ts:55
+[src/libraries/logger.ts:55](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/logger.ts#L55)

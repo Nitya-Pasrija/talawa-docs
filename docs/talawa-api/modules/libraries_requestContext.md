@@ -26,33 +26,13 @@
 
 #### Defined in
 
-src/libraries/requestContext.ts:8
+[src/libraries/requestContext.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/requestContext.ts#L8)
 
 ## Functions
 
 ### getRequestContextValue
 
-▸ **getRequestContextValue**(`key`): `any`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `key` | `string` |
-
-#### Returns
-
-`any`
-
-#### Defined in
-
-src/libraries/requestContext.ts:18
-
-___
-
-### init
-
-▸ **init**<`T`\>(`options?`): `Promise`<`T`\>
+▸ **getRequestContextValue**<`T`\>(`key`): `T`
 
 #### Type parameters
 
@@ -64,15 +44,41 @@ ___
 
 | Name | Type |
 | :------ | :------ |
-| `options` | `Interface_InitOptions`<`T`\> |
+| `key` | `string` |
 
 #### Returns
 
-`Promise`<`T`\>
+`T`
 
 #### Defined in
 
-src/libraries/requestContext.ts:44
+[src/libraries/requestContext.ts:18](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/requestContext.ts#L18)
+
+___
+
+### init
+
+▸ **init**<`T`\>(`options?`): `T`
+
+#### Type parameters
+
+| Name |
+| :------ |
+| `T` |
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `options` | `InterfaceInitOptions`<`T`\> |
+
+#### Returns
+
+`T`
+
+#### Defined in
+
+[src/libraries/requestContext.ts:44](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/requestContext.ts#L44)
 
 ___
 
@@ -100,7 +106,7 @@ ___
 
 #### Defined in
 
-src/libraries/requestContext.ts:27
+[src/libraries/requestContext.ts:27](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/requestContext.ts#L27)
 
 ___
 
@@ -120,7 +126,7 @@ ___
 
 #### Defined in
 
-src/libraries/requestContext.ts:22
+[src/libraries/requestContext.ts:22](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/requestContext.ts#L22)
 
 ___
 
@@ -147,7 +153,7 @@ ___
 
 #### Defined in
 
-src/libraries/requestContext.ts:14
+[src/libraries/requestContext.ts:14](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/requestContext.ts#L14)
 
 ___
 
@@ -167,7 +173,7 @@ ___
 
 #### Defined in
 
-src/libraries/requestContext.ts:60
+[src/libraries/requestContext.ts:61](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/requestContext.ts#L61)
 
 ___
 
@@ -187,4 +193,4 @@ ___
 
 #### Defined in
 
-src/libraries/requestContext.ts:68
+[src/libraries/requestContext.ts:70](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/requestContext.ts#L70)

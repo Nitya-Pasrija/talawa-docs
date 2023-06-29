@@ -6,7 +6,7 @@
 
 ### Interfaces
 
-- [Interface\_DirectChatMessage](../interfaces/models_DirectChatMessage.Interface_DirectChatMessage.md)
+- [InterfaceDirectChatMessage](../interfaces/models_DirectChatMessage.InterfaceDirectChatMessage.md)
 
 ### Variables
 
@@ -16,8 +16,8 @@
 
 ### DirectChatMessage
 
-• `Const` **DirectChatMessage**: `Model`<[`Interface_DirectChatMessage`](../interfaces/models_DirectChatMessage.Interface_DirectChatMessage.md), {}, {}\>
+• `Const` **DirectChatMessage**: `Model`<[`InterfaceDirectChatMessage`](../interfaces/models_DirectChatMessage.InterfaceDirectChatMessage.md), {}, {}\>
 
 #### Defined in
 
-src/models/DirectChatMessage.ts:64
+[src/models/DirectChatMessage.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/models/DirectChatMessage.ts#L65)

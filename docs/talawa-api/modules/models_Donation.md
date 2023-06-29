@@ -6,7 +6,7 @@
 
 ### Interfaces
 
-- [Interface\_Donation](../interfaces/models_Donation.Interface_Donation.md)
+- [InterfaceDonation](../interfaces/models_Donation.InterfaceDonation.md)
 
 ### Variables
 
@@ -16,8 +16,8 @@
 
 ### Donation
 
-• `Const` **Donation**: `Model`<[`Interface_Donation`](../interfaces/models_Donation.Interface_Donation.md), {}, {}\>
+• `Const` **Donation**: `Model`<[`InterfaceDonation`](../interfaces/models_Donation.InterfaceDonation.md), {}, {}\>
 
 #### Defined in
 
-src/models/Donation.ts:53
+[src/models/Donation.ts:54](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/models/Donation.ts#L54)

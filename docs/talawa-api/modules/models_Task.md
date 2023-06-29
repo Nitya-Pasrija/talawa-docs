@@ -6,7 +6,7 @@
 
 ### Interfaces
 
-- [Interface\_Task](../interfaces/models_Task.Interface_Task.md)
+- [InterfaceTask](../interfaces/models_Task.InterfaceTask.md)
 
 ### Variables
 
@@ -16,8 +16,8 @@
 
 ### Task
 
-• `Const` **Task**: `Model`<[`Interface_Task`](../interfaces/models_Task.Interface_Task.md), {}, {}\>
+• `Const` **Task**: `Model`<[`InterfaceTask`](../interfaces/models_Task.InterfaceTask.md), {}, {}\>
 
 #### Defined in
 
-src/models/Task.ts:63
+[src/models/Task.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/models/Task.ts#L65)

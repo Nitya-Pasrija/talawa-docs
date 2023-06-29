@@ -6,7 +6,7 @@
 
 ### Interfaces
 
-- [Interface\_EventProject](../interfaces/models_EventProject.Interface_EventProject.md)
+- [InterfaceEventProject](../interfaces/models_EventProject.InterfaceEventProject.md)
 
 ### Variables
 
@@ -16,8 +16,8 @@
 
 ### EventProject
 
-• `Const` **EventProject**: `Model`<[`Interface_EventProject`](../interfaces/models_EventProject.Interface_EventProject.md), {}, {}\>
+• `Const` **EventProject**: `Model`<[`InterfaceEventProject`](../interfaces/models_EventProject.InterfaceEventProject.md), {}, {}\>
 
 #### Defined in
 
-src/models/EventProject.ts:69
+[src/models/EventProject.ts:70](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/models/EventProject.ts#L70)

@@ -16,4 +16,4 @@
 
 #### Defined in
 
-src/resolvers/index.ts:25
+[src/resolvers/index.ts:27](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/resolvers/index.ts#L27)

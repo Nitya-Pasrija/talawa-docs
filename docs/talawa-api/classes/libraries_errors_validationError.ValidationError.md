@@ -42,7 +42,7 @@ This class detects validation errors and sends those errors to the superclass Ap
 
 | Name | Type | Default value |
 | :------ | :------ | :------ |
-| `errors` | [`Interface_Error`](../interfaces/libraries_errors_applicationError.Interface_Error.md)[] | `[]` |
+| `errors` | [`InterfaceError`](../interfaces/libraries_errors_applicationError.InterfaceError.md)[] | `[]` |
 | `message` | `string` | `"Validation error"` |
 
 #### Overrides
@@ -51,13 +51,13 @@ This class detects validation errors and sends those errors to the superclass Ap
 
 #### Defined in
 
-src/libraries/errors/validationError.ts:6
+[src/libraries/errors/validationError.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/errors/validationError.ts#L7)
 
 ## Properties
 
 ### errors
 
-• **errors**: [`Interface_Error`](../interfaces/libraries_errors_applicationError.Interface_Error.md)[]
+• **errors**: [`InterfaceError`](../interfaces/libraries_errors_applicationError.InterfaceError.md)[]
 
 #### Inherited from
 
@@ -65,7 +65,7 @@ src/libraries/errors/validationError.ts:6
 
 #### Defined in
 
-src/libraries/errors/applicationError.ts:11
+[src/libraries/errors/applicationError.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/errors/applicationError.ts#L11)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-src/libraries/errors/applicationError.ts:12
+[src/libraries/errors/applicationError.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/80ec51a/src/libraries/errors/applicationError.ts#L12)
 
 ___
 
