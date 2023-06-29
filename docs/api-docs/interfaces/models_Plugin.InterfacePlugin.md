@@ -1,0 +1,78 @@
+[talawa-api](../README.md) / [Exports](../modules.md) / [models/Plugin](../modules/models_Plugin.md) / InterfacePlugin
+
+# Interface: InterfacePlugin
+
+[models/Plugin](../modules/models_Plugin.md).InterfacePlugin
+
+This is an interface that represents a database(MongoDB) document for Plugin.
+
+## Table of contents
+
+### Properties
+
+- [\_id](models_Plugin.InterfacePlugin.md#_id)
+- [installedOrgs](models_Plugin.InterfacePlugin.md#installedorgs)
+- [pluginCreatedBy](models_Plugin.InterfacePlugin.md#plugincreatedby)
+- [pluginDesc](models_Plugin.InterfacePlugin.md#plugindesc)
+- [pluginInstallStatus](models_Plugin.InterfacePlugin.md#plugininstallstatus)
+- [pluginName](models_Plugin.InterfacePlugin.md#pluginname)
+
+## Properties
+
+### \_id
+
+• **\_id**: `ObjectId`
+
+#### Defined in
+
+[src/models/Plugin.ts:7](https://github.com/Nitya-Pasrija/talawa-api/blob/d3a6af9/src/models/Plugin.ts#L7)
+
+___
+
+### installedOrgs
+
+• **installedOrgs**: `ObjectId`[]
+
+#### Defined in
+
+[src/models/Plugin.ts:12](https://github.com/Nitya-Pasrija/talawa-api/blob/d3a6af9/src/models/Plugin.ts#L12)
+
+___
+
+### pluginCreatedBy
+
+• **pluginCreatedBy**: `string`
+
+#### Defined in
+
+[src/models/Plugin.ts:9](https://github.com/Nitya-Pasrija/talawa-api/blob/d3a6af9/src/models/Plugin.ts#L9)
+
+___
+
+### pluginDesc
+
+• **pluginDesc**: `string`
+
+#### Defined in
+
+[src/models/Plugin.ts:10](https://github.com/Nitya-Pasrija/talawa-api/blob/d3a6af9/src/models/Plugin.ts#L10)
+
+___
+
+### pluginInstallStatus
+
+• **pluginInstallStatus**: `boolean`
+
+#### Defined in
+
+[src/models/Plugin.ts:11](https://github.com/Nitya-Pasrija/talawa-api/blob/d3a6af9/src/models/Plugin.ts#L11)
+
+___
+
+### pluginName
+
+• **pluginName**: `string`
+
+#### Defined in
+
+[src/models/Plugin.ts:8](https://github.com/Nitya-Pasrija/talawa-api/blob/d3a6af9/src/models/Plugin.ts#L8)

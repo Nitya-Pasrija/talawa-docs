@@ -1,0 +1,23 @@
+[talawa-api](../README.md) / [Exports](../modules.md) / models/DirectChatMessage
+
+# Module: models/DirectChatMessage
+
+## Table of contents
+
+### Interfaces
+
+- [InterfaceDirectChatMessage](../interfaces/models_DirectChatMessage.InterfaceDirectChatMessage.md)
+
+### Variables
+
+- [DirectChatMessage](models_DirectChatMessage.md#directchatmessage)
+
+## Variables
+
+### DirectChatMessage
+
+• `Const` **DirectChatMessage**: `Model`<[`InterfaceDirectChatMessage`](../interfaces/models_DirectChatMessage.InterfaceDirectChatMessage.md), {}, {}\>
+
+#### Defined in
+
+[src/models/DirectChatMessage.ts:65](https://github.com/Nitya-Pasrija/talawa-api/blob/d3a6af9/src/models/DirectChatMessage.ts#L65)
