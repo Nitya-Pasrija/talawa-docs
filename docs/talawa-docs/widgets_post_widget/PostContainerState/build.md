@@ -68,20 +68,7 @@ helps avoid a category of bugs related to closures implicitly capturing
 <a href="https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html">StatefulWidget</a>, that closure would implicitly capture <code>this</code>, which is
 the current widget instance, and would have the (immutable) fields of that
 instance in scope:</p>
-<pre class="language-dart"><code class="language-dart">// (this is not valid Flutter code)
-class MyButton extends StatefulWidgetX {
-  MyButton({super.key, required this.color});
 
-  final Color color;
-
-  @override
-  Widget build(BuildContext context, State state) {
-    return SpecialWidget(
-      handler: () { print('color: $color'); },
-    );
-  }
-}
-</code></pre>
 <p>For example, suppose the parent builds <code>MyButton</code> with <code>color</code> being blue,
 the <code>$color</code> in the print function refers to blue, as expected. Now,
 suppose the parent rebuilds <code>MyButton</code> with green. The closure created by
@@ -92,23 +79,7 @@ information.</p>
 <p>In contrast, with the <a href="../../widgets_post_widget/PostContainerState/build.md">build</a> function on the <a href="https://api.flutter.dev/flutter/widgets/State-class.html">State</a> object, closures
 created during <a href="../../widgets_post_widget/PostContainerState/build.md">build</a> implicitly capture the <a href="https://api.flutter.dev/flutter/widgets/State-class.html">State</a> instance instead of
 the widget instance:</p>
-<pre class="language-dart"><code class="language-dart">class MyButton extends StatefulWidget {
-  const MyButton({super.key, this.color = Colors.teal});
 
-  final Color color;
-  // ...
-}
-
-class MyButtonState extends State&lt;MyButton&gt; {
-  // ...
-  @override
-  Widget build(BuildContext context) {
-    return SpecialWidget(
-      handler: () { print('color: ${widget.color}'); },
-    );
-  }
-}
-</code></pre>
 <p>Now when the parent rebuilds <code>MyButton</code> with green, the closure created by
 the first build still refers to <a href="https://api.flutter.dev/flutter/widgets/State-class.html">State</a> object, which is preserved across
 rebuilds, but the framework has updated that <a href="https://api.flutter.dev/flutter/widgets/State-class.html">State</a> object's <a href="https://api.flutter.dev/flutter/widgets/State/widget.html">widget</a>
