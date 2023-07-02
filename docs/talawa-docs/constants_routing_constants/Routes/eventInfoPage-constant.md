@@ -1,0 +1,32 @@
+
+
+
+# eventInfoPage constant
+
+
+
+
+
+
+
+[String](https://api.flutter.dev/flutter/dart-core/String-class.html) const eventInfoPage
+  
+
+
+
+
+
+
+
+## Implementation
+
+```dart
+static const String eventInfoPage = "/eventInfo";
+```
+
+
+
+
+
+
+
